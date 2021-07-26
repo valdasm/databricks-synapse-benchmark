@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  benchmarkdbt:
+    image: benchmarkdbt
+    build:
+        context: .
+        dockerfile: ./Dockerfile
+    tty: true
+    volumes:
+    # Mounts the project folder to '/workspace'. The target path inside the container
+    # should match what your application expects. In this case, the compose file is
+    # in a sub-folder, so you will mount '..'. You would then reference this path as the
+    # 'workspaceFolder' in '.devcontainer/devcontainer.json' so VS Code starts here.
+        - .:/workspace:cached
+    secrets:
+        - DBR_TOKEN
+    command: /bin/sh -c "while sleep 1000; do :; done"
+secrets:
+    DBR_TOKEN:
+        file: .devcontainer/dbr_token.txt
+

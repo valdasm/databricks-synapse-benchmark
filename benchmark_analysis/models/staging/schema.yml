@@ -1,0 +1,12 @@
+
+version: 2
+
+models:
+    - name: stg_jmeter_logs
+      description: "Aggregated all test runs"
+      columns:
+          - name: timeStamp
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null

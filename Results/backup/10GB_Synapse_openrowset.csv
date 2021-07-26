@@ -1,0 +1,28 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626960847300,2492,warmup 1,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,8021,0,1,1,null,2490,0,1367
+1626960849793,4512,warmup 2,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,14158,0,1,1,null,4507,0,0
+1626960854305,38519,warmup 3,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,16105,0,1,1,null,38516,0,0
+1626960892824,27850,warmup 4,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,21761,0,1,1,null,27849,0,0
+1626960920674,922,warmup 5,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,11589,0,1,1,null,920,0,0
+1626960921596,917,warmup 6,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,4423,0,1,1,null,916,0,0
+1626960922514,1600,warmup 7,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,14174,0,1,1,null,1597,0,0
+1626960924114,659,warmup 8,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,14342,0,1,1,null,657,0,1
+1626960924773,433,warmup 9,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,2227,0,1,1,null,433,0,0
+1626960925207,280,warmup 10,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,356,0,1,1,null,280,0,0
+1626960925488,6866,warmup 11,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,2164,0,1,1,null,6866,0,0
+1626960932354,1807,warmup 12,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,28173,0,1,1,null,1146,0,0
+1626960934161,598,warmup 13,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,12664,0,1,1,null,597,0,0
+1626960934759,235,warmup 14,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,1642,0,1,1,null,235,0,0
+1626960934993,322,warmup 15,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,1095,0,1,1,null,322,0,0
+1626960935315,50792,warmup 16,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,12164,0,1,1,null,50767,0,0
+1626960986108,49546,warmup 17,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,14746,0,1,1,null,49506,0,0
+1626961035654,1746,warmup 18,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,27707,0,1,1,null,1744,0,0
+1626961037400,523,warmup 19,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,6163,0,1,1,null,523,0,0
+1626961037923,511,warmup 20,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,1399,0,1,1,null,510,0,0
+1626961038434,394,warmup 21,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,10339,0,1,1,null,376,0,0
+1626961038828,35846,warmup 22,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,14983,0,1,1,null,35846,0,0
+1626961074673,28995,warmup 23,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,21437,0,1,1,null,28993,0,0
+1626961103669,319,warmup 24,200,OK,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,true,,12861,0,1,1,null,317,0,0
+1626961103988,65724,SQL QUERY 1 ,S0001 245,com.microsoft.sqlserver.jdbc.SQLServerException: Conversion failed when converting the nvarchar value '__HIVE_DEFAULT_PARTITION__' to data type int.,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,false,,99,0,1,1,null,65723,0,0
+1626961169712,40038,SQL QUERY 2 ,S0001 245,com.microsoft.sqlserver.jdbc.SQLServerException: Conversion failed when converting the nvarchar value '__HIVE_DEFAULT_PARTITION__' to data type int.,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,false,,99,0,1,1,null,40038,0,0
+1626961209752,38605,SQL QUERY 3 ,S0001 245,com.microsoft.sqlserver.jdbc.SQLServerException: Conversion failed when converting the nvarchar value '__HIVE_DEFAULT_PARTITION__' to data type int.,Synapse Thread Group 10 GB Parquet OPENROWSET  1-1,text,false,,99,0,1,1,null,38605,0,0

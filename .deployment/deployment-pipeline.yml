@@ -1,0 +1,53 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger: none
+
+# schedules:
+#  - cron: 
+#    displayName: "Daily run"
+
+pool:
+  vmImage: 'Ubuntu-latest'
+
+stages:
+- stage: deploy_databases_dev
+  displayName: Deploy Databases to DEV
+  jobs:
+  - job: do_stuff
+    displayName: Do stuff
+    variables:
+    - group: dbt-demo-group
+    steps:
+    - template: templates/setup_dbt.yml  # Install and configure DBT
+    - script: |
+        dbt compile --target dev
+        dbt seed  --target dev
+        dbt test  --target dev
+        dbt run  --target dev
+        dbt docs generate  --target dev
+      displayName: 'Execute DBT'
+      env:
+        DBR_TOKEN: $(DBR_TOKEN)  
+- stage: deploy_databases_test
+  displayName: Deploy Databases to TEST
+  jobs:
+  - job: do_stuff
+    displayName: Do stuff
+    variables:
+    - group: dbt-demo-group
+    steps:
+    - template: templates/setup_dbt.yml  # Install and configure DBT
+    - script: |
+        dbt compile --target test
+        dbt seed  --target test
+        dbt test  --target test
+        dbt run  --target test
+        dbt docs generate  --target test
+      displayName: 'Execute DBT'
+      env:
+        DBR_TOKEN: $(DBR_TOKEN)  
+      
+ 

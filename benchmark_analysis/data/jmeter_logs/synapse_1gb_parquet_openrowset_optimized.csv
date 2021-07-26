@@ -1,0 +1,349 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626898204406,1621,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2946,0,1,1,null,1621,0,1109
+1626898206028,370,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14191,0,1,1,null,369,0,0
+1626898206398,555,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15537,0,1,1,null,553,0,0
+1626898206954,1638,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21132,0,1,1,null,1635,0,0
+1626898208592,717,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15031,0,1,1,null,716,0,0
+1626898209310,918,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5723,0,1,1,null,917,0,0
+1626898210228,357,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,19950,0,1,1,null,341,0,0
+1626898210585,281,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14527,0,1,1,null,279,0,0
+1626898210866,218,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2930,0,1,1,null,217,0,0
+1626898211084,207,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,356,0,1,1,null,207,0,1
+1626898211292,6887,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2063,0,1,1,null,6887,0,0
+1626898218179,553,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,50553,0,1,1,null,549,0,1
+1626898218732,233,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18156,0,1,1,null,230,0,0
+1626898218965,245,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4264,0,1,1,null,244,0,0
+1626898219210,340,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2142,0,1,1,null,340,0,0
+1626898219550,714,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11829,0,1,1,null,713,0,0
+1626898220265,2198,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,13981,0,1,1,null,2196,0,0
+1626898222463,230,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3981,0,1,1,null,229,0,1
+1626898222693,432,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9467,0,1,1,null,431,0,0
+1626898223125,241,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,920,0,1,1,null,241,0,0
+1626898223367,216,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8831,0,1,1,null,216,0,0
+1626898223583,673,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14464,0,1,1,null,671,0,0
+1626898224256,925,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20964,0,1,1,null,922,0,0
+1626898225181,216,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11523,0,1,1,null,215,0,0
+1626898225398,1724,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1714,0,1,1,null,1724,0,0
+1626898227122,3698,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,170623,0,1,1,null,3691,0,0
+1626898230819,1422,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1173,0,1,1,null,1422,0,0
+1626898232241,3788,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,201,0,1,1,null,3788,0,0
+1626898236029,2255,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6853,0,1,1,null,2255,0,0
+1626898238284,5428,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4990,0,1,1,null,5427,0,0
+1626898243712,73,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,26,0,1,1,null,0,0,0
+1626898243785,4227,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,526,0,1,1,null,4227,0,0
+1626898248013,3996,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7398,0,1,1,null,3994,0,0
+1626898252010,814,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23385,0,1,1,null,810,0,0
+1626898252824,2377,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,40,0,1,1,null,2377,0,0
+1626898255201,9503,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3255,0,1,1,null,9502,0,0
+1626898264704,1535,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1836,0,1,1,null,1535,0,0
+1626898266238,1434,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,73,0,1,1,null,1434,0,0
+1626898267673,2662,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,346,0,1,1,null,2662,0,0
+1626898270336,2561,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9784,0,1,1,null,2561,0,1
+1626898272897,1741,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10236,0,1,1,null,1740,0,0
+1626898274638,729,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23015,0,1,1,null,726,0,0
+1626898275367,2125,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4247,0,1,1,null,2125,0,0
+1626898277492,1655,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20846,0,1,1,null,1652,0,0
+1626898279147,3169,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6,0,1,1,null,3169,0,0
+1626898282316,4204,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,43,0,1,1,null,4204,0,0
+1626898286520,2897,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,105,0,1,1,null,2897,0,0
+1626898289417,5597,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4998,0,1,1,null,5597,0,1
+1626898295014,2081,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5298,0,1,1,null,2081,0,0
+1626898297095,1363,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,253,0,1,1,null,1363,0,1
+1626898298458,2113,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,113,0,1,1,null,2112,0,0
+1626898300571,161,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,41,0,1,1,null,0,0,0
+1626898300732,2166,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2104,0,1,1,null,2166,0,0
+1626898302898,1231,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1249,0,1,1,null,1231,0,0
+1626898304130,7452,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,12633,0,1,1,null,7448,0,0
+1626898311582,2776,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4911,0,1,1,null,2775,0,0
+1626898314358,1547,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10485,0,1,1,null,1546,0,0
+1626898315905,1855,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,255,0,1,1,null,1855,0,0
+1626898317760,3569,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3,0,1,1,null,3569,0,0
+1626898321329,1291,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9120,0,1,1,null,1289,0,0
+1626898322620,1271,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3288,0,1,1,null,1271,0,0
+1626898323891,1230,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,738,0,1,1,null,1230,0,0
+1626898325121,921,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,646,0,1,1,null,921,0,0
+1626898326042,1843,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1078,0,1,1,null,1843,0,0
+1626898327885,1070,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,394,0,1,1,null,1070,0,0
+1626898328955,2414,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5385,0,1,1,null,2413,0,0
+1626898331369,12000,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9462,0,1,1,null,12000,0,0
+1626898343369,2027,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,2027,0,0
+1626898345396,2036,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1058,0,1,1,null,2036,0,0
+1626898347432,1387,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,776,0,1,1,null,1386,0,0
+1626898348819,1493,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3986,0,1,1,null,1492,0,0
+1626898350312,1233,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7344,0,1,1,null,1233,0,0
+1626898351545,994,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2168,0,1,1,null,994,0,0
+1626898352539,2042,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,35,0,1,1,null,2042,0,0
+1626898354581,1206,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6832,0,1,1,null,1206,0,0
+1626898355787,2411,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2399,0,1,1,null,2410,0,0
+1626898358198,2353,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9255,0,1,1,null,2353,0,0
+1626898360551,7067,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9045,0,1,1,null,7066,0,1
+1626898367618,2236,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2567,0,1,1,null,2235,0,0
+1626898369854,1310,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,33,0,1,1,null,1310,0,0
+1626898371165,1471,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7044,0,1,1,null,1471,0,0
+1626898372636,916,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2166,0,1,1,null,916,0,0
+1626898373552,8095,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3556,0,1,1,null,8095,0,0
+1626898381646,1265,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,16579,0,1,1,null,1262,0,0
+1626898382911,5291,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6809,0,1,1,null,5291,0,0
+1626898388202,1738,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8046,0,1,1,null,1738,0,0
+1626898389940,2433,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,101,0,1,1,null,2433,0,1
+1626898392373,2073,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,83,0,1,1,null,2073,0,0
+1626898394446,2463,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,82745,0,1,1,null,2460,0,0
+1626898396909,5833,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7102,0,1,1,null,5832,0,0
+1626898402742,1636,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,605,0,1,1,null,1636,0,0
+1626898404379,2076,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6845,0,1,1,null,2075,0,0
+1626898406455,2738,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5313,0,1,1,null,2738,0,0
+1626898409193,1127,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9309,0,1,1,null,1126,0,0
+1626898410321,1738,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1923,0,1,1,null,1738,0,0
+1626898412059,2315,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3968,0,1,1,null,2314,0,0
+1626898414374,1885,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5663,0,1,1,null,1884,0,0
+1626898416259,2867,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6859,0,1,1,null,2866,0,0
+1626898419126,1946,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21515,0,1,1,null,1944,0,0
+1626898421073,4346,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,239,0,1,1,null,4346,0,0
+1626898425418,1689,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1609,0,1,1,null,1689,0,0
+1626898427107,2668,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2055,0,1,1,null,2667,0,0
+1626898429775,4942,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,137,0,1,1,null,4942,0,0
+1626898434718,740,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10736,0,1,1,null,740,0,0
+1626898435459,1279,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,1279,0,1
+1626898436738,1558,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,139,0,1,1,null,1558,0,0
+1626898438296,1619,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18886,0,1,1,null,1618,0,0
+1626898439915,612,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14,0,1,1,null,612,0,0
+1626898440526,2253,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,204,0,1,1,null,2253,0,0
+1626898442779,410,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,24,0,1,1,null,410,0,1
+1626898443189,1945,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,71,0,1,1,null,1945,0,0
+1626898445136,1637,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,69,0,1,1,null,1637,0,0
+1626898446773,922,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5,0,1,1,null,922,0,0
+1626898447695,805,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,60,0,1,1,null,805,0,1
+1626898448500,1294,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,638258,0,1,1,null,1078,0,0
+1626898449794,1441,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6701,0,1,1,null,1441,0,0
+1626898534573,1393,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2946,0,1,1,null,1392,0,1045
+1626898535965,224,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14191,0,1,1,null,223,0,0
+1626898536189,495,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15537,0,1,1,null,494,0,0
+1626898536685,6964,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21132,0,1,1,null,6961,0,0
+1626898543650,322,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15031,0,1,1,null,320,0,0
+1626898543972,1004,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5723,0,1,1,null,1004,0,0
+1626898544976,1236,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,19950,0,1,1,null,1231,0,0
+1626898546212,304,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14527,0,1,1,null,303,0,0
+1626898546516,302,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2930,0,1,1,null,302,0,0
+1626898546818,205,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,356,0,1,1,null,205,0,0
+1626898547024,921,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2063,0,1,1,null,920,0,0
+1626898547945,311,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,50553,0,1,1,null,306,0,0
+1626898548256,512,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18156,0,1,1,null,510,0,0
+1626898548769,324,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4264,0,1,1,null,324,0,0
+1626898549093,196,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2142,0,1,1,null,195,0,1
+1626898549289,1013,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11829,0,1,1,null,1012,0,0
+1626898550303,1740,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,13981,0,1,1,null,1740,0,0
+1626898552043,296,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3981,0,1,1,null,296,0,0
+1626898552339,423,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9467,0,1,1,null,422,0,0
+1626898552762,406,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,920,0,1,1,null,406,0,0
+1626898553168,273,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8831,0,1,1,null,271,0,0
+1626898553441,857,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14464,0,1,1,null,855,0,0
+1626898554298,1447,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20964,0,1,1,null,1444,0,0
+1626898555745,214,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11523,0,1,1,null,213,0,0
+1626898555959,1203,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1714,0,1,1,null,1203,0,0
+1626898557162,2880,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,170623,0,1,1,null,2875,0,0
+1626898560043,909,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1173,0,1,1,null,908,0,0
+1626898560952,3384,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,201,0,1,1,null,3384,0,0
+1626898564337,8197,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6853,0,1,1,null,8196,0,0
+1626898572533,4905,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4990,0,1,1,null,4905,0,0
+1626898577439,72,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,26,0,1,1,null,0,0,0
+1626898577511,2502,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,526,0,1,1,null,2502,0,1
+1626898580014,3979,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7398,0,1,1,null,3978,0,0
+1626898583993,1137,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23385,0,1,1,null,1135,0,0
+1626898585130,2343,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,40,0,1,1,null,2343,0,0
+1626898587472,3995,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3255,0,1,1,null,3994,0,0
+1626898591468,1228,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1836,0,1,1,null,1227,0,0
+1626898592696,1535,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,73,0,1,1,null,1535,0,0
+1626898594231,2560,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,346,0,1,1,null,2560,0,0
+1626898596790,2458,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9784,0,1,1,null,2458,0,0
+1626898599248,1742,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10236,0,1,1,null,1742,0,0
+1626898600992,922,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23015,0,1,1,null,920,0,0
+1626898601915,2148,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4247,0,1,1,null,2148,0,0
+1626898604063,1539,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20846,0,1,1,null,1538,0,0
+1626898605602,2462,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6,0,1,1,null,2462,0,0
+1626898608064,2448,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,43,0,1,1,null,2448,0,0
+1626898610512,1951,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,105,0,1,1,null,1951,0,0
+1626898612464,4824,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4998,0,1,1,null,4823,0,0
+1626898617288,1535,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5298,0,1,1,null,1534,0,0
+1626898618823,1316,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,253,0,1,1,null,1315,0,0
+1626898620139,3175,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,113,0,1,1,null,3175,0,0
+1626898623315,177,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,41,0,1,1,null,0,0,0
+1626898623492,2075,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2104,0,1,1,null,2075,0,0
+1626898625566,1945,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1249,0,1,1,null,1945,0,0
+1626898627511,8508,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,12633,0,1,1,null,8507,0,0
+1626898636020,2732,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4911,0,1,1,null,2732,0,0
+1626898638752,1749,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10485,0,1,1,null,1748,0,1
+1626898640501,1689,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,255,0,1,1,null,1689,0,0
+1626898642190,2525,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3,0,1,1,null,2525,0,0
+1626898644715,1333,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9120,0,1,1,null,1332,0,0
+1626898646049,1124,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3288,0,1,1,null,1124,0,0
+1626898647173,1230,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,738,0,1,1,null,1230,0,1
+1626898648403,1126,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,646,0,1,1,null,1126,0,0
+1626898649529,1619,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1078,0,1,1,null,1619,0,0
+1626898651148,1044,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,394,0,1,1,null,1044,0,0
+1626898652192,1842,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5385,0,1,1,null,1842,0,0
+1626898654035,12289,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9462,0,1,1,null,12288,0,0
+1626898666324,1841,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,1841,0,0
+1626898668165,2277,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1058,0,1,1,null,2277,0,1
+1626898670442,2229,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,776,0,1,1,null,2229,0,1
+1626898672671,1333,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3986,0,1,1,null,1332,0,0
+1626898674004,1635,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7344,0,1,1,null,1635,0,0
+1626898675640,1230,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2168,0,1,1,null,1230,0,0
+1626898676870,1954,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,35,0,1,1,null,1954,0,0
+1626898678824,1529,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6832,0,1,1,null,1529,0,0
+1626898680354,3069,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2399,0,1,1,null,3069,0,0
+1626898683423,1641,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9255,0,1,1,null,1640,0,0
+1626898685064,1535,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9045,0,1,1,null,1534,0,0
+1626898686599,2149,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2567,0,1,1,null,2149,0,0
+1626898688748,846,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,33,0,1,1,null,845,0,0
+1626898689594,1201,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7044,0,1,1,null,1200,0,0
+1626898690795,950,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2166,0,1,1,null,949,0,0
+1626898691745,8343,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3556,0,1,1,null,8342,0,0
+1626898700088,1566,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,16579,0,1,1,null,1565,0,0
+1626898701654,5322,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6809,0,1,1,null,5322,0,0
+1626898706977,1639,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8046,0,1,1,null,1638,0,0
+1626898708616,2443,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,101,0,1,1,null,2443,0,0
+1626898711058,2154,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,83,0,1,1,null,2154,0,0
+1626898713212,1961,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,82745,0,1,1,null,1957,0,0
+1626898715173,6141,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7102,0,1,1,null,6140,0,0
+1626898721315,1329,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,605,0,1,1,null,1329,0,0
+1626898722644,2027,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6845,0,1,1,null,2027,0,0
+1626898724671,2377,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5313,0,1,1,null,2377,0,0
+1626898727047,1129,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9309,0,1,1,null,1128,0,0
+1626898728176,2148,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1923,0,1,1,null,2147,0,0
+1626898730324,1434,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3968,0,1,1,null,1434,0,0
+1626898731759,1638,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5663,0,1,1,null,1638,0,0
+1626898733397,2235,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6859,0,1,1,null,2234,0,0
+1626898735632,1007,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21515,0,1,1,null,1004,0,0
+1626898736639,3721,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,239,0,1,1,null,3720,0,0
+1626898740360,1741,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1609,0,1,1,null,1741,0,0
+1626898742101,2150,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2055,0,1,1,null,2150,0,0
+1626898744251,5324,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,137,0,1,1,null,5324,0,0
+1626898749574,1079,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10736,0,1,1,null,1078,0,0
+1626898750654,1343,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,1343,0,0
+1626898751997,8333,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,139,0,1,1,null,8333,0,0
+1626898760330,1270,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18886,0,1,1,null,1266,0,0
+1626898761600,673,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14,0,1,1,null,673,0,0
+1626898762273,2458,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,204,0,1,1,null,2458,0,0
+1626898764731,410,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,24,0,1,1,null,410,0,0
+1626898765141,1628,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,71,0,1,1,null,1628,0,0
+1626898766769,2330,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,69,0,1,1,null,2330,0,0
+1626898769099,799,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5,0,1,1,null,799,0,0
+1626898769898,821,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,60,0,1,1,null,821,0,0
+1626898770719,1347,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,638258,0,1,1,null,1131,0,0
+1626898772066,960,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6701,0,1,1,null,960,0,0
+1626898805869,1462,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2946,0,1,1,null,1462,0,1257
+1626898807331,397,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14191,0,1,1,null,395,0,1
+1626898807728,822,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15537,0,1,1,null,819,0,0
+1626898808550,1342,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21132,0,1,1,null,1340,0,0
+1626898809892,284,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,15031,0,1,1,null,283,0,0
+1626898810176,739,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5723,0,1,1,null,738,0,1
+1626898810915,720,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,19950,0,1,1,null,718,0,0
+1626898811636,254,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14527,0,1,1,null,253,0,0
+1626898811890,184,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2930,0,1,1,null,183,0,1
+1626898812074,190,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,356,0,1,1,null,190,0,0
+1626898812264,779,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2063,0,1,1,null,779,0,0
+1626898813043,325,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,50553,0,1,1,null,312,0,0
+1626898813368,260,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18156,0,1,1,null,248,0,0
+1626898813628,183,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4264,0,1,1,null,183,0,0
+1626898813811,169,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2142,0,1,1,null,169,0,0
+1626898813980,453,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11829,0,1,1,null,452,0,0
+1626898814433,1808,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,13981,0,1,1,null,1807,0,0
+1626898816242,203,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3981,0,1,1,null,203,0,0
+1626898816445,307,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9467,0,1,1,null,307,0,0
+1626898816753,215,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,920,0,1,1,null,215,0,0
+1626898816968,281,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8831,0,1,1,null,280,0,0
+1626898817249,425,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14464,0,1,1,null,424,0,0
+1626898817675,1026,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20964,0,1,1,null,1023,0,0
+1626898818702,201,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,11523,0,1,1,null,200,0,0
+1626898818903,819,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1714,0,1,1,null,819,0,0
+1626898819722,3183,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,170623,0,1,1,null,3176,0,0
+1626898822905,1430,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1173,0,1,1,null,1430,0,0
+1626898824335,3578,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,201,0,1,1,null,3578,0,0
+1626898827914,2356,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6853,0,1,1,null,2355,0,0
+1626898830270,5018,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4990,0,1,1,null,5018,0,0
+1626898835288,76,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,26,0,1,1,null,0,0,1
+1626898835364,3291,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,526,0,1,1,null,3291,0,0
+1626898838655,3812,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7398,0,1,1,null,3812,0,0
+1626898842467,913,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23385,0,1,1,null,913,0,0
+1626898843380,2351,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,40,0,1,1,null,2351,0,0
+1626898845731,3586,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3255,0,1,1,null,3586,0,0
+1626898849318,1172,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1836,0,1,1,null,1172,0,0
+1626898850490,1386,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,73,0,1,1,null,1386,0,0
+1626898851876,2458,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,346,0,1,1,null,2458,0,0
+1626898854334,2143,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9784,0,1,1,null,2142,0,0
+1626898856476,1649,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10236,0,1,1,null,1648,0,0
+1626898858125,820,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,23015,0,1,1,null,817,0,0
+1626898858945,2045,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4247,0,1,1,null,2045,0,1
+1626898860990,1333,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,20846,0,1,1,null,1333,0,0
+1626898862323,2046,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6,0,1,1,null,2045,0,0
+1626898864369,1434,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,43,0,1,1,null,1434,0,0
+1626898865804,2281,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,105,0,1,1,null,2281,0,0
+1626898868085,5345,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4998,0,1,1,null,5344,0,0
+1626898873430,2512,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5298,0,1,1,null,2511,0,0
+1626898875941,1773,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,253,0,1,1,null,1773,0,0
+1626898877714,1870,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,113,0,1,1,null,1870,0,0
+1626898879585,156,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,false,,41,0,1,1,null,0,0,0
+1626898879741,2624,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2104,0,1,1,null,2624,0,0
+1626898882366,1460,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1249,0,1,1,null,1460,0,0
+1626898883827,1589,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,12633,0,1,1,null,1586,0,0
+1626898885416,3285,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,4911,0,1,1,null,3275,0,0
+1626898888700,1271,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10485,0,1,1,null,1270,0,0
+1626898889971,1627,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,255,0,1,1,null,1626,0,0
+1626898891599,2377,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3,0,1,1,null,2376,0,0
+1626898893976,1588,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9120,0,1,1,null,1586,0,0
+1626898895565,1262,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3288,0,1,1,null,1262,0,0
+1626898896827,734,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,738,0,1,1,null,734,0,0
+1626898897561,854,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,646,0,1,1,null,854,0,0
+1626898898416,2613,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1078,0,1,1,null,2612,0,0
+1626898901029,1127,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,394,0,1,1,null,1127,0,0
+1626898902156,1844,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5385,0,1,1,null,1843,0,0
+1626898904000,12365,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9462,0,1,1,null,12364,0,0
+1626898916365,1663,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,1663,0,0
+1626898918028,1540,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1058,0,1,1,null,1540,0,0
+1626898919568,1328,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,776,0,1,1,null,1328,0,0
+1626898920896,1227,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3986,0,1,1,null,1227,0,0
+1626898922123,1281,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7344,0,1,1,null,1280,0,0
+1626898923404,1075,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2168,0,1,1,null,1075,0,0
+1626898924479,2458,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,35,0,1,1,null,2458,0,0
+1626898926937,1091,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6832,0,1,1,null,1091,0,1
+1626898928028,3005,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2399,0,1,1,null,3005,0,0
+1626898931034,2052,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9255,0,1,1,null,2052,0,0
+1626898933087,1590,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9045,0,1,1,null,1588,0,0
+1626898934677,2090,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2567,0,1,1,null,2090,0,0
+1626898936767,1230,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,33,0,1,1,null,1230,0,0
+1626898937997,923,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7044,0,1,1,null,913,0,0
+1626898938920,1206,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2166,0,1,1,null,1205,0,0
+1626898940126,8930,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3556,0,1,1,null,8930,0,0
+1626898949057,1026,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,16579,0,1,1,null,1023,0,0
+1626898950083,4915,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6809,0,1,1,null,4915,0,0
+1626898954998,1841,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,8046,0,1,1,null,1841,0,0
+1626898956839,2456,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,101,0,1,1,null,2456,0,0
+1626898959295,1639,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,83,0,1,1,null,1639,0,0
+1626898960934,2057,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,82745,0,1,1,null,2052,0,0
+1626898962992,5727,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7102,0,1,1,null,5726,0,0
+1626898968719,1330,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,605,0,1,1,null,1330,0,0
+1626898970049,2328,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6845,0,1,1,null,2328,0,0
+1626898972376,2390,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5313,0,1,1,null,2389,0,0
+1626898974766,1330,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,9309,0,1,1,null,1329,0,0
+1626898976096,1734,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1923,0,1,1,null,1734,0,0
+1626898977830,1536,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,3968,0,1,1,null,1536,0,0
+1626898979366,1086,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5663,0,1,1,null,1085,0,0
+1626898980452,2091,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6859,0,1,1,null,2090,0,0
+1626898982544,1096,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,21515,0,1,1,null,1092,0,0
+1626898983640,3816,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,239,0,1,1,null,3816,0,0
+1626898987457,1638,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,1609,0,1,1,null,1638,0,0
+1626898989096,2661,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,2055,0,1,1,null,2661,0,0
+1626898991756,3897,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,137,0,1,1,null,3896,0,0
+1626898995653,1021,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,10736,0,1,1,null,1020,0,0
+1626898996675,1323,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,7,0,1,1,null,1323,0,0
+1626898997998,1381,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,139,0,1,1,null,1381,0,0
+1626898999379,1187,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,18886,0,1,1,null,1187,0,0
+1626899000567,1226,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,14,0,1,1,null,1226,0,0
+1626899001793,3380,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,204,0,1,1,null,3380,0,0
+1626899005173,331,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,24,0,1,1,null,331,0,0
+1626899005505,1150,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,71,0,1,1,null,1150,0,0
+1626899006656,1896,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,69,0,1,1,null,1896,0,0
+1626899008553,819,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,5,0,1,1,null,819,0,0
+1626899009372,922,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,60,0,1,1,null,922,0,0
+1626899010294,1018,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,638258,0,1,1,null,790,0,0
+1626899011311,1234,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet OPENROWSET 1-1,text,true,,6701,0,1,1,null,1233,0,0

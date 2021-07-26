@@ -1,0 +1,349 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626630374685,11433,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2352,0,1,1,null,11416,0,1647
+1626630386118,712,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14191,0,1,1,null,677,0,0
+1626630386830,625,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,15537,0,1,1,null,619,0,0
+1626630387455,7100,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,21132,0,1,1,null,7097,0,0
+1626630394555,595,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11514,0,1,1,null,589,0,0
+1626630395150,781,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4423,0,1,1,null,778,0,0
+1626630395931,995,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13706,0,1,1,null,992,0,0
+1626630396927,431,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14342,0,1,1,null,424,0,0
+1626630397358,543,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2227,0,1,1,null,541,0,0
+1626630397901,388,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,356,0,1,1,null,388,0,0
+1626630398289,1502,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2063,0,1,1,null,1501,0,0
+1626630399791,710,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,27624,0,1,1,null,624,0,0
+1626630400501,270,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,12817,0,1,1,null,266,0,0
+1626630400772,224,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1342,0,1,1,null,224,0,0
+1626630400996,202,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1095,0,1,1,null,201,0,0
+1626630401199,901,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11829,0,1,1,null,897,0,0
+1626630402101,4972,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13981,0,1,1,null,4970,0,0
+1626630407072,234,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3611,0,1,1,null,234,0,0
+1626630407306,356,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6163,0,1,1,null,354,0,0
+1626630407662,219,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,789,0,1,1,null,219,0,0
+1626630407882,214,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6239,0,1,1,null,213,0,0
+1626630408096,654,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14464,0,1,1,null,649,0,0
+1626630408750,1062,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,20964,0,1,1,null,1052,0,0
+1626630409812,253,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9401,0,1,1,null,249,0,0
+1626630410065,4156,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1714,0,1,1,null,4156,0,0
+1626630414221,5686,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,170623,0,1,1,null,5625,0,0
+1626630419907,4193,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,637,0,1,1,null,4193,0,0
+1626630424100,9555,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,125,0,1,1,null,9555,0,0
+1626630433655,3189,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6853,0,1,1,null,3186,0,1
+1626630436844,7701,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4990,0,1,1,null,7699,0,0
+1626630444545,55,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,26,0,1,1,null,0,0,0
+1626630444600,6170,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,457,0,1,1,null,6169,0,0
+1626630450770,5362,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3900,0,1,1,null,5360,0,0
+1626630456132,1872,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14579,0,1,1,null,1867,0,0
+1626630458004,4579,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,40,0,1,1,null,4579,0,0
+1626630462584,3222,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3255,0,1,1,null,3221,0,0
+1626630465806,2131,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1341,0,1,1,null,2131,0,0
+1626630467937,4860,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,73,0,1,1,null,4860,0,0
+1626630472797,3759,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,346,0,1,1,null,3759,0,0
+1626630476556,3716,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9784,0,1,1,null,3703,0,0
+1626630480272,1855,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4231,0,1,1,null,1855,0,1
+1626630482127,652,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14601,0,1,1,null,646,0,0
+1626630482779,6908,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4247,0,1,1,null,6904,0,0
+1626630489687,2574,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5675,0,1,1,null,2573,0,0
+1626630492262,7494,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6,0,1,1,null,7494,0,0
+1626630499756,2722,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,43,0,1,1,null,2722,0,0
+1626630502478,2570,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,105,0,1,1,null,2570,0,0
+1626630505049,2627,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4998,0,1,1,null,2626,0,0
+1626630507676,2371,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5298,0,1,1,null,2369,0,0
+1626630510047,2383,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,253,0,1,1,null,2382,0,0
+1626630512430,1808,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,113,0,1,1,null,1808,0,0
+1626630514238,117,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,41,0,1,1,null,0,0,0
+1626630514355,3492,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2104,0,1,1,null,3491,0,0
+1626630517847,1990,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1249,0,1,1,null,1990,0,0
+1626630519837,1532,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,10461,0,1,1,null,1529,0,0
+1626630521369,1523,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4911,0,1,1,null,1521,0,0
+1626630522892,1521,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2823,0,1,1,null,1521,0,0
+1626630524413,1952,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,255,0,1,1,null,1952,0,0
+1626630526365,3608,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3,0,1,1,null,3608,0,0
+1626630529973,1817,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9120,0,1,1,null,1816,0,0
+1626630531790,2099,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3288,0,1,1,null,2098,0,0
+1626630533890,1354,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,297,0,1,1,null,1354,0,0
+1626630535244,830,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,646,0,1,1,null,829,0,0
+1626630536074,1932,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,433,0,1,1,null,1932,0,0
+1626630538005,1062,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,299,0,1,1,null,1062,0,0
+1626630539067,1866,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5385,0,1,1,null,1865,0,0
+1626630540933,30796,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4947,0,1,1,null,30795,0,0
+1626630571729,1632,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,1632,0,0
+1626630573362,1921,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1058,0,1,1,null,1921,0,0
+1626630575283,1250,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,669,0,1,1,null,1249,0,0
+1626630576533,3286,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3986,0,1,1,null,3284,0,0
+1626630579818,1142,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3991,0,1,1,null,1141,0,0
+1626630580960,816,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2168,0,1,1,null,816,0,0
+1626630581776,2199,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,35,0,1,1,null,2199,0,0
+1626630583975,1018,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3427,0,1,1,null,1018,0,0
+1626630584993,1931,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2399,0,1,1,null,1931,0,0
+1626630586924,19901,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5929,0,1,1,null,19901,0,0
+1626630606825,1849,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9045,0,1,1,null,1848,0,0
+1626630608674,1990,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2567,0,1,1,null,1990,0,0
+1626630610664,894,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,33,0,1,1,null,894,0,0
+1626630611558,1875,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4789,0,1,1,null,1873,0,0
+1626630613434,1352,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2166,0,1,1,null,1352,0,0
+1626630614786,6530,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2509,0,1,1,null,6529,0,0
+1626630621316,1426,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13219,0,1,1,null,1426,0,0
+1626630622743,9473,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6039,0,1,1,null,9471,0,0
+1626630632215,2097,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6434,0,1,1,null,2095,0,0
+1626630634312,722,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,101,0,1,1,null,721,0,0
+1626630635034,1476,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,83,0,1,1,null,1475,0,0
+1626630636510,2587,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,44207,0,1,1,null,2574,0,0
+1626630639097,4960,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7102,0,1,1,null,4959,0,0
+1626630644057,965,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,313,0,1,1,null,965,0,0
+1626630645023,3190,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3161,0,1,1,null,3190,0,0
+1626630648214,5282,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5313,0,1,1,null,5281,0,0
+1626630653495,1097,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4988,0,1,1,null,1097,0,0
+1626630654592,1306,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1923,0,1,1,null,1305,0,0
+1626630655898,4176,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3968,0,1,1,null,4176,0,0
+1626630660074,1747,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4241,0,1,1,null,1747,0,0
+1626630661821,2502,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6859,0,1,1,null,2500,0,0
+1626630664323,2154,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13674,0,1,1,null,2149,0,0
+1626630666477,1891,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,239,0,1,1,null,1891,0,0
+1626630668369,1680,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1609,0,1,1,null,1679,0,0
+1626630670049,2535,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,933,0,1,1,null,2535,0,0
+1626630672583,2563,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,116,0,1,1,null,2563,0,0
+1626630675146,577,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2918,0,1,1,null,576,0,0
+1626630675723,2040,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,2040,0,0
+1626630677763,2503,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,139,0,1,1,null,2503,0,0
+1626630680266,936,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6724,0,1,1,null,932,0,0
+1626630681202,487,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14,0,1,1,null,487,0,0
+1626630681689,1317,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,204,0,1,1,null,1317,0,0
+1626630683006,388,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,24,0,1,1,null,388,0,0
+1626630683395,1562,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,71,0,1,1,null,1561,0,0
+1626630684957,2068,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,69,0,1,1,null,2068,0,0
+1626630687025,641,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5,0,1,1,null,641,0,0
+1626630687667,1711,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,60,0,1,1,null,1711,0,0
+1626630689378,968,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,412050,0,1,1,null,728,0,0
+1626630690347,1390,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4676,0,1,1,null,1385,0,0
+1626633787599,1422,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2352,0,1,1,null,1421,0,1085
+1626633789021,259,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14191,0,1,1,null,227,0,0
+1626633789280,404,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,15537,0,1,1,null,401,0,0
+1626633789684,6331,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,21132,0,1,1,null,6328,0,0
+1626633796015,286,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11514,0,1,1,null,283,0,0
+1626633796301,950,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4423,0,1,1,null,950,0,0
+1626633797251,408,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13706,0,1,1,null,405,0,0
+1626633797659,366,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14342,0,1,1,null,363,0,0
+1626633798025,247,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2227,0,1,1,null,246,0,0
+1626633798272,298,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,356,0,1,1,null,298,0,0
+1626633798570,923,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2063,0,1,1,null,923,0,0
+1626633799493,283,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,27624,0,1,1,null,275,0,0
+1626633799776,278,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,12817,0,1,1,null,276,0,0
+1626633800054,290,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1342,0,1,1,null,290,0,0
+1626633800345,196,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1095,0,1,1,null,196,0,0
+1626633800541,502,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11829,0,1,1,null,500,0,0
+1626633801043,2701,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13981,0,1,1,null,2699,0,0
+1626633803744,225,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3611,0,1,1,null,225,0,0
+1626633803969,235,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6163,0,1,1,null,234,0,0
+1626633804204,209,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,789,0,1,1,null,209,0,0
+1626633804413,181,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6239,0,1,1,null,181,0,0
+1626633804594,710,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14464,0,1,1,null,704,0,0
+1626633805305,938,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,20964,0,1,1,null,915,0,0
+1626633806243,279,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9401,0,1,1,null,274,0,0
+1626633806522,3181,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1714,0,1,1,null,3181,0,1
+1626633809703,3832,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,170623,0,1,1,null,3809,0,0
+1626633813535,3874,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,637,0,1,1,null,3874,0,0
+1626633817409,7171,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,125,0,1,1,null,7171,0,0
+1626633824580,2930,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6853,0,1,1,null,2930,0,0
+1626633827510,8489,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4990,0,1,1,null,8488,0,0
+1626633835999,48,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,26,0,1,1,null,0,0,0
+1626633836047,5524,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,457,0,1,1,null,5524,0,0
+1626633841572,6137,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3900,0,1,1,null,6136,0,0
+1626633847709,1511,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14579,0,1,1,null,1510,0,0
+1626633849221,4158,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,40,0,1,1,null,4158,0,0
+1626633853379,4131,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3255,0,1,1,null,4130,0,0
+1626633857510,2199,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1341,0,1,1,null,2198,0,0
+1626633859709,4084,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,73,0,1,1,null,4084,0,0
+1626633863793,3213,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,346,0,1,1,null,3213,0,0
+1626633867007,3824,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9784,0,1,1,null,3822,0,0
+1626633870831,2107,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4231,0,1,1,null,2107,0,0
+1626633872938,697,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14601,0,1,1,null,691,0,0
+1626633873635,6915,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4247,0,1,1,null,6915,0,0
+1626633880551,2132,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5675,0,1,1,null,2131,0,0
+1626633882683,5336,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6,0,1,1,null,5336,0,0
+1626633888019,1839,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,43,0,1,1,null,1838,0,0
+1626633889858,3224,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,105,0,1,1,null,3224,0,0
+1626633893082,2298,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4998,0,1,1,null,2298,0,0
+1626633895380,1745,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5298,0,1,1,null,1744,0,0
+1626633897125,3025,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,253,0,1,1,null,3025,0,0
+1626633900150,1842,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,113,0,1,1,null,1842,0,0
+1626633901992,123,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,41,0,1,1,null,0,0,0
+1626633902115,3652,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2104,0,1,1,null,3652,0,0
+1626633905767,1762,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1249,0,1,1,null,1762,0,0
+1626633907529,1501,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,10461,0,1,1,null,1492,0,0
+1626633909030,1712,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4911,0,1,1,null,1712,0,0
+1626633910742,1270,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2823,0,1,1,null,1269,0,0
+1626633912012,1807,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,255,0,1,1,null,1807,0,0
+1626633913819,3570,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3,0,1,1,null,3570,0,0
+1626633917389,2031,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9120,0,1,1,null,2017,0,0
+1626633919419,2335,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3288,0,1,1,null,2334,0,0
+1626633921754,812,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,297,0,1,1,null,812,0,0
+1626633922567,872,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,646,0,1,1,null,872,0,0
+1626633923439,2028,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,433,0,1,1,null,2028,0,0
+1626633925468,1246,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,299,0,1,1,null,1246,0,0
+1626633926714,2718,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5385,0,1,1,null,2717,0,0
+1626633929432,29897,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4947,0,1,1,null,29897,0,0
+1626633959330,2042,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,2042,0,0
+1626633961372,1529,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1058,0,1,1,null,1529,0,0
+1626633962903,1344,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,669,0,1,1,null,1344,0,0
+1626633964247,3592,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3986,0,1,1,null,3592,0,0
+1626633967839,1706,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3991,0,1,1,null,1706,0,0
+1626633969545,897,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2168,0,1,1,null,897,0,0
+1626633970442,2401,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,35,0,1,1,null,2401,0,0
+1626633972842,1016,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3427,0,1,1,null,1016,0,0
+1626633973858,2317,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2399,0,1,1,null,2317,0,0
+1626633976176,21210,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5929,0,1,1,null,21210,0,0
+1626633997386,2105,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9045,0,1,1,null,2064,0,0
+1626633999491,1894,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2567,0,1,1,null,1894,0,0
+1626634001385,862,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,33,0,1,1,null,862,0,0
+1626634002247,1855,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4789,0,1,1,null,1854,0,0
+1626634004102,1174,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2166,0,1,1,null,1173,0,0
+1626634005276,6289,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2509,0,1,1,null,6288,0,0
+1626634011566,1297,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13219,0,1,1,null,1293,0,0
+1626634012862,9867,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6039,0,1,1,null,9857,0,0
+1626634022729,1749,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6434,0,1,1,null,1748,0,0
+1626634024478,1078,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,101,0,1,1,null,1078,0,0
+1626634025556,1493,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,83,0,1,1,null,1493,0,0
+1626634027049,2895,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,44207,0,1,1,null,2847,0,0
+1626634029945,5303,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7102,0,1,1,null,5301,0,0
+1626634035248,1426,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,313,0,1,1,null,1426,0,0
+1626634036674,4315,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3161,0,1,1,null,4314,0,0
+1626634040988,6103,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5313,0,1,1,null,6102,0,0
+1626634047092,1593,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4988,0,1,1,null,1592,0,0
+1626634048685,2198,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1923,0,1,1,null,2198,0,0
+1626634050883,5813,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3968,0,1,1,null,5813,0,0
+1626634056695,1524,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4241,0,1,1,null,1523,0,0
+1626634058221,3298,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6859,0,1,1,null,3297,0,0
+1626634061519,2548,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13674,0,1,1,null,2548,0,0
+1626634064066,2297,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,239,0,1,1,null,2297,0,0
+1626634066363,1178,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1609,0,1,1,null,1178,0,0
+1626634067541,1733,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,933,0,1,1,null,1732,0,0
+1626634069274,2748,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,116,0,1,1,null,2748,0,0
+1626634072023,941,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2918,0,1,1,null,941,0,0
+1626634072964,2258,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,2258,0,0
+1626634075223,2790,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,139,0,1,1,null,2790,0,0
+1626634078013,1072,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6724,0,1,1,null,1062,0,0
+1626634079085,652,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14,0,1,1,null,652,0,0
+1626634079737,1455,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,204,0,1,1,null,1455,0,0
+1626634081193,399,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,24,0,1,1,null,399,0,0
+1626634081592,1776,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,71,0,1,1,null,1776,0,0
+1626634083369,2509,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,69,0,1,1,null,2509,0,0
+1626634085878,691,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5,0,1,1,null,691,0,0
+1626634086569,2055,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,60,0,1,1,null,2054,0,0
+1626634088624,1062,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,412050,0,1,1,null,875,0,0
+1626634089686,1330,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4676,0,1,1,null,1330,0,0
+1626634225105,1194,warmup 1,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2352,0,1,1,null,1194,0,897
+1626634226300,503,warmup 2,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14191,0,1,1,null,456,0,0
+1626634226803,842,warmup 3,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,15537,0,1,1,null,842,0,0
+1626634227646,1329,warmup 4,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,21132,0,1,1,null,1326,0,0
+1626634228975,274,warmup 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11514,0,1,1,null,271,0,0
+1626634229249,1103,warmup 6,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4423,0,1,1,null,1102,0,0
+1626634230352,418,warmup 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13706,0,1,1,null,413,0,0
+1626634230770,277,warmup 8,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14342,0,1,1,null,274,0,0
+1626634231047,153,warmup 9,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2227,0,1,1,null,153,0,0
+1626634231200,155,warmup 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,356,0,1,1,null,155,0,0
+1626634231355,941,warmup 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2063,0,1,1,null,941,0,0
+1626634232296,301,warmup 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,27624,0,1,1,null,293,0,0
+1626634232597,238,warmup 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,12817,0,1,1,null,237,0,0
+1626634232835,159,warmup 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1342,0,1,1,null,159,0,1
+1626634232996,490,warmup 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1095,0,1,1,null,489,0,0
+1626634233486,388,warmup 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,11829,0,1,1,null,385,0,0
+1626634233874,2315,warmup 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13981,0,1,1,null,2313,0,0
+1626634236189,211,warmup 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3611,0,1,1,null,211,0,0
+1626634236400,220,warmup 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6163,0,1,1,null,219,0,0
+1626634236621,215,warmup 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,789,0,1,1,null,215,0,0
+1626634236837,156,warmup 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6239,0,1,1,null,155,0,0
+1626634236993,718,warmup 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14464,0,1,1,null,712,0,0
+1626634237711,837,warmup 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,20964,0,1,1,null,824,0,0
+1626634238547,529,warmup 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9401,0,1,1,null,517,0,0
+1626634239076,795,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1714,0,1,1,null,795,0,0
+1626634239871,3164,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,170623,0,1,1,null,3099,0,0
+1626634243035,833,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,637,0,1,1,null,833,0,0
+1626634243868,6171,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,125,0,1,1,null,6171,0,0
+1626634250039,1412,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6853,0,1,1,null,1411,0,0
+1626634251451,2492,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4990,0,1,1,null,2492,0,0
+1626634253944,73,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,26,0,1,1,null,0,0,0
+1626634254017,2412,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,457,0,1,1,null,2412,0,0
+1626634256430,4927,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3900,0,1,1,null,4914,0,0
+1626634261357,680,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14579,0,1,1,null,675,0,0
+1626634262037,3266,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,40,0,1,1,null,3266,0,0
+1626634265304,3122,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3255,0,1,1,null,3122,0,0
+1626634268426,872,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1341,0,1,1,null,872,0,0
+1626634269298,1580,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,73,0,1,1,null,1580,0,0
+1626634270878,2463,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,346,0,1,1,null,2463,0,0
+1626634273341,2703,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9784,0,1,1,null,2701,0,0
+1626634276044,2072,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4231,0,1,1,null,2071,0,0
+1626634278116,714,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14601,0,1,1,null,707,0,0
+1626634278830,2168,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4247,0,1,1,null,2167,0,0
+1626634280998,2433,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5675,0,1,1,null,2421,0,0
+1626634283431,5364,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6,0,1,1,null,5364,0,0
+1626634288795,891,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,43,0,1,1,null,891,0,0
+1626634289686,3329,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,105,0,1,1,null,3329,0,0
+1626634293015,1596,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4998,0,1,1,null,1595,0,0
+1626634294611,1807,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5298,0,1,1,null,1806,0,0
+1626634296418,1358,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,253,0,1,1,null,1358,0,0
+1626634297776,2200,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,113,0,1,1,null,2200,0,0
+1626634299976,154,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Parquet External table 1-1,text,false,,41,0,1,1,null,0,0,0
+1626634300131,3055,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2104,0,1,1,null,3055,0,0
+1626634303187,1602,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1249,0,1,1,null,1602,0,0
+1626634304789,962,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,10461,0,1,1,null,954,0,0
+1626634305751,1623,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4911,0,1,1,null,1622,0,0
+1626634307374,1229,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2823,0,1,1,null,1229,0,0
+1626634308603,2149,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,255,0,1,1,null,2149,0,0
+1626634310752,3077,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3,0,1,1,null,3077,0,0
+1626634313829,1902,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9120,0,1,1,null,1900,0,0
+1626634315731,1592,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3288,0,1,1,null,1591,0,0
+1626634317323,1188,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,297,0,1,1,null,1188,0,0
+1626634318511,1158,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,646,0,1,1,null,1158,0,0
+1626634319670,2324,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,433,0,1,1,null,2324,0,0
+1626634321994,1328,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,299,0,1,1,null,1327,0,0
+1626634323322,1807,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5385,0,1,1,null,1807,0,0
+1626634325129,30626,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4947,0,1,1,null,30625,0,0
+1626634355755,1934,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,1934,0,0
+1626634357689,1637,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1058,0,1,1,null,1637,0,0
+1626634359327,1204,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,669,0,1,1,null,1204,0,0
+1626634360531,3555,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3986,0,1,1,null,3554,0,0
+1626634364085,1038,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3991,0,1,1,null,1037,0,0
+1626634365123,738,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2168,0,1,1,null,738,0,0
+1626634365861,1369,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,35,0,1,1,null,1369,0,0
+1626634367230,921,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3427,0,1,1,null,921,0,0
+1626634368151,1565,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2399,0,1,1,null,1564,0,0
+1626634369716,20204,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5929,0,1,1,null,20203,0,0
+1626634389921,1961,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,9045,0,1,1,null,1953,0,0
+1626634391882,2625,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2567,0,1,1,null,2625,0,0
+1626634394507,689,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,33,0,1,1,null,689,0,0
+1626634395196,780,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4789,0,1,1,null,779,0,0
+1626634395976,897,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2166,0,1,1,null,897,0,0
+1626634396873,5495,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2509,0,1,1,null,5495,0,0
+1626634402368,1232,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13219,0,1,1,null,1227,0,0
+1626634403600,9720,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6039,0,1,1,null,9720,0,0
+1626634413321,1788,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6434,0,1,1,null,1786,0,0
+1626634415109,1067,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,101,0,1,1,null,1067,0,0
+1626634416176,2121,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,83,0,1,1,null,2121,0,0
+1626634418297,2325,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,44207,0,1,1,null,2313,0,0
+1626634420623,3791,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7102,0,1,1,null,3790,0,0
+1626634424415,902,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,313,0,1,1,null,902,0,0
+1626634425318,4819,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3161,0,1,1,null,4818,0,0
+1626634430138,5426,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5313,0,1,1,null,5425,0,0
+1626634435563,1201,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4988,0,1,1,null,1201,0,0
+1626634436764,1313,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1923,0,1,1,null,1313,0,0
+1626634438077,4960,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,3968,0,1,1,null,4959,0,0
+1626634443037,1104,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4241,0,1,1,null,1104,0,0
+1626634444141,3326,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6859,0,1,1,null,3325,0,0
+1626634447467,1527,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,13674,0,1,1,null,1524,0,0
+1626634448994,1818,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,239,0,1,1,null,1818,0,0
+1626634450812,1574,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,1609,0,1,1,null,1574,0,0
+1626634452386,1492,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,933,0,1,1,null,1492,0,0
+1626634453878,3179,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,116,0,1,1,null,3179,0,1
+1626634457057,842,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,2918,0,1,1,null,842,0,0
+1626634457900,2600,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,7,0,1,1,null,2599,0,0
+1626634460500,989,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,139,0,1,1,null,989,0,0
+1626634461489,949,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,6724,0,1,1,null,948,0,0
+1626634462439,982,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,14,0,1,1,null,982,0,0
+1626634463422,1450,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,204,0,1,1,null,1450,0,0
+1626634464872,233,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,24,0,1,1,null,232,0,0
+1626634465105,2102,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,71,0,1,1,null,2102,0,0
+1626634467207,2530,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,69,0,1,1,null,2530,0,0
+1626634469737,651,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,5,0,1,1,null,651,0,0
+1626634470388,2090,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,60,0,1,1,null,2090,0,0
+1626634472478,1920,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,412050,0,1,1,null,775,0,0
+1626634474398,1261,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Parquet External table 1-1,text,true,,4676,0,1,1,null,1261,0,0

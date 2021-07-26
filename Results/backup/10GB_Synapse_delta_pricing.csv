@@ -1,0 +1,654 @@
+﻿RequestID;SubmitTime;Duration;DataProcessed;Submitter;Status;SessionID;DataProcessedGB
+15589058;7/19/21, 6:28:19 PM;4 sec;47.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.047
+15586510;7/19/21, 6:28:04 PM;12 sec;288.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.288
+15584958;7/19/21, 6:27:53 PM;11 sec;308.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.308
+15579752;7/19/21, 6:27:39 PM;13 sec;160.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.16
+15578529;7/19/21, 6:27:31 PM;7 sec;443.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.443
+15577723;7/19/21, 6:27:25 PM;6 sec;282.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.282
+15576424;7/19/21, 6:27:09 PM;15 sec;673.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.673
+15573561;7/19/21, 6:27:00 PM;8 sec;75.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.075
+15572550;7/19/21, 6:26:55 PM;4 sec;48.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.048
+15567058;7/19/21, 6:26:43 PM;11 sec;573.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.573
+15565682;7/19/21, 6:26:34 PM;9 sec;1.27 GB;benchmark_admin_10gb_delta;Completed;N/A;1.27
+15564230;7/19/21, 6:26:23 PM;10 sec;230.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.23
+15563308;7/19/21, 6:26:19 PM;3 sec;76.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.076
+15562747;7/19/21, 6:26:11 PM;8 sec;241.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.241
+15560391;7/19/21, 6:26:03 PM;7 sec;90.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.09
+15558552;7/19/21, 6:25:53 PM;10 sec;201.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.201
+15555463;7/19/21, 6:25:40 PM;12 sec;653.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.653
+15554765;7/19/21, 6:25:35 PM;4 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+15553378;7/19/21, 6:25:20 PM;14 sec;1.69 GB;benchmark_admin_10gb_delta;Completed;N/A;1.69
+15549489;7/19/21, 6:25:04 PM;16 sec;367.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.367
+15547214;7/19/21, 6:24:51 PM;12 sec;1.24 GB;benchmark_admin_10gb_delta;Completed;N/A;1.24
+15541612;7/19/21, 6:24:35 PM;16 sec;684.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.684
+15539035;7/19/21, 6:24:19 PM;15 sec;541.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.541
+15531297;7/19/21, 6:24:04 PM;15 sec;2.78 GB;benchmark_admin_10gb_delta;Completed;N/A;2.78
+15526257;7/19/21, 6:23:52 PM;12 sec;650.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.65
+15521859;7/19/21, 6:23:37 PM;14 sec;219.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.219
+15520236;7/19/21, 6:23:26 PM;11 sec;1.08 GB;benchmark_admin_10gb_delta;Completed;N/A;1.08
+15517036;7/19/21, 6:23:04 PM;21 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+15511656;7/19/21, 6:22:41 PM;23 sec;378.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.378
+15510224;7/19/21, 6:22:27 PM;13 sec;134.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.134
+15508345;7/19/21, 6:22:07 PM;19 sec;900.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.9
+15495731;7/19/21, 6:20:39 PM;1 min;1.04 GB;benchmark_admin_10gb_delta;Completed;N/A;1.04
+15494346;7/19/21, 6:20:27 PM;11 sec;1.19 GB;benchmark_admin_10gb_delta;Completed;N/A;1.19
+15487202;7/19/21, 6:19:14 PM;1 min;2.21 GB;benchmark_admin_10gb_delta;Completed;N/A;2.21
+15475445;7/19/21, 6:19:02 PM;12 sec;597.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.597
+15472626;7/19/21, 6:18:57 PM;4 sec;31.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.031
+15471924;7/19/21, 6:18:49 PM;7 sec;30.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.03
+15467527;7/19/21, 6:18:26 PM;22 sec;722.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.722
+15465614;7/19/21, 6:18:08 PM;18 sec;680.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.68
+15456481;7/19/21, 6:17:04 PM;1 min;645.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.645
+15451551;7/19/21, 6:16:39 PM;24 sec;795.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.795
+15449659;7/19/21, 6:16:22 PM;17 sec;286.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.286
+15445810;7/19/21, 6:15:58 PM;23 sec;324.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.324
+15443415;7/19/21, 6:15:48 PM;9 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+15441399;7/19/21, 6:15:34 PM;14 sec;270.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.27
+15440809;7/19/21, 6:15:18 PM;16 sec;416.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.416
+15437453;7/19/21, 6:14:57 PM;20 sec;482.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.482
+15428484;7/19/21, 6:14:06 PM;51 sec;2.30 GB;benchmark_admin_10gb_delta;Completed;N/A;2.3
+15422738;7/19/21, 6:13:55 PM;11 sec;554.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.554
+15418447;7/19/21, 6:13:37 PM;17 sec;2.32 GB;benchmark_admin_10gb_delta;Completed;N/A;2.32
+15416998;7/19/21, 6:13:23 PM;13 sec;396.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.396
+15416087;7/19/21, 6:13:18 PM;4 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+15413883;7/19/21, 6:13:08 PM;10 sec;1.15 GB;benchmark_admin_10gb_delta;Completed;N/A;1.15
+15412102;7/19/21, 6:13:01 PM;7 sec;125.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.125
+15408330;7/19/21, 6:12:44 PM;16 sec;291.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.291
+15407632;7/19/21, 6:12:39 PM;4 sec;212.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.212
+15406235;7/19/21, 6:12:34 PM;5 sec;971.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.971
+15405386;7/19/21, 6:12:12 PM;21 sec;250.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.25
+15402444;7/19/21, 6:12:05 PM;6 sec;557.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.557
+15401231;7/19/21, 6:11:51 PM;14 sec;467.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.467
+15397240;7/19/21, 6:11:41 PM;9 sec;169.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.169
+15395292;7/19/21, 6:11:32 PM;9 sec;194.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.194
+15394447;7/19/21, 6:11:12 PM;19 sec;603.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.603
+15390684;7/19/21, 6:11:00 PM;11 sec;707.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.707
+15389741;7/19/21, 6:10:56 PM;4 sec;89.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.089
+15386490;7/19/21, 6:10:41 PM;14 sec;597.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.597
+15384590;7/19/21, 6:10:29 PM;11 sec;3.21 GB;benchmark_admin_10gb_delta;Completed;N/A;3.21
+15384122;7/19/21, 6:10:15 PM;13 sec;929.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.929
+15382528;7/19/21, 6:10:09 PM;6 sec;267.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.267
+15379755;7/19/21, 6:09:53 PM;15 sec;714.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.714
+15375474;7/19/21, 6:09:40 PM;13 sec;1.23 GB;benchmark_admin_10gb_delta;Completed;N/A;1.23
+15373393;7/19/21, 6:09:24 PM;16 sec;2.03 GB;benchmark_admin_10gb_delta;Completed;N/A;2.03
+15372143;7/19/21, 6:09:18 PM;5 sec;626.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.626
+15369990;7/19/21, 6:09:11 PM;7 sec;480.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.48
+15363319;7/19/21, 6:09:06 PM;4 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+15357575;7/19/21, 6:08:50 PM;15 sec;374.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.374
+15353573;7/19/21, 6:08:41 PM;8 sec;424.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.424
+15351815;7/19/21, 6:08:27 PM;14 sec;610.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.61
+15350832;7/19/21, 6:08:18 PM;8 sec;466.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.466
+15350086;7/19/21, 6:08:14 PM;3 sec;80.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.08
+15346490;7/19/21, 6:07:56 PM;17 sec;2.49 GB;benchmark_admin_10gb_delta;Completed;N/A;2.49
+15341283;7/19/21, 6:07:44 PM;11 sec;961.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.961
+15340351;7/19/21, 6:07:40 PM;3 sec;80.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.08
+15339121;7/19/21, 6:07:22 PM;17 sec;958.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.958
+15338094;7/19/21, 6:07:10 PM;12 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+15334020;7/19/21, 6:06:53 PM;16 sec;984.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.984
+15329905;7/19/21, 6:06:32 PM;20 sec;824.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.824
+15324648;7/19/21, 6:06:00 PM;32 sec;2.16 GB;benchmark_admin_10gb_delta;Completed;N/A;2.16
+15320846;7/19/21, 6:05:45 PM;14 sec;204.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.204
+15320204;7/19/21, 6:05:39 PM;6 sec;485.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.485
+15318865;7/19/21, 6:05:30 PM;8 sec;334.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.334
+15318244;7/19/21, 6:05:29 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15318008;7/19/21, 6:05:26 PM;2 sec;492.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.492
+15317825;7/19/21, 6:05:24 PM;2 sec;63.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.063
+15317618;7/19/21, 6:05:24 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15317442;7/19/21, 6:05:23 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15317231;7/19/21, 6:05:22 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15317049;7/19/21, 6:05:21 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15316748;7/19/21, 6:05:17 PM;3 sec;1.44 GB;benchmark_admin_10gb_delta;Completed;N/A;1.44
+15315686;7/19/21, 6:05:11 PM;6 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+15315686;7/19/21, 6:05:11 PM;6 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+15315484;7/19/21, 6:05:10 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15315150;7/19/21, 6:05:09 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15314483;7/19/21, 6:05:08 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15314267;7/19/21, 6:05:07 PM;1 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+15313444;7/19/21, 6:05:05 PM;2 sec;464.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.464
+15312587;7/19/21, 6:05:04 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15312213;7/19/21, 6:05:03 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15312042;7/19/21, 6:05:02 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15311832;7/19/21, 6:05:01 PM;1 sec;28.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.028
+15311619;7/19/21, 6:05:00 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15311423;7/19/21, 6:04:59 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15311177;7/19/21, 6:04:56 PM;2 sec;1.05 GB;benchmark_admin_10gb_delta;Completed;N/A;1.05
+15310970;7/19/21, 6:04:53 PM;3 sec;130.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.13
+15310794;7/19/21, 6:04:52 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15310604;7/19/21, 6:04:52 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15272089;7/19/21, 6:00:10 PM;6 sec;61.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.061
+15268055;7/19/21, 5:59:56 PM;12 sec;288.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.288
+15266401;7/19/21, 5:59:47 PM;8 sec;308.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.308
+15263017;7/19/21, 5:59:33 PM;14 sec;160.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.16
+15262348;7/19/21, 5:59:25 PM;7 sec;443.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.443
+15261538;7/19/21, 5:59:17 PM;7 sec;298.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.298
+15253108;7/19/21, 5:59:00 PM;17 sec;703.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.703
+15250309;7/19/21, 5:58:49 PM;10 sec;83.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.083
+15245555;7/19/21, 5:58:44 PM;5 sec;48.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.048
+15244023;7/19/21, 5:58:32 PM;11 sec;573.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.573
+15243320;7/19/21, 5:58:19 PM;13 sec;1.61 GB;benchmark_admin_10gb_delta;Completed;N/A;1.61
+15240499;7/19/21, 5:58:06 PM;11 sec;230.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.23
+15237270;7/19/21, 5:58:02 PM;4 sec;76.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.076
+15236781;7/19/21, 5:57:54 PM;7 sec;249.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.249
+15235763;7/19/21, 5:57:47 PM;7 sec;91.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.091
+15231439;7/19/21, 5:57:36 PM;10 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+15229820;7/19/21, 5:57:23 PM;12 sec;653.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.653
+15229198;7/19/21, 5:57:19 PM;4 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+15227606;7/19/21, 5:57:03 PM;15 sec;1.71 GB;benchmark_admin_10gb_delta;Completed;N/A;1.71
+15222493;7/19/21, 5:56:51 PM;12 sec;368.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.368
+15218089;7/19/21, 5:56:39 PM;12 sec;1.24 GB;benchmark_admin_10gb_delta;Completed;N/A;1.24
+15216031;7/19/21, 5:56:23 PM;15 sec;702.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.702
+15213724;7/19/21, 5:56:08 PM;15 sec;548.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.548
+15209612;7/19/21, 5:55:53 PM;14 sec;2.78 GB;benchmark_admin_10gb_delta;Completed;N/A;2.78
+15206310;7/19/21, 5:55:42 PM;11 sec;650.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.65
+15204634;7/19/21, 5:55:28 PM;13 sec;219.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.219
+15203861;7/19/21, 5:55:12 PM;16 sec;1.10 GB;benchmark_admin_10gb_delta;Completed;N/A;1.1
+15199739;7/19/21, 5:54:49 PM;22 sec;541.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.541
+15193666;7/19/21, 5:54:26 PM;23 sec;378.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.378
+15190994;7/19/21, 5:54:09 PM;16 sec;168.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.168
+15182553;7/19/21, 5:53:51 PM;18 sec;900.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.9
+15170014;7/19/21, 5:52:22 PM;1 min;1.05 GB;benchmark_admin_10gb_delta;Completed;N/A;1.05
+15169301;7/19/21, 5:52:10 PM;12 sec;1.19 GB;benchmark_admin_10gb_delta;Completed;N/A;1.19
+15154947;7/19/21, 5:50:22 PM;1 min;2.55 GB;benchmark_admin_10gb_delta;Completed;N/A;2.55
+15152430;7/19/21, 5:50:10 PM;11 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+15149242;7/19/21, 5:49:57 PM;12 sec;70.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.07
+15148543;7/19/21, 5:49:52 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+15142555;7/19/21, 5:49:27 PM;25 sec;696.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.696
+15138637;7/19/21, 5:49:08 PM;18 sec;682.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.682
+15126070;7/19/21, 5:48:05 PM;1 min;645.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.645
+15120479;7/19/21, 5:47:38 PM;26 sec;796.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.796
+15118364;7/19/21, 5:47:20 PM;17 sec;286.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.286
+15114612;7/19/21, 5:46:53 PM;27 sec;339.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.339
+15110442;7/19/21, 5:46:43 PM;9 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+15108795;7/19/21, 5:46:29 PM;14 sec;271.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.271
+15108227;7/19/21, 5:46:10 PM;18 sec;419.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.419
+15104472;7/19/21, 5:45:50 PM;20 sec;485.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.485
+15096812;7/19/21, 5:44:54 PM;55 sec;2.35 GB;benchmark_admin_10gb_delta;Completed;N/A;2.35
+15092742;7/19/21, 5:44:44 PM;10 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+15090592;7/19/21, 5:44:26 PM;17 sec;2.32 GB;benchmark_admin_10gb_delta;Completed;N/A;2.32
+15089662;7/19/21, 5:44:11 PM;14 sec;396.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.396
+15083133;7/19/21, 5:44:06 PM;5 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+15080706;7/19/21, 5:43:57 PM;8 sec;1.15 GB;benchmark_admin_10gb_delta;Completed;N/A;1.15
+15080220;7/19/21, 5:43:50 PM;7 sec;125.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.125
+15076431;7/19/21, 5:43:30 PM;19 sec;291.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.291
+15075734;7/19/21, 5:43:23 PM;6 sec;224.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.224
+15075006;7/19/21, 5:43:17 PM;6 sec;971.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.971
+15070827;7/19/21, 5:42:51 PM;25 sec;261.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.261
+15067166;7/19/21, 5:42:44 PM;7 sec;557.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.557
+15065936;7/19/21, 5:42:27 PM;16 sec;468.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.468
+15065151;7/19/21, 5:42:17 PM;10 sec;169.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.169
+15063462;7/19/21, 5:42:07 PM;10 sec;194.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.194
+15058880;7/19/21, 5:41:44 PM;22 sec;654.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.654
+15055550;7/19/21, 5:41:29 PM;15 sec;707.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.707
+15054425;7/19/21, 5:41:24 PM;5 sec;89.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.089
+15053668;7/19/21, 5:41:09 PM;14 sec;597.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.597
+15049924;7/19/21, 5:40:55 PM;13 sec;3.75 GB;benchmark_admin_10gb_delta;Completed;N/A;3.75
+15047858;7/19/21, 5:40:42 PM;13 sec;929.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.929
+15047079;7/19/21, 5:40:34 PM;7 sec;288.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.288
+15045579;7/19/21, 5:40:21 PM;13 sec;714.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.714
+15044090;7/19/21, 5:40:07 PM;13 sec;1.23 GB;benchmark_admin_10gb_delta;Completed;N/A;1.23
+15040498;7/19/21, 5:39:45 PM;22 sec;2.12 GB;benchmark_admin_10gb_delta;Completed;N/A;2.12
+15036285;7/19/21, 5:39:39 PM;5 sec;626.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.626
+15034475;7/19/21, 5:39:23 PM;16 sec;778.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.778
+15033921;7/19/21, 5:39:19 PM;3 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+15026466;7/19/21, 5:39:02 PM;17 sec;375.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.375
+15020896;7/19/21, 5:38:50 PM;11 sec;447.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.447
+15015827;7/19/21, 5:38:32 PM;18 sec;640.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.64
+15014367;7/19/21, 5:38:15 PM;16 sec;605.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.605
+15013637;7/19/21, 5:38:10 PM;5 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+15010488;7/19/21, 5:37:50 PM;19 sec;2.66 GB;benchmark_admin_10gb_delta;Completed;N/A;2.66
+15005929;7/19/21, 5:37:34 PM;16 sec;1.00 GB;benchmark_admin_10gb_delta;Completed;N/A;1
+15004477;7/19/21, 5:37:30 PM;3 sec;80.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.08
+15003599;7/19/21, 5:37:10 PM;19 sec;958.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.958
+14999679;7/19/21, 5:36:56 PM;14 sec;140.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.14
+14999679;7/19/21, 5:36:56 PM;14 sec;140.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.14
+14994641;7/19/21, 5:36:31 PM;25 sec;1.08 GB;benchmark_admin_10gb_delta;Completed;N/A;1.08
+14991966;7/19/21, 5:36:02 PM;28 sec;904.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.904
+14986199;7/19/21, 5:35:18 PM;43 sec;2.27 GB;benchmark_admin_10gb_delta;Completed;N/A;2.27
+14981774;7/19/21, 5:34:57 PM;21 sec;314.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.314
+14981118;7/19/21, 5:34:48 PM;8 sec;486.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.486
+14976904;7/19/21, 5:34:29 PM;19 sec;518.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.518
+14976229;7/19/21, 5:34:28 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14975992;7/19/21, 5:34:25 PM;2 sec;492.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.492
+14975633;7/19/21, 5:34:24 PM;1 sec;63.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.063
+14975463;7/19/21, 5:34:23 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14975278;7/19/21, 5:34:23 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14975075;7/19/21, 5:34:22 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14974884;7/19/21, 5:34:21 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14974578;7/19/21, 5:34:17 PM;4 sec;1.44 GB;benchmark_admin_10gb_delta;Completed;N/A;1.44
+14973359;7/19/21, 5:34:11 PM;5 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+14971082;7/19/21, 5:34:10 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14969721;7/19/21, 5:34:09 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14968540;7/19/21, 5:34:09 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14966301;7/19/21, 5:34:08 PM;0 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14965719;7/19/21, 5:34:05 PM;2 sec;464.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.464
+14965547;7/19/21, 5:34:04 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14965381;7/19/21, 5:34:04 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14964396;7/19/21, 5:34:03 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14964191;7/19/21, 5:34:02 PM;1 sec;28.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.028
+14963971;7/19/21, 5:34:01 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14963783;7/19/21, 5:33:59 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14963508;7/19/21, 5:33:57 PM;2 sec;1.05 GB;benchmark_admin_10gb_delta;Completed;N/A;1.05
+14963151;7/19/21, 5:33:53 PM;3 sec;130.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.13
+14962968;7/19/21, 5:33:53 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14962741;7/19/21, 5:33:42 PM;10 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14824235;7/19/21, 5:19:04 PM;5 sec;40.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.04
+14831817;7/19/21, 5:19:04 PM;12 sec;61.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.061
+14819230;7/19/21, 5:18:48 PM;15 sec;288.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.288
+14815323;7/19/21, 5:18:39 PM;9 sec;308.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.308
+14814155;7/19/21, 5:18:24 PM;14 sec;160.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.16
+14813542;7/19/21, 5:18:16 PM;8 sec;443.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.443
+14808524;7/19/21, 5:18:04 PM;4 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14811728;7/19/21, 5:18:04 PM;5 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14812003;7/19/21, 5:18:04 PM;11 sec;298.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.298
+14804365;7/19/21, 5:17:43 PM;4 sec;55.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.055
+14805099;7/19/21, 5:17:43 PM;21 sec;703.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.703
+14800382;7/19/21, 5:17:33 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14800639;7/19/21, 5:17:33 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14800935;7/19/21, 5:17:33 PM;9 sec;78.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.078
+14798587;7/19/21, 5:17:26 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14798843;7/19/21, 5:17:26 PM;6 sec;48.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.048
+14797678;7/19/21, 5:17:14 PM;12 sec;573.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.573
+14791358;7/19/21, 5:16:58 PM;15 sec;1.62 GB;benchmark_admin_10gb_delta;Completed;N/A;1.62
+14789913;7/19/21, 5:16:46 PM;11 sec;230.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.23
+14785747;7/19/21, 5:16:40 PM;6 sec;76.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.076
+14782361;7/19/21, 5:16:25 PM;4 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14782817;7/19/21, 5:16:25 PM;5 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14783150;7/19/21, 5:16:25 PM;6 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14783530;7/19/21, 5:16:25 PM;8 sec;29.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.029
+14783879;7/19/21, 5:16:25 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14784359;7/19/21, 5:16:25 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14784643;7/19/21, 5:16:25 PM;14 sec;249.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.249
+14780406;7/19/21, 5:16:14 PM;5 sec;61.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.061
+14780876;7/19/21, 5:16:14 PM;6 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14781123;7/19/21, 5:16:14 PM;6 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14781378;7/19/21, 5:16:14 PM;11 sec;91.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.091
+14777318;7/19/21, 5:16:01 PM;12 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+14774887;7/19/21, 5:15:48 PM;12 sec;653.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.653
+14770781;7/19/21, 5:15:36 PM;3 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14771170;7/19/21, 5:15:36 PM;5 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14771740;7/19/21, 5:15:36 PM;7 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14773428;7/19/21, 5:15:36 PM;11 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+14768870;7/19/21, 5:15:15 PM;8 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14769481;7/19/21, 5:15:15 PM;20 sec;1.71 GB;benchmark_admin_10gb_delta;Completed;N/A;1.71
+14763818;7/19/21, 5:15:00 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14764421;7/19/21, 5:15:00 PM;15 sec;362.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.362
+14762205;7/19/21, 5:14:47 PM;13 sec;1.24 GB;benchmark_admin_10gb_delta;Completed;N/A;1.24
+14753848;7/19/21, 5:14:21 PM;6 sec;33.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.033
+14754331;7/19/21, 5:14:21 PM;10 sec;37.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.037
+14755263;7/19/21, 5:14:21 PM;11 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14755551;7/19/21, 5:14:21 PM;12 sec;30.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.03
+14756651;7/19/21, 5:14:21 PM;25 sec;702.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.702
+14738338;7/19/21, 5:13:56 PM;8 sec;33.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.033
+14740731;7/19/21, 5:13:56 PM;25 sec;548.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.548
+14737522;7/19/21, 5:13:42 PM;14 sec;2.78 GB;benchmark_admin_10gb_delta;Completed;N/A;2.78
+14731483;7/19/21, 5:13:29 PM;12 sec;650.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.65
+14730535;7/19/21, 5:13:14 PM;14 sec;219.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.219
+14725387;7/19/21, 5:12:56 PM;7 sec;45.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.045
+14727253;7/19/21, 5:12:56 PM;17 sec;1.10 GB;benchmark_admin_10gb_delta;Completed;N/A;1.1
+14715952;7/19/21, 5:12:16 PM;5 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14716456;7/19/21, 5:12:16 PM;9 sec;48.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.048
+14717453;7/19/21, 5:12:16 PM;14 sec;69.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.069
+14717946;7/19/21, 5:12:16 PM;16 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14718348;7/19/21, 5:12:16 PM;17 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14718639;7/19/21, 5:12:16 PM;17 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14718964;7/19/21, 5:12:16 PM;18 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14719242;7/19/21, 5:12:16 PM;39 sec;535.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.535
+14711178;7/19/21, 5:11:47 PM;29 sec;379.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.379
+14706018;7/19/21, 5:11:29 PM;17 sec;159.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.159
+14704701;7/19/21, 5:11:09 PM;20 sec;900.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.9
+14692697;7/19/21, 5:09:42 PM;1 min;1.05 GB;benchmark_admin_10gb_delta;Completed;N/A;1.05
+14687594;7/19/21, 5:09:31 PM;11 sec;1.19 GB;benchmark_admin_10gb_delta;Completed;N/A;1.19
+14659685;7/19/21, 5:07:42 PM;6 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14660043;7/19/21, 5:07:42 PM;7 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14660412;7/19/21, 5:07:42 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14660412;7/19/21, 5:07:42 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14660773;7/19/21, 5:07:42 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14661241;7/19/21, 5:07:42 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14661524;7/19/21, 5:07:42 PM;9 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14661815;7/19/21, 5:07:42 PM;10 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14662556;7/19/21, 5:07:42 PM;12 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14662994;7/19/21, 5:07:42 PM;15 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14663410;7/19/21, 5:07:42 PM;17 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14663902;7/19/21, 5:07:42 PM;1 min;2.56 GB;benchmark_admin_10gb_delta;Completed;N/A;2.56
+14653591;7/19/21, 5:07:30 PM;11 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+14649496;7/19/21, 5:07:07 PM;5 sec;33.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.033
+14650578;7/19/21, 5:07:07 PM;9 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14651537;7/19/21, 5:07:07 PM;11 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14651814;7/19/21, 5:07:07 PM;14 sec;39.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.039
+14652379;7/19/21, 5:07:07 PM;14 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14652637;7/19/21, 5:07:07 PM;15 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14652918;7/19/21, 5:07:07 PM;23 sec;70.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.07
+14646757;7/19/21, 5:07:02 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14647034;7/19/21, 5:07:02 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14647475;7/19/21, 5:07:02 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14639917;7/19/21, 5:06:36 PM;25 sec;783.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.783
+14637935;7/19/21, 5:06:19 PM;17 sec;682.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.682
+14629736;7/19/21, 5:05:21 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14630180;7/19/21, 5:05:21 PM;57 sec;645.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.645
+14624972;7/19/21, 5:04:50 PM;30 sec;797.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.797
+14618888;7/19/21, 5:04:30 PM;20 sec;286.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.286
+14609075;7/19/21, 5:04:02 PM;27 sec;333.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.333
+14606024;7/19/21, 5:03:52 PM;9 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+14601858;7/19/21, 5:03:36 PM;16 sec;270.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.27
+14599689;7/19/21, 5:03:14 PM;4 sec;47.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.047
+14600240;7/19/21, 5:03:14 PM;21 sec;419.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.419
+14593971;7/19/21, 5:02:53 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14594222;7/19/21, 5:02:53 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14594487;7/19/21, 5:02:53 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14594746;7/19/21, 5:02:53 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14595011;7/19/21, 5:02:53 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14595286;7/19/21, 5:02:53 PM;21 sec;482.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.482
+14575148;7/19/21, 5:01:28 PM;6 sec;55.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.055
+14576744;7/19/21, 5:01:28 PM;11 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+14579040;7/19/21, 5:01:28 PM;15 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14581214;7/19/21, 5:01:28 PM;17 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14581863;7/19/21, 5:01:28 PM;21 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14582346;7/19/21, 5:01:28 PM;26 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14582965;7/19/21, 5:01:28 PM;28 sec;30.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.03
+14583311;7/19/21, 5:01:28 PM;31 sec;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14583801;7/19/21, 5:01:28 PM;34 sec;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14585938;7/19/21, 5:01:28 PM;1 min;2.31 GB;benchmark_admin_10gb_delta;Completed;N/A;2.31
+14573907;7/19/21, 5:01:18 PM;10 sec;555.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.555
+14569312;7/19/21, 5:00:51 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14569768;7/19/21, 5:00:51 PM;26 sec;2.27 GB;benchmark_admin_10gb_delta;Completed;N/A;2.27
+14565427;7/19/21, 5:00:35 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14565767;7/19/21, 5:00:35 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14566137;7/19/21, 5:00:35 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14566542;7/19/21, 5:00:35 PM;15 sec;383.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.383
+14563528;7/19/21, 5:00:31 PM;4 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+14562735;7/19/21, 5:00:21 PM;9 sec;1.15 GB;benchmark_admin_10gb_delta;Completed;N/A;1.15
+14561978;7/19/21, 5:00:13 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14562248;7/19/21, 5:00:13 PM;7 sec;125.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.125
+14557447;7/19/21, 4:59:53 PM;20 sec;291.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.291
+14555752;7/19/21, 4:59:43 PM;4 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14556190;7/19/21, 4:59:43 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14556470;7/19/21, 4:59:43 PM;9 sec;224.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.224
+14551634;7/19/21, 4:59:36 PM;6 sec;971.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.971
+14549187;7/19/21, 4:59:09 PM;26 sec;258.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.258
+14539598;7/19/21, 4:59:02 PM;7 sec;557.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.557
+14535060;7/19/21, 4:58:46 PM;15 sec;468.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.468
+14531163;7/19/21, 4:58:36 PM;10 sec;169.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.169
+14527771;7/19/21, 4:58:24 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14528078;7/19/21, 4:58:24 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14528366;7/19/21, 4:58:24 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14528643;7/19/21, 4:58:24 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14528951;7/19/21, 4:58:24 PM;11 sec;197.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.197
+14522127;7/19/21, 4:57:58 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14522837;7/19/21, 4:57:58 PM;7 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14525153;7/19/21, 4:57:58 PM;25 sec;654.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.654
+14520433;7/19/21, 4:57:43 PM;5 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14521108;7/19/21, 4:57:43 PM;15 sec;707.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.707
+14515041;7/19/21, 4:57:33 PM;3 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14515360;7/19/21, 4:57:33 PM;4 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14515928;7/19/21, 4:57:33 PM;6 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14516306;7/19/21, 4:57:33 PM;9 sec;89.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.089
+14513463;7/19/21, 4:57:19 PM;14 sec;598.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.598
+14507436;7/19/21, 4:56:55 PM;5 sec;104.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.104
+14508518;7/19/21, 4:56:55 PM;10 sec;85.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.085
+14510653;7/19/21, 4:56:55 PM;23 sec;3.75 GB;benchmark_admin_10gb_delta;Completed;N/A;3.75
+14506983;7/19/21, 4:56:42 PM;12 sec;929.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.929
+14501121;7/19/21, 4:56:29 PM;5 sec;47.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.047
+14502618;7/19/21, 4:56:29 PM;13 sec;288.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.288
+14500340;7/19/21, 4:56:13 PM;16 sec;714.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.714
+14493634;7/19/21, 4:55:45 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14493902;7/19/21, 4:55:45 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14494208;7/19/21, 4:55:45 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14494459;7/19/21, 4:55:45 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14494751;7/19/21, 4:55:45 PM;5 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14495220;7/19/21, 4:55:45 PM;27 sec;1.30 GB;benchmark_admin_10gb_delta;Completed;N/A;1.3
+14488997;7/19/21, 4:55:26 PM;19 sec;2.23 GB;benchmark_admin_10gb_delta;Completed;N/A;2.23
+14484694;7/19/21, 4:55:01 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14485027;7/19/21, 4:55:01 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14485340;7/19/21, 4:55:01 PM;25 sec;2.33 GB;benchmark_admin_10gb_delta;Completed;N/A;2.33
+14475570;7/19/21, 4:54:29 PM;4 sec;26.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.026
+14476137;7/19/21, 4:54:29 PM;5 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14476137;7/19/21, 4:54:29 PM;5 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14476402;7/19/21, 4:54:29 PM;8 sec;317.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.317
+14477971;7/19/21, 4:54:29 PM;11 sec;26.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.026
+14479979;7/19/21, 4:54:29 PM;12 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14481079;7/19/21, 4:54:29 PM;16 sec;196.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.196
+14482294;7/19/21, 4:54:29 PM;31 sec;778.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.778
+14475062;7/19/21, 4:54:26 PM;2 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+14472496;7/19/21, 4:54:09 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14472798;7/19/21, 4:54:09 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14473566;7/19/21, 4:54:09 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14473875;7/19/21, 4:54:09 PM;16 sec;375.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.375
+14461837;7/19/21, 4:53:53 PM;5 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14462822;7/19/21, 4:53:53 PM;6 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14463138;7/19/21, 4:53:53 PM;15 sec;447.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.447
+14454637;7/19/21, 4:53:22 PM;9 sec;74.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.074
+14455159;7/19/21, 4:53:22 PM;13 sec;61.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.061
+14456737;7/19/21, 4:53:22 PM;16 sec;64.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.064
+14457297;7/19/21, 4:53:22 PM;17 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14457855;7/19/21, 4:53:22 PM;31 sec;640.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.64
+14445211;7/19/21, 4:52:41 PM;5 sec;51.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.051
+14445720;7/19/21, 4:52:41 PM;9 sec;39.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.039
+14446154;7/19/21, 4:52:41 PM;13 sec;50.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.05
+14446741;7/19/21, 4:52:41 PM;17 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14447197;7/19/21, 4:52:41 PM;18 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14447703;7/19/21, 4:52:41 PM;22 sec;35.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.035
+14450176;7/19/21, 4:52:41 PM;22 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14450446;7/19/21, 4:52:41 PM;26 sec;38.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.038
+14452782;7/19/21, 4:52:41 PM;40 sec;606.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.606
+14438360;7/19/21, 4:52:31 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14438704;7/19/21, 4:52:31 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14439014;7/19/21, 4:52:31 PM;6 sec;63.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.063
+14440673;7/19/21, 4:52:31 PM;10 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+14427240;7/19/21, 4:51:42 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14427505;7/19/21, 4:51:42 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14427854;7/19/21, 4:51:42 PM;6 sec;81.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.081
+14429359;7/19/21, 4:51:42 PM;10 sec;36.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.036
+14430116;7/19/21, 4:51:42 PM;14 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14430624;7/19/21, 4:51:42 PM;18 sec;44.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.044
+14431221;7/19/21, 4:51:42 PM;22 sec;65.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.065
+14434632;7/19/21, 4:51:42 PM;28 sec;72.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.072
+14436944;7/19/21, 4:51:42 PM;33 sec;115.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.115
+14437600;7/19/21, 4:51:42 PM;48 sec;2.66 GB;benchmark_admin_10gb_delta;Completed;N/A;2.66
+14416607;7/19/21, 4:51:04 PM;7 sec;67.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.067
+14417757;7/19/21, 4:51:04 PM;7 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14418057;7/19/21, 4:51:04 PM;8 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14418347;7/19/21, 4:51:04 PM;12 sec;70.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.07
+14419142;7/19/21, 4:51:04 PM;13 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14419409;7/19/21, 4:51:04 PM;14 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14419687;7/19/21, 4:51:04 PM;18 sec;106.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.106
+14420274;7/19/21, 4:51:04 PM;22 sec;130.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.13
+14420748;7/19/21, 4:51:04 PM;37 sec;1.00 GB;benchmark_admin_10gb_delta;Completed;N/A;1
+14411290;7/19/21, 4:50:57 PM;2 sec;15.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.015
+14411649;7/19/21, 4:50:57 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14411911;7/19/21, 4:50:57 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14412427;7/19/21, 4:50:57 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14413354;7/19/21, 4:50:57 PM;7 sec;80.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.08
+14406087;7/19/21, 4:50:29 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14406366;7/19/21, 4:50:29 PM;3 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14406677;7/19/21, 4:50:29 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14406999;7/19/21, 4:50:29 PM;4 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14407283;7/19/21, 4:50:29 PM;5 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14407894;7/19/21, 4:50:29 PM;5 sec;21.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.021
+14409083;7/19/21, 4:50:29 PM;28 sec;989.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.989
+14395619;7/19/21, 4:49:47 PM;8 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14396270;7/19/21, 4:49:47 PM;9 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14396571;7/19/21, 4:49:47 PM;11 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14397024;7/19/21, 4:49:47 PM;12 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14397510;7/19/21, 4:49:47 PM;14 sec;25.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.025
+14399407;7/19/21, 4:49:47 PM;17 sec;26.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.026
+14400746;7/19/21, 4:49:47 PM;19 sec;25.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.025
+14403356;7/19/21, 4:49:47 PM;22 sec;25.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.025
+14404330;7/19/21, 4:49:47 PM;24 sec;25.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.025
+14404899;7/19/21, 4:49:47 PM;25 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14405188;7/19/21, 4:49:47 PM;41 sec;206.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.206
+14374573;7/19/21, 4:48:55 PM;7 sec;26.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.026
+14378412;7/19/21, 4:48:55 PM;9 sec;25.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.025
+14379901;7/19/21, 4:48:55 PM;12 sec;27.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.027
+14383230;7/19/21, 4:48:55 PM;17 sec;68.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.068
+14387787;7/19/21, 4:48:55 PM;20 sec;33.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.033
+14388626;7/19/21, 4:48:55 PM;20 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14388869;7/19/21, 4:48:55 PM;21 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14389151;7/19/21, 4:48:55 PM;25 sec;77.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.077
+14390021;7/19/21, 4:48:55 PM;26 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14390268;7/19/21, 4:48:55 PM;26 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14390614;7/19/21, 4:48:55 PM;51 sec;1.08 GB;benchmark_admin_10gb_delta;Completed;N/A;1.08
+14358685;7/19/21, 4:47:51 PM;9 sec;59.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.059
+14359257;7/19/21, 4:47:51 PM;10 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14359764;7/19/21, 4:47:51 PM;11 sec;33.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.033
+14361642;7/19/21, 4:47:51 PM;15 sec;53.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.053
+14363703;7/19/21, 4:47:51 PM;18 sec;36.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.036
+14365069;7/19/21, 4:47:51 PM;19 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14365337;7/19/21, 4:47:51 PM;19 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14365669;7/19/21, 4:47:51 PM;21 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14366255;7/19/21, 4:47:51 PM;22 sec;32.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.032
+14366597;7/19/21, 4:47:51 PM;26 sec;57.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.057
+14367137;7/19/21, 4:47:51 PM;29 sec;36.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.036
+14367809;7/19/21, 4:47:51 PM;32 sec;29.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.029
+14368222;7/19/21, 4:47:51 PM;35 sec;35.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.035
+14368806;7/19/21, 4:47:51 PM;36 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14369052;7/19/21, 4:47:51 PM;36 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14369349;7/19/21, 4:47:51 PM;37 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14369349;7/19/21, 4:47:51 PM;37 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14369645;7/19/21, 4:47:51 PM;1 min;904.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.904
+14331567;7/19/21, 4:45:50 PM;8 sec;67.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.067
+14332428;7/19/21, 4:45:50 PM;9 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14332802;7/19/21, 4:45:50 PM;12 sec;49.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.049
+14335194;7/19/21, 4:45:50 PM;16 sec;34.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.034
+14336942;7/19/21, 4:45:50 PM;20 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14338777;7/19/21, 4:45:50 PM;25 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14339504;7/19/21, 4:45:50 PM;29 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14339994;7/19/21, 4:45:50 PM;34 sec;88.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.088
+14340534;7/19/21, 4:45:50 PM;39 sec;86.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.086
+14341259;7/19/21, 4:45:50 PM;43 sec;132.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.132
+14342489;7/19/21, 4:45:50 PM;48 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+14342984;7/19/21, 4:45:50 PM;53 sec;133.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.133
+14346435;7/19/21, 4:45:50 PM;58 sec;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14347108;7/19/21, 4:45:50 PM;1 min;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14347724;7/19/21, 4:45:50 PM;1 min;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14348180;7/19/21, 4:45:50 PM;1 min;58.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.058
+14348871;7/19/21, 4:45:50 PM;2 min;2.25 GB;benchmark_admin_10gb_delta;Completed;N/A;2.25
+14324324;7/19/21, 4:45:15 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14324691;7/19/21, 4:45:15 PM;6 sec;53.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.053
+14325219;7/19/21, 4:45:15 PM;7 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14325547;7/19/21, 4:45:15 PM;11 sec;134.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.134
+14326039;7/19/21, 4:45:15 PM;12 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14326301;7/19/21, 4:45:15 PM;12 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14326587;7/19/21, 4:45:15 PM;13 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14326993;7/19/21, 4:45:15 PM;35 sec;317.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.317
+14317658;7/19/21, 4:44:58 PM;4 sec;30.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.03
+14320286;7/19/21, 4:44:58 PM;8 sec;31.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.031
+14322453;7/19/21, 4:44:58 PM;9 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14322855;7/19/21, 4:44:58 PM;16 sec;486.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.486
+14308973;7/19/21, 4:44:15 PM;2 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14309397;7/19/21, 4:44:15 PM;5 sec;53.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.053
+14309926;7/19/21, 4:44:15 PM;7 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14310273;7/19/21, 4:44:15 PM;9 sec;61.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.061
+14310864;7/19/21, 4:44:15 PM;16 sec;55.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.055
+14312141;7/19/21, 4:44:15 PM;17 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14312403;7/19/21, 4:44:15 PM;17 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14312659;7/19/21, 4:44:15 PM;18 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14313003;7/19/21, 4:44:15 PM;21 sec;62.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.062
+14317037;7/19/21, 4:44:15 PM;43 sec;509.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.509
+14308439;7/19/21, 4:44:14 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14301173;7/19/21, 4:44:08 PM;6 sec;492.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.492
+14300070;7/19/21, 4:44:06 PM;1 sec;63.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.063
+14299860;7/19/21, 4:44:05 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14299683;7/19/21, 4:44:05 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14299487;7/19/21, 4:44:04 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14298612;7/19/21, 4:44:03 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14296383;7/19/21, 4:43:56 PM;7 sec;1.44 GB;benchmark_admin_10gb_delta;Completed;N/A;1.44
+14292996;7/19/21, 4:43:44 PM;11 sec;231.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.231
+14292715;7/19/21, 4:43:43 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14292536;7/19/21, 4:43:43 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14292365;7/19/21, 4:43:42 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14292140;7/19/21, 4:43:41 PM;1 sec;11.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.011
+14288891;7/19/21, 4:43:36 PM;4 sec;464.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.464
+14288728;7/19/21, 4:43:35 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14288565;7/19/21, 4:43:35 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14288397;7/19/21, 4:43:34 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14287732;7/19/21, 4:43:32 PM;1 sec;28.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.028
+14287518;7/19/21, 4:43:31 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14287182;7/19/21, 4:43:29 PM;1 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14286949;7/19/21, 4:43:24 PM;4 sec;1.05 GB;benchmark_admin_10gb_delta;Completed;N/A;1.05
+14286717;7/19/21, 4:43:19 PM;4 sec;130.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.13
+14286543;7/19/21, 4:43:18 PM;0 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+14286364;7/19/21, 4:43:06 PM;11 sec;10.00 MB;benchmark_admin_10gb_delta;Completed;N/A;0.01
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;

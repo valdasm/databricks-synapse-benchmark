@@ -1,0 +1,18 @@
+  
+config:
+  send_anonymous_usage_stats: False
+
+benchmark_databricks:
+  target: dev
+  outputs:
+    dev:
+      type: spark
+      method: odbc
+      driver: /opt/simba/spark/lib/64/libsparkodbc_sb64.so
+      host: adb-2618270864565544.4.azuredatabricks.net
+      organization: "2618270864565544"    # Azure Databricks only
+      port: 443                         # default
+      token: "{{ env_var('DBR_TOKEN') }}"
+      schema: dev_benchmark
+      endpoint: ed4c0e30d33e2d7d
+  

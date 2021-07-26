@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/dbt-labs/dbt-utils.git"
+    revision: '0.7.0'
+  

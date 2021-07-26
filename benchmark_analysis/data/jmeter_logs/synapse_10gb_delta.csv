@@ -1,0 +1,349 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626702185853,13019,warmup 1,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8021,0,1,1,null,13018,0,1034
+1626702198873,827,warmup 2,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14158,0,1,1,null,824,0,0
+1626702199700,4987,warmup 3,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,16115,0,1,1,null,4983,0,0
+1626702204687,4523,warmup 4,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21761,0,1,1,null,4522,0,0
+1626702209210,2049,warmup 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11589,0,1,1,null,2046,0,0
+1626702211259,1000,warmup 6,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4423,0,1,1,null,1000,0,0
+1626702212260,1748,warmup 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14174,0,1,1,null,1746,0,0
+1626702214008,1026,warmup 8,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14342,0,1,1,null,1020,0,0
+1626702215034,616,warmup 9,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2227,0,1,1,null,616,0,0
+1626702215650,538,warmup 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,356,0,1,1,null,538,0,0
+1626702216189,4783,warmup 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2166,0,1,1,null,4783,0,0
+1626702220973,1481,warmup 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,28173,0,1,1,null,1469,0,0
+1626702222455,596,warmup 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12664,0,1,1,null,594,0,0
+1626702223051,701,warmup 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1642,0,1,1,null,701,0,0
+1626702223752,627,warmup 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1095,0,1,1,null,627,0,0
+1626702224379,11852,warmup 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12158,0,1,1,null,11850,0,0
+1626702236231,7611,warmup 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14710,0,1,1,null,7609,0,0
+1626702243843,622,warmup 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,27707,0,1,1,null,619,0,0
+1626702244464,811,warmup 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6163,0,1,1,null,810,0,0
+1626702245275,586,warmup 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1399,0,1,1,null,586,0,0
+1626702245861,643,warmup 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10339,0,1,1,null,642,0,0
+1626702246505,1624,warmup 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14991,0,1,1,null,1622,0,0
+1626702248129,6270,warmup 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21437,0,1,1,null,6267,0,0
+1626702254400,614,warmup 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12861,0,1,1,null,596,0,0
+1626702255013,43441,SQL QUERY 1 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1714,0,1,1,null,43440,0,0
+1626702298455,16640,SQL QUERY 2 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,170623,0,1,1,null,16628,0,0
+1626702315095,35086,SQL QUERY 3 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3860,0,1,1,null,35084,0,0
+1626702350182,121345,SQL QUERY 4 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3359,0,1,1,null,121344,0,0
+1626702471529,64132,SQL QUERY 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6879,0,1,1,null,64131,0,0
+1626702535661,52005,SQL QUERY 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4968,0,1,1,null,52003,0,0
+1626702587666,70,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 10 GB Delta 1-1,text,false,,26,0,1,1,null,0,0,0
+1626702587736,41608,SQL QUERY 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4796,0,1,1,null,41607,0,0
+1626702629344,28353,SQL QUERY 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4084,0,1,1,null,28352,0,0
+1626702657697,7215,SQL QUERY 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15669,0,1,1,null,7213,0,0
+1626702664913,37648,SQL QUERY 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,41,0,1,1,null,37648,0,1
+1626702702561,48646,SQL QUERY 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3360,0,1,1,null,48645,0,0
+1626702751207,10493,SQL QUERY 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1360,0,1,1,null,10493,0,0
+1626702761700,40823,SQL QUERY 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,75,0,1,1,null,40823,0,0
+1626702802524,31224,SQL QUERY 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,552,0,1,1,null,31223,0,0
+1626702833747,15501,SQL QUERY 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8541,0,1,1,null,15500,0,0
+1626702849249,16993,SQL QUERY 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5106,0,1,1,null,16993,0,0
+1626702866241,2963,SQL QUERY 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15247,0,1,1,null,2962,0,1
+1626702869204,31990,SQL QUERY 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4046,0,1,1,null,31990,0,0
+1626702901195,25366,SQL QUERY 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5778,0,1,1,null,25365,0,0
+1626702926561,19162,SQL QUERY 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,19162,0,0
+1626702945723,27570,SQL QUERY 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,247,0,1,1,null,27570,0,0
+1626702973293,16304,SQL QUERY 25,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,235,0,1,1,null,16304,0,0
+1626702989597,13149,SQL QUERY 26,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5028,0,1,1,null,13149,0,0
+1626703002747,13048,SQL QUERY 27,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5293,0,1,1,null,13048,0,0
+1626703015794,23210,SQL QUERY 28,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,260,0,1,1,null,23210,0,0
+1626703039005,14679,SQL QUERY 29,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,830,0,1,1,null,14679,0,0
+1626703053684,9733,SQL QUERY 30,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10689,0,1,1,null,9732,0,0
+1626703063417,15339,SQL QUERY 31,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15369,0,1,1,null,15336,0,0
+1626703078756,25244,SQL QUERY 33,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1326,0,1,1,null,25244,0,0
+1626703104001,12066,SQL QUERY 34,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,43749,0,1,1,null,12060,0,0
+1626703116068,10305,SQL QUERY 35,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4845,0,1,1,null,10304,0,0
+1626703126373,15688,SQL QUERY 36,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2787,0,1,1,null,15687,0,0
+1626703142061,7541,SQL QUERY 37,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,255,0,1,1,null,7541,0,0
+1626703149602,26983,SQL QUERY 38,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5,0,1,1,null,26983,0,0
+1626703176585,6428,SQL QUERY 39,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,113696,0,1,1,null,6419,0,0
+1626703183013,9983,SQL QUERY 40,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3327,0,1,1,null,9982,0,0
+1626703192996,20518,SQL QUERY 42,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,307,0,1,1,null,20517,0,0
+1626703213514,7682,SQL QUERY 43,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2024,0,1,1,null,7681,0,0
+1626703221196,9797,SQL QUERY 44,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,418,0,1,1,null,9797,0,0
+1626703230994,4905,SQL QUERY 45,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,474,0,1,1,null,4904,0,0
+1626703235899,16016,SQL QUERY 46,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5450,0,1,1,null,16015,0,0
+1626703251915,26096,SQL QUERY 47,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5376,0,1,1,null,26096,0,0
+1626703278011,10920,SQL QUERY 48,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,10920,0,0
+1626703288930,84183,SQL QUERY 49,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11820,0,1,1,null,84180,0,0
+1626703373113,21568,SQL QUERY 50,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4546,0,1,1,null,21568,0,0
+1626703394682,21933,SQL QUERY 51,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3981,0,1,1,null,21932,0,0
+1626703416615,16299,SQL QUERY 52,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3993,0,1,1,null,16299,0,0
+1626703432914,9799,SQL QUERY 53,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2209,0,1,1,null,9799,0,0
+1626703442713,27487,SQL QUERY 54,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,35,0,1,1,null,27487,0,0
+1626703470201,20107,SQL QUERY 55,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3467,0,1,1,null,20107,0,0
+1626703490309,31043,SQL QUERY 56,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2365,0,1,1,null,31042,0,0
+1626703521352,57681,SQL QUERY 57,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6145,0,1,1,null,57681,0,0
+1626703579033,17582,SQL QUERY 59,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,9045,0,1,1,null,17580,0,0
+1626703596616,25989,SQL QUERY 60,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2603,0,1,1,null,25989,0,0
+1626703622604,4744,SQL QUERY 61,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,33,0,1,1,null,4744,0,0
+1626703627349,23506,SQL QUERY 62,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4784,0,1,1,null,23506,0,0
+1626703650855,11907,SQL QUERY 63,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2369,0,1,1,null,11907,0,0
+1626703662761,108538,SQL QUERY 64,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4036,0,1,1,null,108538,0,0
+1626703771298,11608,SQL QUERY 65,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4266,0,1,1,null,11608,0,0
+1626703782904,86464,SQL QUERY 67,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5933,0,1,1,null,86463,0,0
+1626703869354,20261,SQL QUERY 68,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6398,0,1,1,null,20260,0,0
+1626703889612,17346,SQL QUERY 69,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,101,0,1,1,null,17346,0,0
+1626703906955,29716,SQL QUERY 70,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,153,0,1,1,null,29715,0,0
+1626703936667,40162,SQL QUERY 71,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,383533,0,1,1,null,40075,0,0
+1626703976823,17647,SQL QUERY 72,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12070,0,1,1,null,17645,0,0
+1626703994467,14809,SQL QUERY 73,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,714,0,1,1,null,14809,0,0
+1626704009273,12786,SQL QUERY 74,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3141,0,1,1,null,12786,0,0
+1626704022058,14713,SQL QUERY 75,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5621,0,1,1,null,14713,0,0
+1626704036769,25144,SQL QUERY 76,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5174,0,1,1,null,25143,0,0
+1626704061909,25087,SQL QUERY 77,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5088,0,1,1,null,25086,0,0
+1626704086993,13817,SQL QUERY 78,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3939,0,1,1,null,13816,0,0
+1626704100809,15090,SQL QUERY 79,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4500,0,1,1,null,15089,0,0
+1626704115897,20580,SQL QUERY 80,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,7236,0,1,1,null,20580,0,0
+1626704136475,11984,SQL QUERY 81,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,13757,0,1,1,null,11982,0,0
+1626704148458,12953,SQL QUERY 82,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1482,0,1,1,null,12953,0,0
+1626704161409,12732,SQL QUERY 83,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6233,0,1,1,null,12732,0,0
+1626704174140,11582,SQL QUERY 84,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3287,0,1,1,null,11582,0,0
+1626704185721,14473,SQL QUERY 85,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,434,0,1,1,null,14473,0,0
+1626704200193,6237,SQL QUERY 86,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2870,0,1,1,null,6236,0,0
+1626704206429,11682,SQL QUERY 87,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,11682,0,0
+1626704218110,15883,SQL QUERY 88,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,147,0,1,1,null,15883,0,0
+1626704233991,12461,SQL QUERY 89,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6900,0,1,1,null,12460,0,0
+1626704246451,6970,SQL QUERY 90,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14,0,1,1,null,6970,0,0
+1626704253420,9642,SQL QUERY 91,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,747,0,1,1,null,9642,0,0
+1626704263061,21603,SQL QUERY 93,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1087,0,1,1,null,21603,0,0
+1626704284663,11408,SQL QUERY 94,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,73,0,1,1,null,11408,0,0
+1626704296069,8143,SQL QUERY 95,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,74,0,1,1,null,8143,0,0
+1626704304211,14801,SQL QUERY 96,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,14801,0,0
+1626704319011,9170,SQL QUERY 97,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,62,0,1,1,null,9170,0,0
+1626704328180,16433,SQL QUERY 98,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2405725,0,1,1,null,15257,0,0
+1626704344611,12435,SQL QUERY 99,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5499,0,1,1,null,12435,0,0
+1626705220846,12039,warmup 1,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8021,0,1,1,null,12038,0,1211
+1626705232885,752,warmup 2,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14158,0,1,1,null,751,0,0
+1626705233637,3363,warmup 3,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,16103,0,1,1,null,3361,0,0
+1626705237000,2761,warmup 4,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21761,0,1,1,null,2759,0,0
+1626705239761,1329,warmup 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11589,0,1,1,null,1327,0,0
+1626705241091,1127,warmup 6,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4423,0,1,1,null,1127,0,0
+1626705242218,1175,warmup 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14174,0,1,1,null,1174,0,0
+1626705243393,695,warmup 8,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14342,0,1,1,null,692,0,0
+1626705244089,685,warmup 9,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2227,0,1,1,null,684,0,0
+1626705244774,569,warmup 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,356,0,1,1,null,569,0,0
+1626705245343,2602,warmup 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2166,0,1,1,null,2602,0,0
+1626705247946,1079,warmup 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,28173,0,1,1,null,1075,0,0
+1626705249024,739,warmup 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12664,0,1,1,null,734,0,0
+1626705249763,685,warmup 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1642,0,1,1,null,685,0,0
+1626705250448,656,warmup 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1095,0,1,1,null,655,0,0
+1626705251104,5998,warmup 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12158,0,1,1,null,5998,0,0
+1626705257102,4369,warmup 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14548,0,1,1,null,4366,0,0
+1626705261471,778,warmup 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,27707,0,1,1,null,758,0,0
+1626705262249,597,warmup 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6163,0,1,1,null,597,0,0
+1626705262846,691,warmup 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1399,0,1,1,null,691,0,0
+1626705263537,554,warmup 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10339,0,1,1,null,553,0,0
+1626705264092,1536,warmup 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14991,0,1,1,null,1534,0,0
+1626705265628,2833,warmup 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21437,0,1,1,null,2831,0,0
+1626705268461,563,warmup 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12861,0,1,1,null,561,0,0
+1626705269024,19686,SQL QUERY 1 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1714,0,1,1,null,19686,0,0
+1626705288710,8917,SQL QUERY 2 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,170623,0,1,1,null,8909,0,0
+1626705297628,21145,SQL QUERY 3 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3860,0,1,1,null,21145,0,0
+1626705318773,43753,SQL QUERY 4 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3359,0,1,1,null,43752,0,0
+1626705362524,28284,SQL QUERY 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6879,0,1,1,null,28283,0,0
+1626705390808,25606,SQL QUERY 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4968,0,1,1,null,25606,0,0
+1626705416413,71,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 10 GB Delta 1-1,text,false,,26,0,1,1,null,0,0,0
+1626705416484,14272,SQL QUERY 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4796,0,1,1,null,14271,0,0
+1626705430757,19830,SQL QUERY 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4084,0,1,1,null,19830,0,0
+1626705450586,3961,SQL QUERY 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15669,0,1,1,null,3959,0,0
+1626705454547,16199,SQL QUERY 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,41,0,1,1,null,16199,0,0
+1626705470746,19367,SQL QUERY 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3360,0,1,1,null,19366,0,0
+1626705490112,5160,SQL QUERY 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1360,0,1,1,null,5160,0,0
+1626705495271,16634,SQL QUERY 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,75,0,1,1,null,16634,0,0
+1626705511905,18641,SQL QUERY 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,552,0,1,1,null,18641,0,0
+1626705530546,11804,SQL QUERY 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8541,0,1,1,null,11803,0,0
+1626705542349,17088,SQL QUERY 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5106,0,1,1,null,17088,0,0
+1626705559438,3716,SQL QUERY 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15247,0,1,1,null,3715,0,0
+1626705563154,16144,SQL QUERY 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4046,0,1,1,null,16143,0,0
+1626705579297,5999,SQL QUERY 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5778,0,1,1,null,5998,0,0
+1626705585297,22193,SQL QUERY 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,22192,0,0
+1626705607489,13450,SQL QUERY 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,247,0,1,1,null,13450,0,0
+1626705620938,13555,SQL QUERY 25,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,235,0,1,1,null,13555,0,0
+1626705634494,7566,SQL QUERY 26,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5028,0,1,1,null,7566,0,0
+1626705642060,13608,SQL QUERY 27,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5293,0,1,1,null,13607,0,0
+1626705655668,13977,SQL QUERY 28,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,260,0,1,1,null,13976,0,0
+1626705669645,14342,SQL QUERY 29,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,830,0,1,1,null,14341,0,0
+1626705683986,5269,SQL QUERY 30,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10689,0,1,1,null,5267,0,0
+1626705689255,15304,SQL QUERY 31,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15369,0,1,1,null,15291,0,0
+1626705704559,22745,SQL QUERY 33,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1326,0,1,1,null,22745,0,0
+1626705727303,10216,SQL QUERY 34,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,43749,0,1,1,null,10207,0,0
+1626705737520,10245,SQL QUERY 35,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4845,0,1,1,null,10244,0,0
+1626705747765,16271,SQL QUERY 36,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2787,0,1,1,null,16271,0,0
+1626705764036,7669,SQL QUERY 37,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,255,0,1,1,null,7669,0,0
+1626705771705,25195,SQL QUERY 38,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5,0,1,1,null,25195,0,0
+1626705796900,6464,SQL QUERY 39,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,113696,0,1,1,null,6454,0,0
+1626705803363,6923,SQL QUERY 40,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3327,0,1,1,null,6923,0,0
+1626705810287,19528,SQL QUERY 42,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,307,0,1,1,null,19528,0,0
+1626705829814,7415,SQL QUERY 43,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2024,0,1,1,null,7415,0,0
+1626705837230,9056,SQL QUERY 44,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,418,0,1,1,null,9056,0,0
+1626705846286,5355,SQL QUERY 45,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,474,0,1,1,null,5355,0,0
+1626705851640,14545,SQL QUERY 46,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5450,0,1,1,null,14544,0,0
+1626705866185,17797,SQL QUERY 47,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5376,0,1,1,null,17797,0,0
+1626705883981,10289,SQL QUERY 48,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,10289,0,0
+1626705894271,55792,SQL QUERY 49,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11820,0,1,1,null,55789,0,0
+1626705950062,20433,SQL QUERY 50,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4546,0,1,1,null,20432,0,1
+1626705970495,18651,SQL QUERY 51,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3981,0,1,1,null,18651,0,0
+1626705989145,14406,SQL QUERY 52,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3993,0,1,1,null,14405,0,0
+1626706003551,9547,SQL QUERY 53,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2209,0,1,1,null,9547,0,0
+1626706013099,27616,SQL QUERY 54,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,35,0,1,1,null,27616,0,0
+1626706040714,18030,SQL QUERY 55,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3467,0,1,1,null,18030,0,0
+1626706058744,26718,SQL QUERY 56,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2365,0,1,1,null,26717,0,0
+1626706085462,62779,SQL QUERY 57,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6145,0,1,1,null,62779,0,0
+1626706148240,18683,SQL QUERY 59,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,9045,0,1,1,null,18681,0,0
+1626706166923,25857,SQL QUERY 60,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2603,0,1,1,null,25856,0,0
+1626706192780,4936,SQL QUERY 61,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,33,0,1,1,null,4936,0,0
+1626706197716,12864,SQL QUERY 62,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4784,0,1,1,null,12863,0,0
+1626706210579,11451,SQL QUERY 63,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2369,0,1,1,null,11450,0,0
+1626706222031,108089,SQL QUERY 64,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4036,0,1,1,null,108089,0,0
+1626706330119,12213,SQL QUERY 65,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4266,0,1,1,null,12213,0,0
+1626706342332,89141,SQL QUERY 67,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5933,0,1,1,null,89141,0,0
+1626706431473,18240,SQL QUERY 68,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6398,0,1,1,null,18239,0,0
+1626706449713,16161,SQL QUERY 69,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,101,0,1,1,null,16161,0,0
+1626706465873,23411,SQL QUERY 70,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,153,0,1,1,null,23411,0,0
+1626706489284,22915,SQL QUERY 71,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,383533,0,1,1,null,22828,0,0
+1626706512199,16423,SQL QUERY 72,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12070,0,1,1,null,16421,0,0
+1626706528621,13672,SQL QUERY 73,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,714,0,1,1,null,13671,0,0
+1626706542294,11152,SQL QUERY 74,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3141,0,1,1,null,11151,0,0
+1626706553446,14604,SQL QUERY 75,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5621,0,1,1,null,14603,0,0
+1626706568049,15517,SQL QUERY 76,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5174,0,1,1,null,15516,0,0
+1626706583566,15332,SQL QUERY 77,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5088,0,1,1,null,15331,0,0
+1626706598898,12187,SQL QUERY 78,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3939,0,1,1,null,12187,0,0
+1626706611085,12320,SQL QUERY 79,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4500,0,1,1,null,12320,0,0
+1626706623405,15405,SQL QUERY 80,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,7236,0,1,1,null,15404,0,0
+1626706638810,4533,SQL QUERY 81,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,13757,0,1,1,null,4531,0,0
+1626706643343,12478,SQL QUERY 82,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1482,0,1,1,null,12478,0,0
+1626706655821,10992,SQL QUERY 83,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6233,0,1,1,null,10992,0,0
+1626706666813,7967,SQL QUERY 84,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3287,0,1,1,null,7967,0,0
+1626706674780,7750,SQL QUERY 85,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,434,0,1,1,null,7750,0,0
+1626706682530,4215,SQL QUERY 86,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2870,0,1,1,null,4214,0,0
+1626706686745,12054,SQL QUERY 87,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,12053,0,0
+1626706698799,13715,SQL QUERY 88,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,147,0,1,1,null,13715,0,0
+1626706712513,11668,SQL QUERY 89,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6900,0,1,1,null,11668,0,1
+1626706724182,5279,SQL QUERY 90,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14,0,1,1,null,5279,0,0
+1626706729460,10380,SQL QUERY 91,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,747,0,1,1,null,10380,0,0
+1626706739842,17546,SQL QUERY 93,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1087,0,1,1,null,17546,0,0
+1626706757387,7853,SQL QUERY 94,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,73,0,1,1,null,7853,0,0
+1626706765240,8047,SQL QUERY 95,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,74,0,1,1,null,8047,0,0
+1626706773287,14309,SQL QUERY 96,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,14309,0,0
+1626706787596,8422,SQL QUERY 97,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,62,0,1,1,null,8422,0,0
+1626706796018,14093,SQL QUERY 98,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2405725,0,1,1,null,12930,0,0
+1626706810111,6508,SQL QUERY 99,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5499,0,1,1,null,6507,0,0
+1626707090720,1899,warmup 1,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8021,0,1,1,null,1898,0,1163
+1626707092618,626,warmup 2,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14158,0,1,1,null,626,0,0
+1626707093244,3526,warmup 3,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,16103,0,1,1,null,3523,0,0
+1626707096771,2639,warmup 4,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21761,0,1,1,null,2638,0,0
+1626707099410,911,warmup 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11589,0,1,1,null,899,0,0
+1626707100321,1044,warmup 6,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4423,0,1,1,null,1044,0,0
+1626707101365,1369,warmup 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14174,0,1,1,null,1368,0,0
+1626707102734,735,warmup 8,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14342,0,1,1,null,733,0,0
+1626707103469,717,warmup 9,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2227,0,1,1,null,717,0,0
+1626707104186,912,warmup 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,356,0,1,1,null,912,0,0
+1626707105098,2401,warmup 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2166,0,1,1,null,2401,0,0
+1626707107499,1174,warmup 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,28173,0,1,1,null,1171,0,0
+1626707108673,856,warmup 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12664,0,1,1,null,854,0,0
+1626707109529,815,warmup 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1642,0,1,1,null,815,0,0
+1626707110344,654,warmup 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1095,0,1,1,null,654,0,0
+1626707110998,6555,warmup 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12158,0,1,1,null,6544,0,0
+1626707117552,3897,warmup 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14746,0,1,1,null,3885,0,0
+1626707121449,703,warmup 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,27707,0,1,1,null,701,0,0
+1626707122153,1115,warmup 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6163,0,1,1,null,1115,0,0
+1626707123269,534,warmup 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1399,0,1,1,null,534,0,0
+1626707123803,546,warmup 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10339,0,1,1,null,545,0,0
+1626707124349,2216,warmup 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14991,0,1,1,null,2214,0,0
+1626707126565,2821,warmup 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,21437,0,1,1,null,2819,0,0
+1626707129386,540,warmup 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12861,0,1,1,null,537,0,0
+1626707129926,8938,SQL QUERY 1 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1714,0,1,1,null,8938,0,0
+1626707138864,6229,SQL QUERY 2 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,170623,0,1,1,null,6216,0,0
+1626707145093,14824,SQL QUERY 3 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3860,0,1,1,null,14824,0,0
+1626707159917,32547,SQL QUERY 4 ,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3359,0,1,1,null,32547,0,0
+1626707192464,20711,SQL QUERY 5,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6879,0,1,1,null,20710,0,0
+1626707213175,16566,SQL QUERY 7,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4968,0,1,1,null,16566,0,0
+1626707229741,71,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 10 GB Delta 1-1,text,false,,26,0,1,1,null,0,0,0
+1626707229812,12948,SQL QUERY 10,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4796,0,1,1,null,12946,0,0
+1626707242760,17800,SQL QUERY 11,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4084,0,1,1,null,17800,0,0
+1626707260560,3740,SQL QUERY 12,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15669,0,1,1,null,3739,0,0
+1626707264300,11959,SQL QUERY 13,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,41,0,1,1,null,11959,0,0
+1626707276259,17655,SQL QUERY 14,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3360,0,1,1,null,17655,0,0
+1626707293914,3938,SQL QUERY 15,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1360,0,1,1,null,3937,0,0
+1626707297851,9035,SQL QUERY 16,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,75,0,1,1,null,9035,0,0
+1626707306887,14577,SQL QUERY 17,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,552,0,1,1,null,14577,0,0
+1626707321464,8828,SQL QUERY 18,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8541,0,1,1,null,8827,0,0
+1626707330291,15995,SQL QUERY 19,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5106,0,1,1,null,15995,0,0
+1626707346288,4691,SQL QUERY 20,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15247,0,1,1,null,4690,0,0
+1626707350978,7541,SQL QUERY 21,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4046,0,1,1,null,7541,0,0
+1626707358519,5489,SQL QUERY 22,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5778,0,1,1,null,5488,0,0
+1626707364008,16529,SQL QUERY 23,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,16529,0,0
+1626707380537,13205,SQL QUERY 24,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,247,0,1,1,null,13205,0,0
+1626707393742,15330,SQL QUERY 25,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,235,0,1,1,null,15330,0,0
+1626707409072,6528,SQL QUERY 26,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5028,0,1,1,null,6528,0,0
+1626707415600,13456,SQL QUERY 27,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5293,0,1,1,null,13456,0,0
+1626707429056,11911,SQL QUERY 28,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,260,0,1,1,null,11911,0,0
+1626707440967,15039,SQL QUERY 29,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,830,0,1,1,null,15039,0,0
+1626707456006,4423,SQL QUERY 30,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,10689,0,1,1,null,4421,0,0
+1626707460429,11620,SQL QUERY 31,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,15369,0,1,1,null,11617,0,0
+1626707472049,19911,SQL QUERY 33,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1326,0,1,1,null,19911,0,0
+1626707491960,9328,SQL QUERY 34,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,43749,0,1,1,null,9323,0,0
+1626707501288,10095,SQL QUERY 35,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4845,0,1,1,null,10095,0,0
+1626707511383,14271,SQL QUERY 36,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2787,0,1,1,null,14271,0,0
+1626707525654,6729,SQL QUERY 37,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,255,0,1,1,null,6729,0,0
+1626707532383,21818,SQL QUERY 38,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5,0,1,1,null,21818,0,0
+1626707554201,5473,SQL QUERY 39,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,113696,0,1,1,null,5466,0,0
+1626707559674,4871,SQL QUERY 40,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3327,0,1,1,null,4871,0,0
+1626707564545,16509,SQL QUERY 42,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,307,0,1,1,null,16509,0,0
+1626707581054,7232,SQL QUERY 43,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2024,0,1,1,null,7232,0,0
+1626707588285,10173,SQL QUERY 44,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,418,0,1,1,null,10173,0,0
+1626707598459,5049,SQL QUERY 45,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,474,0,1,1,null,5049,0,0
+1626707603508,13577,SQL QUERY 46,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5450,0,1,1,null,13576,0,0
+1626707617085,18024,SQL QUERY 47,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5376,0,1,1,null,18024,0,0
+1626707635108,11286,SQL QUERY 48,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,11286,0,0
+1626707646395,51267,SQL QUERY 49,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,11820,0,1,1,null,51264,0,0
+1626707697662,20632,SQL QUERY 50,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4546,0,1,1,null,20632,0,0
+1626707718294,16173,SQL QUERY 51,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3981,0,1,1,null,16173,0,0
+1626707734467,14230,SQL QUERY 52,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3993,0,1,1,null,14230,0,0
+1626707748697,9752,SQL QUERY 53,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2209,0,1,1,null,9751,0,0
+1626707758449,23691,SQL QUERY 54,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,35,0,1,1,null,23691,0,0
+1626707782142,17090,SQL QUERY 55,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3467,0,1,1,null,17090,0,0
+1626707799232,24759,SQL QUERY 56,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2365,0,1,1,null,24759,0,0
+1626707823991,64515,SQL QUERY 57,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6145,0,1,1,null,64514,0,0
+1626707888514,18232,SQL QUERY 59,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,9045,0,1,1,null,18230,0,0
+1626707906750,22641,SQL QUERY 60,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2603,0,1,1,null,22641,0,0
+1626707929397,7747,SQL QUERY 61,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,33,0,1,1,null,7747,0,0
+1626707937145,4677,SQL QUERY 62,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4784,0,1,1,null,4677,0,0
+1626707941823,12379,SQL QUERY 63,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2369,0,1,1,null,12379,0,0
+1626707954206,73111,SQL QUERY 64,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4036,0,1,1,null,73111,0,1
+1626708027334,11762,SQL QUERY 65,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4266,0,1,1,null,11762,0,0
+1626708039100,88667,SQL QUERY 67,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5933,0,1,1,null,88667,0,0
+1626708127787,19139,SQL QUERY 68,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6398,0,1,1,null,19138,0,1
+1626708146931,13961,SQL QUERY 69,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,101,0,1,1,null,13961,0,0
+1626708160896,23524,SQL QUERY 70,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,153,0,1,1,null,23524,0,0
+1626708184424,22158,SQL QUERY 71,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,383533,0,1,1,null,22068,0,0
+1626708206585,11194,SQL QUERY 72,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,12070,0,1,1,null,11192,0,0
+1626708217781,14215,SQL QUERY 73,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,714,0,1,1,null,14215,0,0
+1626708231998,12169,SQL QUERY 74,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3141,0,1,1,null,12169,0,0
+1626708244170,15200,SQL QUERY 75,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5621,0,1,1,null,15200,0,0
+1626708259375,15881,SQL QUERY 76,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5174,0,1,1,null,15881,0,0
+1626708275260,16173,SQL QUERY 77,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5088,0,1,1,null,16173,0,0
+1626708291435,12714,SQL QUERY 78,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3939,0,1,1,null,12714,0,0
+1626708304152,16570,SQL QUERY 79,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,4500,0,1,1,null,16570,0,0
+1626708320726,15044,SQL QUERY 80,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,7236,0,1,1,null,15044,0,0
+1626708335772,4396,SQL QUERY 81,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,13757,0,1,1,null,4390,0,0
+1626708340169,13040,SQL QUERY 82,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1482,0,1,1,null,13040,0,0
+1626708353212,10235,SQL QUERY 83,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6233,0,1,1,null,10234,0,0
+1626708363449,7873,SQL QUERY 84,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,3287,0,1,1,null,7873,0,0
+1626708371323,8298,SQL QUERY 85,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,434,0,1,1,null,8298,0,0
+1626708379623,3689,SQL QUERY 86,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2870,0,1,1,null,3688,0,0
+1626708383312,10635,SQL QUERY 87,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,8,0,1,1,null,10635,0,0
+1626708393949,9728,SQL QUERY 88,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,147,0,1,1,null,9728,0,0
+1626708403679,12036,SQL QUERY 89,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6900,0,1,1,null,12035,0,0
+1626708415717,4925,SQL QUERY 90,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,14,0,1,1,null,4925,0,0
+1626708420643,8724,SQL QUERY 91,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,747,0,1,1,null,8723,0,0
+1626708429368,15858,SQL QUERY 93,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,1087,0,1,1,null,15858,0,0
+1626708445229,6175,SQL QUERY 94,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,73,0,1,1,null,6175,0,0
+1626708451405,7983,SQL QUERY 95,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,74,0,1,1,null,7983,0,0
+1626708459389,13885,SQL QUERY 96,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,6,0,1,1,null,13885,0,0
+1626708473276,11555,SQL QUERY 97,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,62,0,1,1,null,11555,0,0
+1626708484832,14551,SQL QUERY 98,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,2405725,0,1,1,null,12965,0,0
+1626708499385,4630,SQL QUERY 99,200,OK,Synapse Thread Group 10 GB Delta 1-1,text,true,,5499,0,1,1,null,4629,0,0

@@ -1,0 +1,349 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1626899047471,2267,warmup 1,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2946,0,1,1,null,2267,0,1099
+1626899049739,761,warmup 2,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14191,0,1,1,null,758,0,0
+1626899050500,1369,warmup 3,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15537,0,1,1,null,1368,0,0
+1626899051869,8398,warmup 4,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21132,0,1,1,null,8396,0,0
+1626899060266,716,warmup 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15031,0,1,1,null,714,0,0
+1626899060982,1024,warmup 6,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5723,0,1,1,null,1024,0,0
+1626899062008,1436,warmup 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,19950,0,1,1,null,1436,0,0
+1626899063444,715,warmup 8,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14527,0,1,1,null,715,0,0
+1626899064160,714,warmup 9,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2930,0,1,1,null,714,0,0
+1626899064875,540,warmup 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,356,0,1,1,null,540,0,0
+1626899065415,2122,warmup 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2063,0,1,1,null,2122,0,0
+1626899067537,827,warmup 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,50553,0,1,1,null,823,0,0
+1626899068364,609,warmup 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18156,0,1,1,null,606,0,0
+1626899068974,611,warmup 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4264,0,1,1,null,610,0,0
+1626899069585,1194,warmup 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2142,0,1,1,null,1194,0,0
+1626899070779,1468,warmup 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11829,0,1,1,null,1467,0,0
+1626899072247,2909,warmup 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,13981,0,1,1,null,2906,0,0
+1626899075156,649,warmup 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3981,0,1,1,null,649,0,0
+1626899075805,852,warmup 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9467,0,1,1,null,849,0,0
+1626899076657,14758,warmup 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,920,0,1,1,null,14758,0,0
+1626899091415,817,warmup 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8831,0,1,1,null,816,0,0
+1626899092232,4213,warmup 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14464,0,1,1,null,4204,0,0
+1626899096446,1301,warmup 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20964,0,1,1,null,1299,0,0
+1626899097747,613,warmup 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11523,0,1,1,null,612,0,0
+1626899098360,10205,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1714,0,1,1,null,10205,0,0
+1626899108565,7520,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,170623,0,1,1,null,7511,0,0
+1626899116085,4187,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1173,0,1,1,null,4187,0,0
+1626899120272,8806,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,201,0,1,1,null,8806,0,0
+1626899129078,18959,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6853,0,1,1,null,18959,0,0
+1626899148038,19749,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4990,0,1,1,null,19749,0,0
+1626899167786,72,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,26,0,1,1,null,0,0,0
+1626899167858,9209,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,526,0,1,1,null,9208,0,0
+1626899177067,8538,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7398,0,1,1,null,8537,0,0
+1626899185607,11678,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23385,0,1,1,null,11675,0,0
+1626899197285,8290,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,40,0,1,1,null,8290,0,0
+1626899205575,7270,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3255,0,1,1,null,7269,0,0
+1626899212845,3874,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1836,0,1,1,null,3874,0,0
+1626899216719,8311,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,73,0,1,1,null,8311,0,0
+1626899225030,14726,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,346,0,1,1,null,14726,0,0
+1626899239758,5687,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9784,0,1,1,null,5686,0,0
+1626899245445,4731,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10236,0,1,1,null,4730,0,0
+1626899250177,2401,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23015,0,1,1,null,2399,0,0
+1626899252578,7167,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4247,0,1,1,null,7166,0,0
+1626899259744,3895,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20846,0,1,1,null,3894,0,0
+1626899263640,5423,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6,0,1,1,null,5423,0,0
+1626899269062,8401,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,43,0,1,1,null,8401,0,0
+1626899277464,4193,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,105,0,1,1,null,4193,0,0
+1626899281657,8412,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4998,0,1,1,null,8412,0,0
+1626899290069,4493,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5298,0,1,1,null,4492,0,0
+1626899294562,3616,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,253,0,1,1,null,3616,0,0
+1626899298178,4891,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,113,0,1,1,null,4891,0,0
+1626899303069,1526,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,41,0,1,1,null,0,0,0
+1626899304596,4041,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2104,0,1,1,null,4041,0,0
+1626899308637,7604,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1249,0,1,1,null,7604,0,0
+1626899316242,5220,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,12633,0,1,1,null,5218,0,0
+1626899321461,5172,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4911,0,1,1,null,5169,0,0
+1626899326634,3113,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10485,0,1,1,null,3106,0,0
+1626899329747,3011,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,255,0,1,1,null,3011,0,0
+1626899332758,6245,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3,0,1,1,null,6245,0,0
+1626899339003,3178,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9120,0,1,1,null,3176,0,0
+1626899342181,4197,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3288,0,1,1,null,4196,0,0
+1626899346378,1825,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,738,0,1,1,null,1825,0,0
+1626899348203,2070,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,646,0,1,1,null,2070,0,0
+1626899350273,2658,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1078,0,1,1,null,2658,0,0
+1626899352931,3174,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,394,0,1,1,null,3174,0,0
+1626899356105,5225,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5385,0,1,1,null,5224,0,0
+1626899361331,14231,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9462,0,1,1,null,14230,0,0
+1626899375561,3685,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3685,0,0
+1626899379247,6127,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1058,0,1,1,null,6127,0,0
+1626899385374,4928,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,776,0,1,1,null,4927,0,0
+1626899390302,3118,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3986,0,1,1,null,3117,0,0
+1626899393420,2576,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7344,0,1,1,null,2576,0,0
+1626899395996,2497,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2168,0,1,1,null,2497,0,1
+1626899398495,6943,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,35,0,1,1,null,6943,0,0
+1626899405438,2860,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6832,0,1,1,null,2860,0,0
+1626899408298,7098,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2399,0,1,1,null,7098,0,0
+1626899415397,3686,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9255,0,1,1,null,3686,0,0
+1626899419083,3483,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9045,0,1,1,null,3482,0,0
+1626899422567,4708,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2567,0,1,1,null,4708,0,0
+1626899427275,4504,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,33,0,1,1,null,4504,0,0
+1626899431780,5736,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7044,0,1,1,null,5736,0,0
+1626899437516,2559,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2166,0,1,1,null,2559,0,0
+1626899440075,16583,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3556,0,1,1,null,16583,0,0
+1626899456659,2670,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,16579,0,1,1,null,2668,0,0
+1626899459329,6962,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6809,0,1,1,null,6962,0,0
+1626899466292,3993,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8046,0,1,1,null,3992,0,0
+1626899470285,6040,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,101,0,1,1,null,6040,0,0
+1626899476325,6177,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,83,0,1,1,null,6177,0,0
+1626899482502,6218,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,82745,0,1,1,null,6215,0,0
+1626899488720,12079,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7102,0,1,1,null,12079,0,0
+1626899500799,3380,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,605,0,1,1,null,3380,0,0
+1626899504179,4302,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6845,0,1,1,null,4302,0,0
+1626899508481,6142,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5313,0,1,1,null,6141,0,0
+1626899514623,3735,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9309,0,1,1,null,3733,0,0
+1626899518358,4970,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1923,0,1,1,null,4970,0,0
+1626899523328,4609,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3968,0,1,1,null,4608,0,0
+1626899527937,3334,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5663,0,1,1,null,3334,0,0
+1626899531272,7007,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6859,0,1,1,null,7007,0,0
+1626899538279,3585,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21515,0,1,1,null,3584,0,0
+1626899541864,5323,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,239,0,1,1,null,5323,0,0
+1626899547188,4514,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1609,0,1,1,null,4514,0,0
+1626899551702,5520,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2055,0,1,1,null,5520,0,0
+1626899557221,7249,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,137,0,1,1,null,7249,0,0
+1626899564471,2174,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10736,0,1,1,null,2173,0,0
+1626899566645,3685,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3685,0,0
+1626899570330,5805,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,139,0,1,1,null,5805,0,0
+1626899576134,2707,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18886,0,1,1,null,2706,0,0
+1626899578842,2467,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14,0,1,1,null,2467,0,0
+1626899581309,6840,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,204,0,1,1,null,6839,0,0
+1626899588148,2307,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,24,0,1,1,null,2307,0,0
+1626899590455,4860,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,71,0,1,1,null,4860,0,0
+1626899595315,4027,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,69,0,1,1,null,4027,0,0
+1626899599343,2487,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5,0,1,1,null,2487,0,0
+1626899601830,1944,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,60,0,1,1,null,1944,0,0
+1626899603774,2045,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,638258,0,1,1,null,1889,0,0
+1626899605819,3733,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6701,0,1,1,null,3732,0,0
+1626899745876,2084,warmup 1,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2946,0,1,1,null,2084,0,1200
+1626899747960,591,warmup 2,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14191,0,1,1,null,586,0,0
+1626899748551,1324,warmup 3,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15537,0,1,1,null,1311,0,0
+1626899749875,1811,warmup 4,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21132,0,1,1,null,1809,0,0
+1626899751686,879,warmup 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15031,0,1,1,null,877,0,1
+1626899752565,983,warmup 6,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5723,0,1,1,null,983,0,0
+1626899753548,779,warmup 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,19950,0,1,1,null,777,0,0
+1626899754327,737,warmup 8,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14527,0,1,1,null,735,0,0
+1626899755064,1023,warmup 9,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2930,0,1,1,null,1023,0,0
+1626899756087,613,warmup 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,356,0,1,1,null,613,0,0
+1626899756701,1024,warmup 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2063,0,1,1,null,1024,0,0
+1626899757726,725,warmup 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,50553,0,1,1,null,720,0,0
+1626899758451,711,warmup 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18156,0,1,1,null,710,0,0
+1626899759162,1227,warmup 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4264,0,1,1,null,1227,0,0
+1626899760389,614,warmup 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2142,0,1,1,null,614,0,0
+1626899761003,2153,warmup 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11829,0,1,1,null,2151,0,0
+1626899763155,2868,warmup 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,13981,0,1,1,null,2866,0,0
+1626899766023,651,warmup 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3981,0,1,1,null,651,0,0
+1626899766675,678,warmup 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9467,0,1,1,null,677,0,0
+1626899767353,614,warmup 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,920,0,1,1,null,614,0,0
+1626899767967,529,warmup 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8831,0,1,1,null,529,0,0
+1626899768496,1142,warmup 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14464,0,1,1,null,1141,0,0
+1626899769638,1710,warmup 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20964,0,1,1,null,1708,0,0
+1626899771349,1109,warmup 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11523,0,1,1,null,1107,0,0
+1626899772458,2573,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1714,0,1,1,null,2573,0,0
+1626899775032,3855,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,170623,0,1,1,null,3842,0,0
+1626899778888,2185,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1173,0,1,1,null,2185,0,0
+1626899781074,6104,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,201,0,1,1,null,6104,0,0
+1626899787178,5352,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6853,0,1,1,null,5352,0,0
+1626899792531,7402,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4990,0,1,1,null,7402,0,0
+1626899799933,72,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,26,0,1,1,null,0,0,0
+1626899800006,5848,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,526,0,1,1,null,5848,0,0
+1626899805854,5716,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7398,0,1,1,null,5714,0,0
+1626899811571,2069,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23385,0,1,1,null,2067,0,0
+1626899813639,4806,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,40,0,1,1,null,4806,0,0
+1626899818446,5535,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3255,0,1,1,null,5535,0,0
+1626899823981,2559,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1836,0,1,1,null,2559,0,0
+1626899826541,3843,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,73,0,1,1,null,3843,0,0
+1626899830384,4245,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,346,0,1,1,null,4245,0,0
+1626899834630,4506,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9784,0,1,1,null,4506,0,0
+1626899839136,4096,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10236,0,1,1,null,4096,0,0
+1626899843232,2153,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23015,0,1,1,null,2151,0,0
+1626899845385,3890,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4247,0,1,1,null,3889,0,0
+1626899849275,2868,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20846,0,1,1,null,2867,0,0
+1626899852143,5322,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6,0,1,1,null,5322,0,0
+1626899857465,4608,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,43,0,1,1,null,4608,0,1
+1626899862073,4916,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,105,0,1,1,null,4916,0,0
+1626899866989,6419,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4998,0,1,1,null,6418,0,0
+1626899873408,3514,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5298,0,1,1,null,3514,0,0
+1626899876922,1945,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,253,0,1,1,null,1945,0,0
+1626899878868,4316,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,113,0,1,1,null,4316,0,0
+1626899883184,1622,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,41,0,1,1,null,0,0,0
+1626899884806,3102,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2104,0,1,1,null,3102,0,0
+1626899887908,3964,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1249,0,1,1,null,3964,0,0
+1626899891872,3382,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,12633,0,1,1,null,3381,0,0
+1626899895255,4969,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4911,0,1,1,null,4968,0,0
+1626899900224,3018,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10485,0,1,1,null,3018,0,0
+1626899903241,2967,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,255,0,1,1,null,2967,0,0
+1626899906208,4199,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3,0,1,1,null,4199,0,0
+1626899910408,2766,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9120,0,1,1,null,2765,0,0
+1626899913173,2866,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3288,0,1,1,null,2866,0,0
+1626899916039,2048,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,738,0,1,1,null,2048,0,0
+1626899918087,2081,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,646,0,1,1,null,2081,0,0
+1626899920168,2322,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1078,0,1,1,null,2322,0,0
+1626899922491,3082,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,394,0,1,1,null,3082,0,0
+1626899925575,3683,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5385,0,1,1,null,3683,0,0
+1626899929258,15659,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9462,0,1,1,null,15659,0,0
+1626899944918,3174,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3174,0,0
+1626899948091,4607,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1058,0,1,1,null,4607,0,0
+1626899952700,3276,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,776,0,1,1,null,3276,0,0
+1626899955976,2329,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3986,0,1,1,null,2328,0,0
+1626899958304,2740,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7344,0,1,1,null,2740,0,0
+1626899961044,2816,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2168,0,1,1,null,2816,0,0
+1626899963861,4506,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,35,0,1,1,null,4506,0,0
+1626899968368,3123,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6832,0,1,1,null,3123,0,0
+1626899971491,4863,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2399,0,1,1,null,4863,0,0
+1626899976353,3687,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9255,0,1,1,null,3686,0,0
+1626899980041,2459,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9045,0,1,1,null,2458,0,0
+1626899982500,4503,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2567,0,1,1,null,4503,0,0
+1626899987003,4205,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,33,0,1,1,null,4205,0,0
+1626899991208,2861,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7044,0,1,1,null,2861,0,0
+1626899994070,3072,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2166,0,1,1,null,3072,0,0
+1626899997142,15616,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3556,0,1,1,null,15616,0,1
+1626900012758,2710,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,16579,0,1,1,null,2654,0,0
+1626900015468,6661,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6809,0,1,1,null,6660,0,0
+1626900022129,3944,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8046,0,1,1,null,3943,0,0
+1626900026073,4837,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,101,0,1,1,null,4837,0,0
+1626900030911,3813,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,83,0,1,1,null,3813,0,0
+1626900034723,5742,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,82745,0,1,1,null,5736,0,0
+1626900040465,9029,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7102,0,1,1,null,9029,0,0
+1626900049495,3748,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,605,0,1,1,null,3748,0,0
+1626900053245,3801,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6845,0,1,1,null,3800,0,0
+1626900057046,5223,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5313,0,1,1,null,5223,0,0
+1626900062269,3497,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9309,0,1,1,null,3497,0,0
+1626900065766,4312,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1923,0,1,1,null,4312,0,0
+1626900070079,4012,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3968,0,1,1,null,4012,0,0
+1626900074092,3654,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5663,0,1,1,null,3653,0,0
+1626900077746,6408,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6859,0,1,1,null,6408,0,0
+1626900084155,3643,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21515,0,1,1,null,3642,0,0
+1626900087798,5484,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,239,0,1,1,null,5484,0,0
+1626900093282,3431,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1609,0,1,1,null,3431,0,0
+1626900096713,5018,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2055,0,1,1,null,5018,0,0
+1626900101730,6464,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,137,0,1,1,null,6464,0,0
+1626900108194,2190,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10736,0,1,1,null,2189,0,0
+1626900110385,3393,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3392,0,0
+1626900113779,3992,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,139,0,1,1,null,3992,0,0
+1626900117772,3176,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18886,0,1,1,null,3163,0,0
+1626900120948,2455,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14,0,1,1,null,2455,0,0
+1626900123404,5427,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,204,0,1,1,null,5427,0,0
+1626900128831,1325,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,24,0,1,1,null,1325,0,0
+1626900130156,3591,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,71,0,1,1,null,3590,0,1
+1626900133747,3670,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,69,0,1,1,null,3670,0,0
+1626900137417,2169,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5,0,1,1,null,2169,0,0
+1626900139585,2044,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,60,0,1,1,null,2044,0,0
+1626900141629,2275,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,638258,0,1,1,null,1959,0,0
+1626900143905,2632,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6701,0,1,1,null,2631,0,0
+1626900311291,1877,warmup 1,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2946,0,1,1,null,1877,0,1124
+1626900313168,1014,warmup 2,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14191,0,1,1,null,1013,0,0
+1626900314182,922,warmup 3,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15537,0,1,1,null,920,0,0
+1626900315104,1841,warmup 4,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21132,0,1,1,null,1838,0,0
+1626900316946,819,warmup 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,15031,0,1,1,null,817,0,0
+1626900317765,1431,warmup 6,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5723,0,1,1,null,1431,0,0
+1626900319196,925,warmup 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,19950,0,1,1,null,922,0,0
+1626900320121,715,warmup 8,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14527,0,1,1,null,713,0,0
+1626900320836,1021,warmup 9,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2930,0,1,1,null,1021,0,0
+1626900321857,615,warmup 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,356,0,1,1,null,615,0,1
+1626900322472,1229,warmup 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2063,0,1,1,null,1228,0,0
+1626900323701,1048,warmup 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,50553,0,1,1,null,1040,0,0
+1626900324749,683,warmup 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18156,0,1,1,null,681,0,0
+1626900325432,727,warmup 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4264,0,1,1,null,727,0,0
+1626900326159,819,warmup 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2142,0,1,1,null,819,0,1
+1626900326978,1129,warmup 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11829,0,1,1,null,1127,0,0
+1626900328107,2048,warmup 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,13981,0,1,1,null,2046,0,0
+1626900330155,654,warmup 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3981,0,1,1,null,653,0,0
+1626900330809,852,warmup 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9467,0,1,1,null,852,0,0
+1626900331662,642,warmup 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,920,0,1,1,null,642,0,0
+1626900332304,717,warmup 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8831,0,1,1,null,716,0,0
+1626900333021,1027,warmup 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14464,0,1,1,null,1025,0,0
+1626900334048,1331,warmup 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20964,0,1,1,null,1328,0,0
+1626900335379,714,warmup 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,11523,0,1,1,null,713,0,0
+1626900336094,3683,SQL QUERY 1 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1714,0,1,1,null,3683,0,0
+1626900339778,4252,SQL QUERY 2 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,170623,0,1,1,null,4239,0,0
+1626900344031,1953,SQL QUERY 3 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1173,0,1,1,null,1952,0,0
+1626900345984,5415,SQL QUERY 4 ,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,201,0,1,1,null,5415,0,0
+1626900351399,5688,SQL QUERY 5,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6853,0,1,1,null,5687,0,0
+1626900357086,7781,SQL QUERY 7,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4990,0,1,1,null,7781,0,0
+1626900364868,72,SQL QUERY 8,S0001 102,com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ')'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,26,0,1,1,null,0,0,0
+1626900364940,5866,SQL QUERY 10,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,526,0,1,1,null,5866,0,0
+1626900370806,5430,SQL QUERY 11,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7398,0,1,1,null,5429,0,0
+1626900376236,2184,SQL QUERY 12,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23385,0,1,1,null,2176,0,0
+1626900378422,4962,SQL QUERY 13,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,40,0,1,1,null,4962,0,0
+1626900383384,5199,SQL QUERY 14,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3255,0,1,1,null,5199,0,0
+1626900388582,2499,SQL QUERY 15,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1836,0,1,1,null,2499,0,0
+1626900391081,4301,SQL QUERY 16,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,73,0,1,1,null,4301,0,0
+1626900395383,5013,SQL QUERY 17,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,346,0,1,1,null,5013,0,1
+1626900400395,5298,SQL QUERY 18,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9784,0,1,1,null,5294,0,0
+1626900405694,3775,SQL QUERY 19,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10236,0,1,1,null,3771,0,0
+1626900409469,3018,SQL QUERY 20,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,23015,0,1,1,null,3017,0,0
+1626900412487,3759,SQL QUERY 21,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4247,0,1,1,null,3758,0,0
+1626900416247,3204,SQL QUERY 22,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,20846,0,1,1,null,3203,0,0
+1626900419451,5321,SQL QUERY 23,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6,0,1,1,null,5321,0,0
+1626900424772,3167,SQL QUERY 24,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,43,0,1,1,null,3167,0,0
+1626900427939,4718,SQL QUERY 25,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,105,0,1,1,null,4718,0,0
+1626900432656,7067,SQL QUERY 26,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4998,0,1,1,null,7066,0,0
+1626900439723,3741,SQL QUERY 27,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5298,0,1,1,null,3740,0,0
+1626900443464,1992,SQL QUERY 28,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,253,0,1,1,null,1991,0,0
+1626900445456,4497,SQL QUERY 29,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,113,0,1,1,null,4497,0,0
+1626900449954,1578,SQL QUERY 30,S0001 207,com.microsoft.sqlserver.jdbc.SQLServerException: Invalid column name 'c_last_review_date'.,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,false,,41,0,1,1,null,0,0,0
+1626900451532,3756,SQL QUERY 31,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2104,0,1,1,null,3755,0,0
+1626900455287,3686,SQL QUERY 33,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1249,0,1,1,null,3686,0,0
+1626900458973,4815,SQL QUERY 34,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,12633,0,1,1,null,4814,0,0
+1626900463789,5326,SQL QUERY 35,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,4911,0,1,1,null,5324,0,0
+1626900469115,3071,SQL QUERY 36,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10485,0,1,1,null,3070,0,0
+1626900472186,6322,SQL QUERY 37,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,255,0,1,1,null,6322,0,0
+1626900478508,5554,SQL QUERY 38,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3,0,1,1,null,5554,0,0
+1626900484062,3284,SQL QUERY 39,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9120,0,1,1,null,3282,0,0
+1626900487346,3271,SQL QUERY 40,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3288,0,1,1,null,3271,0,0
+1626900490617,2261,SQL QUERY 42,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,738,0,1,1,null,2261,0,0
+1626900492878,2551,SQL QUERY 43,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,646,0,1,1,null,2551,0,0
+1626900495429,2764,SQL QUERY 44,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1078,0,1,1,null,2764,0,0
+1626900498194,2902,SQL QUERY 45,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,394,0,1,1,null,2902,0,0
+1626900501097,3857,SQL QUERY 46,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5385,0,1,1,null,3856,0,0
+1626900504954,15258,SQL QUERY 47,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9462,0,1,1,null,15257,0,0
+1626900520214,3324,SQL QUERY 48,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3324,0,0
+1626900523538,4455,SQL QUERY 49,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1058,0,1,1,null,4455,0,0
+1626900527993,3375,SQL QUERY 50,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,776,0,1,1,null,3375,0,0
+1626900531369,2632,SQL QUERY 51,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3986,0,1,1,null,2631,0,0
+1626900534000,2286,SQL QUERY 52,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7344,0,1,1,null,2286,0,0
+1626900536286,2971,SQL QUERY 53,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2168,0,1,1,null,2970,0,1
+1626900539258,6676,SQL QUERY 54,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,35,0,1,1,null,6676,0,0
+1626900545934,2335,SQL QUERY 55,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6832,0,1,1,null,2334,0,0
+1626900548269,6246,SQL QUERY 56,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2399,0,1,1,null,6246,0,0
+1626900554516,3789,SQL QUERY 57,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9255,0,1,1,null,3788,0,0
+1626900558305,2967,SQL QUERY 59,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9045,0,1,1,null,2967,0,0
+1626900561273,4916,SQL QUERY 60,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2567,0,1,1,null,4916,0,0
+1626900566188,3689,SQL QUERY 61,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,33,0,1,1,null,3689,0,0
+1626900569877,2711,SQL QUERY 62,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7044,0,1,1,null,2710,0,0
+1626900572588,3122,SQL QUERY 63,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2166,0,1,1,null,3122,0,0
+1626900575710,13109,SQL QUERY 64,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3556,0,1,1,null,13109,0,0
+1626900588819,3379,SQL QUERY 65,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,16579,0,1,1,null,3378,0,0
+1626900592198,6696,SQL QUERY 67,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6809,0,1,1,null,6696,0,0
+1626900598894,3749,SQL QUERY 68,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,8046,0,1,1,null,3749,0,0
+1626900602643,5427,SQL QUERY 69,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,101,0,1,1,null,5427,0,0
+1626900608071,3327,SQL QUERY 70,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,83,0,1,1,null,3327,0,0
+1626900611399,71129,SQL QUERY 71,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,82745,0,1,1,null,71120,0,0
+1626900682528,12380,SQL QUERY 72,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7102,0,1,1,null,12379,0,0
+1626900694908,227431,SQL QUERY 73,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,605,0,1,1,null,227431,0,0
+1626900922341,129260,SQL QUERY 74,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6845,0,1,1,null,129260,0,0
+1626901051602,121319,SQL QUERY 75,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5313,0,1,1,null,121318,0,0
+1626901172921,3582,SQL QUERY 76,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,9309,0,1,1,null,3581,0,0
+1626901176503,4966,SQL QUERY 77,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1923,0,1,1,null,4966,0,0
+1626901181470,4250,SQL QUERY 78,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,3968,0,1,1,null,4249,0,0
+1626901185720,4581,SQL QUERY 79,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5663,0,1,1,null,4581,0,0
+1626901190301,9754,SQL QUERY 80,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6859,0,1,1,null,9754,0,0
+1626901200055,3181,SQL QUERY 81,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,21515,0,1,1,null,3180,0,0
+1626901203236,4909,SQL QUERY 82,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,239,0,1,1,null,4909,0,0
+1626901208145,3890,SQL QUERY 83,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,1609,0,1,1,null,3890,0,0
+1626901212036,5365,SQL QUERY 84,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,2055,0,1,1,null,5364,0,0
+1626901217400,7252,SQL QUERY 85,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,137,0,1,1,null,7252,0,0
+1626901224653,2232,SQL QUERY 86,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,10736,0,1,1,null,2231,0,0
+1626901226885,3746,SQL QUERY 87,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,7,0,1,1,null,3746,0,0
+1626901230632,3665,SQL QUERY 88,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,139,0,1,1,null,3665,0,0
+1626901234297,2992,SQL QUERY 89,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,18886,0,1,1,null,2990,0,0
+1626901237289,2099,SQL QUERY 90,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,14,0,1,1,null,2099,0,0
+1626901239388,4985,SQL QUERY 91,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,204,0,1,1,null,4985,0,0
+1626901244373,1455,SQL QUERY 93,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,24,0,1,1,null,1455,0,0
+1626901245827,3891,SQL QUERY 94,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,71,0,1,1,null,3891,0,0
+1626901249718,4506,SQL QUERY 95,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,69,0,1,1,null,4506,0,0
+1626901254224,2766,SQL QUERY 96,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,5,0,1,1,null,2766,0,0
+1626901256990,3070,SQL QUERY 97,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,60,0,1,1,null,3070,0,0
+1626901260061,3189,SQL QUERY 98,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,638258,0,1,1,null,2726,0,0
+1626901263250,3194,SQL QUERY 99,200,OK,Synapse Thread Group 1 GB Delta OPTIMIZED 1-1,text,true,,6701,0,1,1,null,3191,0,0
