@@ -5,8 +5,27 @@ models:
     - name: stg_jmeter_logs
       description: "Aggregated all test runs"
       columns:
-          - name: timeStamp
+          - name: log_id
             description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null
+
+    - name: stg_run_info
+      description: "Information about all test runs"
+      columns:
+          - name: id
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null
+          - name: run_file_name
+            description: "file name"
+            tests:
+                - unique
+                - not_null
+          - name: friendly_name
+            description: "friendly name visible in reports"
             tests:
                 - unique
                 - not_null

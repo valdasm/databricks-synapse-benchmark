@@ -1,11 +1,14 @@
 WITH unioned_synapse_consumption AS (
     {{ dbt_utils.union_relations(
         relations=[
-            ref('consumption_synapse_1gb_delta'), 
+            ref('consumption_synapse_1gb_delta_openrowset'), 
             ref('consumption_synapse_1gb_parquet_external'), 
             ref('consumption_synapse_1gb_parquet_openrowset'),
             ref('consumption_synapse_10gb_delta'),
-            ref('consumption_synapse_10gb_parquet_external')
+            ref('consumption_synapse_10gb_parquet_openrowset'),
+            ref('consumption_synapse_10gb_parquet_external'),
+            ref('consumption_synapse_10gb_parquet_partitioned_openrowset'),
+            ref('consumption_synapse_10gb_delta_partitioned_openrowset')
             
         ],
         include=['RequestID', 'SubmitTime', 'Duration', 'DataProcessed', 'Submitter', 'Status']

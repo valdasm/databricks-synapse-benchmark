@@ -1,4 +1,4 @@
-﻿RequestID,SubmitTime,Duration,DataProcessed,Submitter,Status,SessionID,DataProcessedGB
+﻿RequestID,SubmitTime,Duration,DataProcessed,Submitter,Status,SessionID,DataProcessedTB
 15589058,7/19/21 6:28:19 PM,4 sec,47.00 MB,benchmark_admin_10gb_delta,Completed,N/A,0.047
 15586510,7/19/21 6:28:04 PM,12 sec,288.00 MB,benchmark_admin_10gb_delta,Completed,N/A,0.288
 15584958,7/19/21 6:27:53 PM,11 sec,308.00 MB,benchmark_admin_10gb_delta,Completed,N/A,0.308

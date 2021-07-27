@@ -1,4 +1,4 @@
-﻿RequestID,SubmitTime,Duration,DataProcessed,Submitter,Status,SessionID,DataProcessedGB
+﻿RequestID,SubmitTime,Duration,DataProcessed,Submitter,Status,SessionID,DataProcessedTB
 11905802,7/19/21 12:46:56 PM,39 sec,366.00 MB,benchmark_admin_10gb_parquet,Completed,N/A,0.366
 11900781,7/19/21 12:46:02 PM,54 sec,1.69 GB,benchmark_admin_10gb_parquet,Completed,N/A,1.69
 11892787,7/19/21 12:44:46 PM,1 min,1.94 GB,benchmark_admin_10gb_parquet,Completed,N/A,1.94

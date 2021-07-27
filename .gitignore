@@ -1,4 +1,6 @@
 /jmeter
+/Results_copy
+
 
 target/
 dbt_modules/
