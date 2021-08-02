@@ -1,5 +1,5 @@
 
 
 
-{{ agg_results_per_run('1gb', False) }}
+{{ agg_results_per_run('1gb') }}
 

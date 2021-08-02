@@ -1,0 +1,343 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1627542369885,249229,warmup 1,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8021,0,1,1,null,247406,0,222503
+1627542619114,1959,warmup 2,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14158,0,1,1,null,1957,0,0
+1627542621073,50632,warmup 3,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16103,0,1,1,null,50391,0,0
+1627542671706,43000,warmup 4,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21761,0,1,1,null,42779,0,0
+1627542714706,2438,warmup 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,11589,0,1,1,null,2437,0,0
+1627542717145,1655,warmup 6,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4423,0,1,1,null,1654,0,0
+1627542718799,2070,warmup 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14174,0,1,1,null,2067,0,0
+1627542720869,1655,warmup 8,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14342,0,1,1,null,1654,0,0
+1627542722524,978,warmup 9,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2227,0,1,1,null,977,0,0
+1627542723502,1379,warmup 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,356,0,1,1,null,1378,0,1
+1627542724881,10184,warmup 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2164,0,1,1,null,10014,0,0
+1627542735065,2519,warmup 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,28173,0,1,1,null,2515,0,0
+1627542737584,1557,warmup 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12664,0,1,1,null,1556,0,0
+1627542739141,855,warmup 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1642,0,1,1,null,855,0,0
+1627542739996,1014,warmup 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1095,0,1,1,null,1013,0,0
+1627542741010,99216,warmup 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12169,0,1,1,null,99007,0,0
+1627542840226,106885,warmup 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14562,0,1,1,null,106667,0,0
+1627542947111,1853,warmup 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27727,0,1,1,null,1848,0,0
+1627542948964,1083,warmup 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6163,0,1,1,null,1082,0,0
+1627542950047,1478,warmup 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1399,0,1,1,null,1477,0,0
+1627542951525,936,warmup 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,10339,0,1,1,null,934,0,0
+1627542952461,32188,warmup 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14988,0,1,1,null,31983,0,0
+1627542984650,35731,warmup 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21437,0,1,1,null,35499,0,0
+1627543020380,1756,warmup 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12861,0,1,1,null,1754,0,0
+1627543022137,15306,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1714,0,1,1,null,15140,0,0
+1627543037444,13774,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,100784,0,1,1,null,13250,0,0
+1627543051217,29662,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3860,0,1,1,null,29497,0,0
+1627543080880,35663,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3359,0,1,1,null,35501,0,0
+1627543116542,13871,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6879,0,1,1,null,13699,0,0
+1627543130413,29991,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5308,0,1,1,null,29832,0,0
+1627543160404,41199,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4796,0,1,1,null,40993,0,0
+1627543201604,29049,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4084,0,1,1,null,28887,0,0
+1627543230653,2656,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16755,0,1,1,null,2654,0,0
+1627543233310,30033,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,29879,0,0
+1627543263343,63758,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3387,0,1,1,null,63597,0,0
+1627543327101,6404,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1379,0,1,1,null,6404,0,0
+1627543333505,18166,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,75,0,1,1,null,18005,0,0
+1627543351672,15649,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,558,0,1,1,null,15462,0,0
+1627543367321,8759,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,9141,0,1,1,null,8555,0,0
+1627543376080,6472,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5106,0,1,1,null,6471,0,0
+1627543382551,2580,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16333,0,1,1,null,2579,0,0
+1627543385132,5756,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4048,0,1,1,null,5755,0,0
+1627543390888,6625,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7207,0,1,1,null,6624,0,0
+1627543397514,67257,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,67085,0,0
+1627543464770,52251,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,247,0,1,1,null,52093,0,0
+1627543517023,63566,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,235,0,1,1,null,63405,0,0
+1627543580588,8444,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5299,0,1,1,null,8252,0,0
+1627543589033,28065,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5536,0,1,1,null,27906,0,0
+1627543617098,110921,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,260,0,1,1,null,110749,0,0
+1627543728020,56519,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,860,0,1,1,null,56353,0,0
+1627543784540,12881,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,30601,0,1,1,null,12639,0,0
+1627543797421,5891,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1326,0,1,1,null,5730,0,0
+1627543803311,31115,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27880,0,1,1,null,30863,0,0
+1627543834426,13866,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5721,0,1,1,null,13662,0,0
+1627543848292,7146,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4184,0,1,1,null,6984,0,0
+1627543855440,7596,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,255,0,1,1,null,7427,0,0
+1627543863037,11281,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13,0,1,1,null,11101,0,0
+1627543874317,3166,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,123759,0,1,1,null,3162,0,0
+1627543877483,14664,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3327,0,1,1,null,14385,0,0
+1627543892147,27518,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,313,0,1,1,null,27360,0,0
+1627543919666,29833,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2024,0,1,1,null,29673,0,0
+1627543949499,48191,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,418,0,1,1,null,48031,0,0
+1627543997690,6795,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,493,0,1,1,null,6794,0,0
+1627544004485,34429,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5450,0,1,1,null,34253,0,0
+1627544038913,15033,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5376,0,1,1,null,14867,0,0
+1627544053947,32266,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,24,0,1,1,null,31948,0,0
+1627544086214,39865,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1411,0,1,1,null,39702,0,0
+1627544126079,58790,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4546,0,1,1,null,58627,0,0
+1627544184869,15039,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3981,0,1,1,null,14867,0,0
+1627544199908,27006,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3993,0,1,1,null,26849,0,0
+1627544226913,6618,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2209,0,1,1,null,6443,0,0
+1627544233532,6769,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,35,0,1,1,null,6605,0,0
+1627544240302,26450,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3467,0,1,1,null,26291,0,0
+1627544266751,5743,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2365,0,1,1,null,5588,0,0
+1627544272496,7594,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6145,0,1,1,null,7411,0,0
+1627544280089,29069,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,19020,0,1,1,null,28869,0,0
+1627544309159,5815,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2603,0,1,1,null,5653,0,0
+1627544314974,11694,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,39,0,1,1,null,11693,0,0
+1627544326667,6528,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4815,0,1,1,null,6527,0,0
+1627544333196,7038,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2369,0,1,1,null,6885,0,0
+1627544340234,53419,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4036,0,1,1,null,53253,0,0
+1627544393652,52733,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4266,0,1,1,null,52568,0,0
+1627544446385,21125,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5933,0,1,1,null,20965,0,0
+1627544467511,28050,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6398,0,1,1,null,27884,0,0
+1627544495561,32137,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,101,0,1,1,null,31980,0,0
+1627544527698,12349,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,153,0,1,1,null,12194,0,0
+1627544540047,40080,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,383533,0,1,1,null,39136,0,0
+1627544580127,14701,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12070,0,1,1,null,14509,0,0
+1627544594828,31108,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,775,0,1,1,null,30938,0,0
+1627544625935,20220,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3141,0,1,1,null,20059,0,0
+1627544646157,57660,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5621,0,1,1,null,57472,0,0
+1627544703816,40808,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5174,0,1,1,null,40631,0,0
+1627544744624,9667,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5088,0,1,1,null,9496,0,0
+1627544754291,46709,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4200,0,1,1,null,46553,0,0
+1627544801000,6579,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4521,0,1,1,null,6578,0,1
+1627544807580,45227,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7236,0,1,1,null,45057,0,0
+1627544852807,10356,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13757,0,1,1,null,10146,0,0
+1627544863162,25637,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1482,0,1,1,null,25363,0,0
+1627544888799,7279,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8837,0,1,1,null,7107,0,0
+1627544896079,30872,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3287,0,1,1,null,30719,0,0
+1627544926951,10560,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,534,0,1,1,null,10403,0,0
+1627544937512,2124,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2869,0,1,1,null,2123,0,0
+1627544939636,10968,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,10806,0,0
+1627544950604,194322,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,194037,0,0
+1627545144926,6252,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6900,0,1,1,null,5968,0,0
+1627545151178,8229,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,31,0,1,1,null,8062,0,0
+1627545159407,10912,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,747,0,1,1,null,10757,0,0
+1627545170318,52471,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1087,0,1,1,null,52292,0,0
+1627545222789,12302,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,73,0,1,1,null,12141,0,0
+1627545235091,8559,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,74,0,1,1,null,8401,0,0
+1627545243650,27493,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14,0,1,1,null,27231,0,0
+1627545271144,8161,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,62,0,1,1,null,7994,0,0
+1627545279305,9470,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2573949,0,1,1,null,6092,0,0
+1627545288775,6282,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5530,0,1,1,null,6281,0,0
+1627545295057,1101,warmup 1,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8021,0,1,1,null,1099,0,0
+1627545296158,585,warmup 2,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14158,0,1,1,null,584,0,0
+1627545296745,12739,warmup 3,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16096,0,1,1,null,12538,0,0
+1627545309484,12653,warmup 4,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21761,0,1,1,null,12452,0,1
+1627545322136,1535,warmup 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,11589,0,1,1,null,1534,0,1
+1627545323672,1040,warmup 6,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4423,0,1,1,null,1039,0,0
+1627545324712,1077,warmup 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14174,0,1,1,null,1075,0,0
+1627545325789,766,warmup 8,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14342,0,1,1,null,763,0,0
+1627545326556,617,warmup 9,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2227,0,1,1,null,616,0,0
+1627545327173,512,warmup 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,356,0,1,1,null,511,0,0
+1627545327685,4788,warmup 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2167,0,1,1,null,4788,0,0
+1627545332474,1324,warmup 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,28173,0,1,1,null,1323,0,0
+1627545333798,1098,warmup 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12664,0,1,1,null,1096,0,0
+1627545334896,639,warmup 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1642,0,1,1,null,639,0,0
+1627545335536,570,warmup 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1095,0,1,1,null,570,0,0
+1627545336106,35279,warmup 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12155,0,1,1,null,35073,0,0
+1627545371384,41528,warmup 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14562,0,1,1,null,41327,0,0
+1627545412911,1203,warmup 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27727,0,1,1,null,1194,0,0
+1627545414114,617,warmup 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6163,0,1,1,null,613,0,0
+1627545414731,1216,warmup 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1399,0,1,1,null,1215,0,1
+1627545415948,593,warmup 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,10339,0,1,1,null,588,0,0
+1627545416542,7811,warmup 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14976,0,1,1,null,7606,0,0
+1627545424353,8244,warmup 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21437,0,1,1,null,8012,0,0
+1627545432598,1145,warmup 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12861,0,1,1,null,1141,0,0
+1627545433744,12608,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1714,0,1,1,null,12430,0,0
+1627545446351,10488,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,100784,0,1,1,null,10078,0,0
+1627545456839,29214,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3860,0,1,1,null,29052,0,0
+1627545486055,33114,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3359,0,1,1,null,32788,0,0
+1627545519168,11409,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6879,0,1,1,null,11246,0,0
+1627545530577,34913,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5308,0,1,1,null,34759,0,0
+1627545565491,42302,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4796,0,1,1,null,41924,0,0
+1627545607793,23516,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4084,0,1,1,null,23356,0,0
+1627545631308,2175,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16755,0,1,1,null,2171,0,0
+1627545633483,27781,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,27620,0,0
+1627545661265,65480,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3387,0,1,1,null,65295,0,0
+1627545726744,4285,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1379,0,1,1,null,4284,0,0
+1627545731030,15754,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,75,0,1,1,null,15584,0,0
+1627545746784,15577,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,558,0,1,1,null,15410,0,0
+1627545762361,10420,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,9141,0,1,1,null,10225,0,0
+1627545772781,7134,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5106,0,1,1,null,7133,0,0
+1627545779915,1979,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16333,0,1,1,null,1977,0,0
+1627545781894,4705,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4048,0,1,1,null,4704,0,0
+1627545786600,5528,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7207,0,1,1,null,5527,0,0
+1627545792127,68652,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,68421,0,0
+1627545860780,70828,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,247,0,1,1,null,70664,0,0
+1627545931609,67114,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,235,0,1,1,null,66943,0,0
+1627545998722,6818,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5299,0,1,1,null,6818,0,0
+1627546005541,28146,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5536,0,1,1,null,27964,0,0
+1627546033689,126526,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,260,0,1,1,null,126361,0,0
+1627546160215,82520,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,860,0,1,1,null,82362,0,0
+1627546242736,17974,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,30601,0,1,1,null,17707,0,0
+1627546260709,13090,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1326,0,1,1,null,12930,0,0
+1627546273800,30578,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27880,0,1,1,null,30218,0,0
+1627546304377,30810,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5721,0,1,1,null,30615,0,0
+1627546335187,7434,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4184,0,1,1,null,7280,0,0
+1627546342622,6899,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,255,0,1,1,null,6899,0,0
+1627546349522,12938,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13,0,1,1,null,12779,0,0
+1627546362459,3065,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,123759,0,1,1,null,3061,0,0
+1627546365524,14025,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3327,0,1,1,null,13866,0,0
+1627546379549,28138,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,313,0,1,1,null,27960,0,0
+1627546407687,23372,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2024,0,1,1,null,23210,0,0
+1627546431060,45002,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,418,0,1,1,null,44844,0,0
+1627546476063,4893,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,493,0,1,1,null,4892,0,0
+1627546480956,29722,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5450,0,1,1,null,29564,0,0
+1627546510679,13423,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5376,0,1,1,null,13246,0,0
+1627546524101,26648,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,24,0,1,1,null,26490,0,0
+1627546550750,38851,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1411,0,1,1,null,38685,0,0
+1627546589600,55986,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4546,0,1,1,null,55823,0,0
+1627546645586,16445,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3981,0,1,1,null,16290,0,0
+1627546662032,28309,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3993,0,1,1,null,28147,0,0
+1627546690340,6640,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2209,0,1,1,null,6484,0,0
+1627546696980,6128,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,35,0,1,1,null,5973,0,0
+1627546703108,29704,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3467,0,1,1,null,29552,0,0
+1627546732813,4949,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2365,0,1,1,null,4948,0,0
+1627546737762,7949,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6145,0,1,1,null,7794,0,0
+1627546745711,27158,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,19020,0,1,1,null,26959,0,0
+1627546772870,7659,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2603,0,1,1,null,7186,0,0
+1627546780528,12722,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,39,0,1,1,null,12721,0,0
+1627546793250,5987,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4815,0,1,1,null,5985,0,0
+1627546799237,7595,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2369,0,1,1,null,7439,0,0
+1627546806832,54975,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4036,0,1,1,null,54788,0,0
+1627546861809,54650,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4266,0,1,1,null,54438,0,0
+1627546916458,21430,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5933,0,1,1,null,21273,0,0
+1627546937889,28760,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6398,0,1,1,null,28605,0,0
+1627546966649,30868,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,101,0,1,1,null,30709,0,0
+1627546997518,11728,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,153,0,1,1,null,11566,0,0
+1627547009245,38239,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,383533,0,1,1,null,37293,0,0
+1627547047485,14174,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12070,0,1,1,null,13875,0,0
+1627547061660,27096,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,775,0,1,1,null,26937,0,0
+1627547088756,21353,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3141,0,1,1,null,21176,0,0
+1627547110109,50552,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5621,0,1,1,null,50384,0,0
+1627547160660,38322,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5174,0,1,1,null,38166,0,0
+1627547198982,9645,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5088,0,1,1,null,9486,0,0
+1627547208627,45272,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4200,0,1,1,null,45109,0,0
+1627547253900,6129,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4521,0,1,1,null,6128,0,0
+1627547260029,54487,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7236,0,1,1,null,54143,0,0
+1627547314517,5774,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13757,0,1,1,null,5585,0,0
+1627547320291,29536,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1482,0,1,1,null,29373,0,0
+1627547349827,5781,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8837,0,1,1,null,5318,0,0
+1627547355608,27848,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3287,0,1,1,null,27692,0,0
+1627547383456,10204,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,534,0,1,1,null,9983,0,0
+1627547393660,2305,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2869,0,1,1,null,2304,0,0
+1627547395965,11938,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,11768,0,0
+1627547407903,206488,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,206286,0,0
+1627547614391,7007,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6900,0,1,1,null,6804,0,0
+1627547621399,15822,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,31,0,1,1,null,15656,0,0
+1627547637221,13872,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,747,0,1,1,null,13706,0,0
+1627547651095,53066,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1087,0,1,1,null,52900,0,0
+1627547704160,13715,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,73,0,1,1,null,13550,0,0
+1627547717875,8838,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,74,0,1,1,null,8669,0,1
+1627547726714,26394,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14,0,1,1,null,26211,0,0
+1627547753108,8639,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,62,0,1,1,null,8484,0,0
+1627547761746,6595,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2573949,0,1,1,null,5765,0,0
+1627547768342,6866,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5530,0,1,1,null,6865,0,0
+1627547775207,1111,warmup 1,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8021,0,1,1,null,1111,0,1
+1627547776319,629,warmup 2,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14158,0,1,1,null,628,0,0
+1627547776948,14476,warmup 3,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16095,0,1,1,null,14271,0,0
+1627547791423,13531,warmup 4,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21761,0,1,1,null,13337,0,0
+1627547804955,1318,warmup 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,11589,0,1,1,null,1317,0,0
+1627547806273,1178,warmup 6,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4423,0,1,1,null,1177,0,0
+1627547807451,1937,warmup 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14174,0,1,1,null,1935,0,0
+1627547809388,891,warmup 8,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14342,0,1,1,null,889,0,0
+1627547810279,526,warmup 9,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2227,0,1,1,null,525,0,0
+1627547810805,513,warmup 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,356,0,1,1,null,512,0,0
+1627547811318,6171,warmup 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2166,0,1,1,null,5898,0,0
+1627547817489,1330,warmup 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,28173,0,1,1,null,1324,0,0
+1627547818819,1123,warmup 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12664,0,1,1,null,1122,0,0
+1627547819942,533,warmup 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1642,0,1,1,null,533,0,0
+1627547820476,739,warmup 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1095,0,1,1,null,738,0,0
+1627547821214,39859,warmup 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12155,0,1,1,null,39651,0,0
+1627547861073,51462,warmup 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14562,0,1,1,null,51262,0,0
+1627547912536,1180,warmup 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27727,0,1,1,null,1178,0,0
+1627547913716,774,warmup 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6163,0,1,1,null,774,0,0
+1627547914490,1092,warmup 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1399,0,1,1,null,1092,0,0
+1627547915582,587,warmup 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,10339,0,1,1,null,586,0,0
+1627547916169,6696,warmup 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14988,0,1,1,null,6503,0,0
+1627547922864,11338,warmup 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,21437,0,1,1,null,11143,0,0
+1627547934203,1126,warmup 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12861,0,1,1,null,1124,0,0
+1627547935329,11359,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1714,0,1,1,null,11200,0,0
+1627547946687,12615,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,100784,0,1,1,null,12300,0,0
+1627547959303,26462,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3860,0,1,1,null,26304,0,0
+1627547985765,33283,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3359,0,1,1,null,33118,0,0
+1627548019047,13370,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6879,0,1,1,null,13207,0,0
+1627548032417,30336,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5308,0,1,1,null,30181,0,0
+1627548062754,40432,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4796,0,1,1,null,40231,0,0
+1627548103185,24822,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4084,0,1,1,null,24666,0,0
+1627548128007,1971,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16755,0,1,1,null,1970,0,0
+1627548129978,28253,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,28098,0,0
+1627548158231,63125,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3387,0,1,1,null,62906,0,0
+1627548221357,3796,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1379,0,1,1,null,3795,0,0
+1627548225153,16082,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,75,0,1,1,null,15922,0,0
+1627548241235,15483,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,558,0,1,1,null,15324,0,0
+1627548256717,9130,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,9141,0,1,1,null,8940,0,0
+1627548265847,7293,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5106,0,1,1,null,7291,0,0
+1627548273140,1907,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16333,0,1,1,null,1905,0,0
+1627548275047,4808,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4048,0,1,1,null,4808,0,0
+1627548279856,6325,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7207,0,1,1,null,6324,0,0
+1627548286181,74717,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,74558,0,0
+1627548360899,53884,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,247,0,1,1,null,53721,0,0
+1627548414782,59299,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,235,0,1,1,null,59137,0,0
+1627548474081,6763,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5299,0,1,1,null,6763,0,0
+1627548480844,26296,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5536,0,1,1,null,26127,0,0
+1627548507141,134942,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,260,0,1,1,null,134658,0,0
+1627548642083,61361,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,860,0,1,1,null,61206,0,0
+1627548703445,12882,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,30601,0,1,1,null,12679,0,0
+1627548716326,5031,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1326,0,1,1,null,5031,0,0
+1627548721359,29822,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,27880,0,1,1,null,29582,0,0
+1627548751180,13357,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5721,0,1,1,null,13164,0,0
+1627548764537,6890,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4184,0,1,1,null,6733,0,0
+1627548771427,6652,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,255,0,1,1,null,6651,0,0
+1627548778080,10667,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13,0,1,1,null,10513,0,0
+1627548788747,2859,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,123759,0,1,1,null,2850,0,0
+1627548791606,13907,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3327,0,1,1,null,13619,0,0
+1627548805512,27129,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,313,0,1,1,null,26972,0,0
+1627548832641,26809,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2024,0,1,1,null,26654,0,0
+1627548859450,47173,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,418,0,1,1,null,47002,0,0
+1627548906624,5933,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,493,0,1,1,null,5932,0,0
+1627548912556,28578,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5450,0,1,1,null,28411,0,0
+1627548941135,12241,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5376,0,1,1,null,12081,0,0
+1627548953376,27528,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,24,0,1,1,null,27369,0,0
+1627548980904,38462,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1411,0,1,1,null,38184,0,0
+1627549019366,56408,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4546,0,1,1,null,56257,0,0
+1627549075774,16547,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3981,0,1,1,null,16394,0,0
+1627549092322,27794,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3993,0,1,1,null,27628,0,0
+1627549120117,6392,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2209,0,1,1,null,6227,0,0
+1627549126509,6033,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,35,0,1,1,null,5873,0,0
+1627549132541,25341,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3467,0,1,1,null,25173,0,0
+1627549157883,5434,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2365,0,1,1,null,5286,0,0
+1627549163316,7379,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6145,0,1,1,null,7220,0,0
+1627549170695,28963,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,19020,0,1,1,null,28749,0,0
+1627549199658,13812,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2603,0,1,1,null,13640,0,0
+1627549213471,16000,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,39,0,1,1,null,15999,0,0
+1627549229470,6060,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4815,0,1,1,null,6057,0,0
+1627549235531,7404,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2369,0,1,1,null,7243,0,0
+1627549242936,57682,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4036,0,1,1,null,57519,0,0
+1627549300617,54832,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4266,0,1,1,null,54671,0,0
+1627549355450,21296,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5933,0,1,1,null,21124,0,0
+1627549376747,30745,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6398,0,1,1,null,30568,0,0
+1627549407493,31944,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,101,0,1,1,null,31784,0,0
+1627549439437,11517,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,153,0,1,1,null,11350,0,0
+1627549450954,38457,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,383533,0,1,1,null,37850,0,0
+1627549489411,14556,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,12070,0,1,1,null,14289,0,0
+1627549503968,31319,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,775,0,1,1,null,31156,0,0
+1627549535286,21452,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3141,0,1,1,null,21299,0,0
+1627549556738,79130,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5621,0,1,1,null,78971,0,0
+1627549635870,37414,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5174,0,1,1,null,37252,0,0
+1627549673284,9441,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5088,0,1,1,null,9276,0,0
+1627549682725,46261,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4200,0,1,1,null,46097,0,0
+1627549728987,7606,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,4521,0,1,1,null,7604,0,0
+1627549736593,46141,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,7236,0,1,1,null,45964,0,0
+1627549782736,6044,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,13757,0,1,1,null,5836,0,0
+1627549788779,28798,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1482,0,1,1,null,28632,0,0
+1627549817578,5472,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,8837,0,1,1,null,5302,0,0
+1627549823051,31397,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,3287,0,1,1,null,31202,0,0
+1627549854447,10225,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,534,0,1,1,null,10061,0,0
+1627549864673,2283,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2869,0,1,1,null,2281,0,0
+1627549866956,10659,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,16,0,1,1,null,10491,0,0
+1627549877614,213167,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,147,0,1,1,null,213003,0,0
+1627550090782,11567,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,6900,0,1,1,null,11381,0,0
+1627550102348,7817,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,31,0,1,1,null,7817,0,0
+1627550110166,13813,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,747,0,1,1,null,13650,0,0
+1627550123979,55833,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,1087,0,1,1,null,55677,0,0
+1627550179811,12801,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,73,0,1,1,null,12636,0,0
+1627550192613,9553,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,74,0,1,1,null,9267,0,0
+1627550202165,29093,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,14,0,1,1,null,28930,0,0
+1627550231260,8929,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,62,0,1,1,null,8760,0,0
+1627550240188,5790,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,2573949,0,1,1,null,4860,0,0
+1627550245979,6482,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 10 GB Parquet PARTITIONED 2xsmall  1-1,text,true,,5530,0,1,1,null,6481,0,0

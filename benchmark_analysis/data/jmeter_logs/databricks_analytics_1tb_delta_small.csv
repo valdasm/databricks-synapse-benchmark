@@ -1,0 +1,343 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1627850395287,313917,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14020,0,1,1,null,313687,0,276269
+1627850709204,2602,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14091,0,1,1,null,2599,0,0
+1627850711806,31941,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17023,0,1,1,null,31728,0,0
+1627850743747,233311,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22913,0,1,1,null,233103,0,0
+1627850977058,11669,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,11567,0,1,1,null,11459,0,0
+1627850988727,2653,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4423,0,1,1,null,2652,0,0
+1627850991380,6401,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14358,0,1,1,null,6184,0,0
+1627850997781,2518,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14342,0,1,1,null,2517,0,0
+1627851000299,1579,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2227,0,1,1,null,1577,0,0
+1627851001879,1748,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,356,0,1,1,null,1746,0,0
+1627851003627,14575,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2212,0,1,1,null,14403,0,0
+1627851018203,3479,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,28537,0,1,1,null,3478,0,0
+1627851021682,2264,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12884,0,1,1,null,2263,0,0
+1627851023946,1674,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2242,0,1,1,null,1672,0,0
+1627851025620,1552,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1164,0,1,1,null,1550,0,0
+1627851027172,28348,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12855,0,1,1,null,28141,0,0
+1627851055520,278454,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15308,0,1,1,null,278234,0,0
+1627851333974,2438,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,27779,0,1,1,null,2436,0,0
+1627851336411,1667,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6163,0,1,1,null,1666,0,0
+1627851338078,5400,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2676,0,1,1,null,5398,0,0
+1627851343479,1526,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,10316,0,1,1,null,1523,0,0
+1627851345005,14697,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15835,0,1,1,null,14492,0,0
+1627851359702,106412,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22326,0,1,1,null,106205,0,0
+1627851466115,2587,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16123,0,1,1,null,2586,0,0
+1627851468702,17867,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1714,0,1,1,null,17699,0,0
+1627851486568,30379,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,100784,0,1,1,null,30083,0,0
+1627851516948,28009,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4020,0,1,1,null,27841,0,0
+1627851544956,231287,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3374,0,1,1,null,231105,0,0
+1627851776243,72096,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7196,0,1,1,null,71932,0,0
+1627851848339,66074,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6485,0,1,1,null,65908,0,0
+1627851914414,21823,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4805,0,1,1,null,21664,0,0
+1627851936239,115194,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,115006,0,0
+1627852051433,7532,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15035,0,1,1,null,7338,0,0
+1627852058964,70107,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,149,0,1,1,null,69939,0,0
+1627852129072,158010,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3742,0,1,1,null,156637,0,0
+1627852287082,40353,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1471,0,1,1,null,40165,0,0
+1627852327436,76770,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,76609,0,0
+1627852404205,129563,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16995,0,1,1,null,129371,0,0
+1627852533770,36727,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,8850,0,1,1,null,36507,0,0
+1627852570496,22966,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5267,0,1,1,null,22813,0,0
+1627852593463,10764,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15082,0,1,1,null,10569,0,0
+1627852604227,6192,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3248,0,1,1,null,6192,0,0
+1627852610419,34317,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7581,0,1,1,null,34159,0,1
+1627852644736,278692,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22,0,1,1,null,278536,0,0
+1627852923428,171984,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19586,0,1,1,null,171767,0,0
+1627853095412,129916,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15787,0,1,1,null,129725,0,0
+1627853225328,21867,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6438,0,1,1,null,21711,0,0
+1627853247195,27082,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5915,0,1,1,null,26897,0,0
+1627853274277,60795,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,273,0,1,1,null,60636,0,0
+1627853335072,127639,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15786,0,1,1,null,127441,0,0
+1627853462712,38309,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,33923,0,1,1,null,38080,0,0
+1627853501022,18686,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1537,0,1,1,null,18526,0,0
+1627853519708,17444,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,397615,0,1,1,null,16894,0,0
+1627853537152,19642,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5796,0,1,1,null,19430,0,0
+1627853556795,15604,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4072,0,1,1,null,15450,0,0
+1627853572399,13017,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,566,0,1,1,null,12867,0,0
+1627853585417,26573,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17,0,1,1,null,26394,0,0
+1627853611991,13180,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,752451,0,1,1,null,12619,0,0
+1627853625171,44787,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3499,0,1,1,null,44625,0,0
+1627853669958,9272,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,352,0,1,1,null,9122,0,0
+1627853679230,12565,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9980,0,1,1,null,12383,0,0
+1627853691795,14186,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,526,0,1,1,null,14021,0,0
+1627853705980,25669,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1518,0,1,1,null,25516,0,0
+1627853731649,39023,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5478,0,1,1,null,38869,0,0
+1627853770672,44984,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6190,0,1,1,null,44832,0,0
+1627853815656,34233,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,26,0,1,1,null,34078,0,0
+1627853849890,78669,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2620,0,1,1,null,78498,0,0
+1627853928558,95330,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9352,0,1,1,null,95121,0,0
+1627854023889,51835,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4350,0,1,1,null,51679,0,0
+1627854075724,10605,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,10453,0,0
+1627854086330,14044,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2582,0,1,1,null,13885,0,0
+1627854100373,45629,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1437,0,1,1,null,45475,0,0
+1627854146003,9924,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3651,0,1,1,null,9773,0,0
+1627854155926,18315,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,18163,0,0
+1627854174242,22250,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6668,0,1,1,null,22082,0,0
+1627854196492,24901,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19020,0,1,1,null,24704,0,0
+1627854221394,15940,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,15784,0,0
+1627854237334,36846,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,70,0,1,1,null,36692,0,0
+1627854274179,13449,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5376,0,1,1,null,13293,0,0
+1627854287629,14595,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2745,0,1,1,null,14426,0,0
+1627854302224,294662,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,941917,0,1,1,null,293863,0,0
+1627854596885,60084,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3727,0,1,1,null,59929,0,0
+1627854656970,421579,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6070,0,1,1,null,421402,0,0
+1627855078548,42047,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6491,0,1,1,null,41885,0,0
+1627855120595,10526,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,101,0,1,1,null,10377,0,0
+1627855131121,25391,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1096,0,1,1,null,25234,0,0
+1627855156512,37538,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12818690,0,1,1,null,29879,0,0
+1627855194050,87562,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12889,0,1,1,null,87370,0,0
+1627855281612,15162,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7112,0,1,1,null,15010,0,0
+1627855296775,82856,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3150,0,1,1,null,82695,0,0
+1627855379631,71306,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6299,0,1,1,null,71134,0,0
+1627855450937,20088,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5588,0,1,1,null,19921,0,0
+1627855471026,19588,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5765,0,1,1,null,19430,0,0
+1627855490615,248021,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4048,0,1,1,null,247867,0,0
+1627855738635,23705,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4255,0,1,1,null,23544,0,0
+1627855762340,226217,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7755,0,1,1,null,226059,0,0
+1627855988557,12753,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,13474,0,1,1,null,12567,0,0
+1627856001310,22798,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5107,0,1,1,null,22645,0,0
+1627856024108,7562,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9518,0,1,1,null,7405,0,0
+1627856031670,6681,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3525,0,1,1,null,6681,0,0
+1627856038351,17130,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3242,0,1,1,null,16976,0,0
+1627856055482,5651,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2909,0,1,1,null,5492,0,0
+1627856061132,31250,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,18,0,1,1,null,31083,0,0
+1627856092382,70640,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,163,0,1,1,null,70475,0,0
+1627856163022,19130,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7296,0,1,1,null,18969,0,0
+1627856182153,6694,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,31,0,1,1,null,6692,0,0
+1627856188847,5903,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2316,0,1,1,null,5901,0,0
+1627856194750,84823,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1031,0,1,1,null,84662,0,0
+1627856279574,31741,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,78,0,1,1,null,31589,0,0
+1627856311314,35472,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,35319,0,0
+1627856346786,11048,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16,0,1,1,null,10897,0,0
+1627856357834,41038,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,68,0,1,1,null,40879,0,0
+1627856398872,25225,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7599429,0,1,1,null,22585,0,0
+1627856424098,21430,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5092,0,1,1,null,21275,0,0
+1627856445528,1013,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14020,0,1,1,null,1010,0,0
+1627856446541,679,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14091,0,1,1,null,677,0,0
+1627856447220,950,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17023,0,1,1,null,947,0,0
+1627856448171,985,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22913,0,1,1,null,980,0,0
+1627856449157,908,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,11567,0,1,1,null,907,0,0
+1627856450066,771,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4423,0,1,1,null,768,0,0
+1627856450837,544,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14358,0,1,1,null,541,0,0
+1627856451381,1880,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14342,0,1,1,null,1875,0,0
+1627856453261,493,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2227,0,1,1,null,491,0,0
+1627856453754,513,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,356,0,1,1,null,512,0,0
+1627856454267,501,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2212,0,1,1,null,500,0,0
+1627856454767,949,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,28537,0,1,1,null,945,0,0
+1627856455716,979,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12884,0,1,1,null,978,0,0
+1627856456695,531,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2242,0,1,1,null,530,0,0
+1627856457229,485,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1164,0,1,1,null,484,0,0
+1627856457714,930,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12855,0,1,1,null,928,0,0
+1627856458644,1024,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15308,0,1,1,null,1020,0,0
+1627856459669,1056,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,27779,0,1,1,null,1054,0,0
+1627856460725,636,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6163,0,1,1,null,634,0,1
+1627856461361,1130,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2676,0,1,1,null,1129,0,0
+1627856462491,525,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,10316,0,1,1,null,524,0,0
+1627856463016,949,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15835,0,1,1,null,946,0,0
+1627856463965,951,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22326,0,1,1,null,948,0,1
+1627856464915,1008,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16123,0,1,1,null,1005,0,0
+1627856465924,487,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1714,0,1,1,null,486,0,0
+1627856466411,758,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,100784,0,1,1,null,748,0,0
+1627856467169,1735,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4020,0,1,1,null,1734,0,0
+1627856468904,1407,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3374,0,1,1,null,1407,0,0
+1627856470312,947,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7196,0,1,1,null,945,0,0
+1627856471259,2595,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6485,0,1,1,null,2593,0,0
+1627856473854,4299,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4805,0,1,1,null,4298,0,0
+1627856478153,842,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,841,0,0
+1627856478996,437,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15035,0,1,1,null,435,0,0
+1627856479433,3001,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,149,0,1,1,null,3000,0,0
+1627856482435,150638,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3742,0,1,1,null,150247,0,0
+1627856633073,2196,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1471,0,1,1,null,2195,0,0
+1627856635269,3682,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,3681,0,0
+1627856638951,4638,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16995,0,1,1,null,4636,0,0
+1627856643588,3243,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,8850,0,1,1,null,3241,0,0
+1627856646831,3380,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5267,0,1,1,null,3379,0,0
+1627856650212,428,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15082,0,1,1,null,428,0,0
+1627856650640,2082,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3248,0,1,1,null,2082,0,0
+1627856652722,1982,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7581,0,1,1,null,1981,0,0
+1627856654704,308348,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22,0,1,1,null,308194,0,0
+1627856963051,1220,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19586,0,1,1,null,1219,0,0
+1627856964271,4316,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15787,0,1,1,null,4314,0,0
+1627856968587,2832,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6438,0,1,1,null,2832,0,0
+1627856971421,2704,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5915,0,1,1,null,2703,0,0
+1627856974125,4155,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,273,0,1,1,null,4155,0,0
+1627856978279,4805,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15786,0,1,1,null,4804,0,0
+1627856983085,816,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,33923,0,1,1,null,814,0,0
+1627856983901,26878,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1537,0,1,1,null,26726,0,0
+1627857010779,3224,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,397615,0,1,1,null,3056,0,0
+1627857014003,4218,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5796,0,1,1,null,4216,0,0
+1627857018221,445,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4072,0,1,1,null,444,0,0
+1627857018666,1980,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,566,0,1,1,null,1979,0,0
+1627857020647,493,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17,0,1,1,null,493,0,0
+1627857021141,979,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,752451,0,1,1,null,823,0,0
+1627857022120,3107,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3499,0,1,1,null,3106,0,0
+1627857025227,1819,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,352,0,1,1,null,1818,0,0
+1627857027045,1955,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9980,0,1,1,null,1953,0,0
+1627857029000,523,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,526,0,1,1,null,522,0,0
+1627857029523,23376,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1518,0,1,1,null,23221,0,0
+1627857052900,3708,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5478,0,1,1,null,3707,0,0
+1627857056607,969,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6190,0,1,1,null,968,0,0
+1627857057576,2688,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,26,0,1,1,null,2688,0,0
+1627857060265,813,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2620,0,1,1,null,812,0,0
+1627857061079,2720,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9352,0,1,1,null,2718,0,0
+1627857063799,452,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4350,0,1,1,null,450,0,0
+1627857064251,1759,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,1758,0,0
+1627857066011,555,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2582,0,1,1,null,553,0,0
+1627857066566,697,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1437,0,1,1,null,696,0,0
+1627857067263,1772,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3651,0,1,1,null,1771,0,0
+1627857069035,21016,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,20846,0,0
+1627857090050,848,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6668,0,1,1,null,846,0,0
+1627857090898,607,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19020,0,1,1,null,603,0,0
+1627857091505,18638,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,18476,0,0
+1627857110143,6840,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,70,0,1,1,null,6839,0,0
+1627857116984,2615,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5376,0,1,1,null,2613,0,0
+1627857119599,672,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2745,0,1,1,null,672,0,0
+1627857120271,2526,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,941917,0,1,1,null,2465,0,1
+1627857122797,3302,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3727,0,1,1,null,3302,0,0
+1627857126098,499,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6070,0,1,1,null,498,0,1
+1627857126597,3518,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6491,0,1,1,null,3516,0,0
+1627857130115,4486,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,101,0,1,1,null,4485,0,0
+1627857134602,22713,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1096,0,1,1,null,22557,0,0
+1627857157316,10162,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12818690,0,1,1,null,4080,0,0
+1627857167477,767,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12889,0,1,1,null,766,0,0
+1627857168244,2433,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7112,0,1,1,null,2432,0,0
+1627857170677,1022,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3150,0,1,1,null,1021,0,0
+1627857171701,1116,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6299,0,1,1,null,1115,0,0
+1627857172817,4781,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5588,0,1,1,null,4780,0,0
+1627857177597,849,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5765,0,1,1,null,848,0,0
+1627857178446,723,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4048,0,1,1,null,723,0,0
+1627857179169,2411,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4255,0,1,1,null,2410,0,0
+1627857181580,1028,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7755,0,1,1,null,1027,0,0
+1627857182608,598,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,13474,0,1,1,null,596,0,0
+1627857183206,1990,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5107,0,1,1,null,1989,0,0
+1627857185196,5080,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9518,0,1,1,null,5078,0,0
+1627857190276,2649,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3525,0,1,1,null,2648,0,0
+1627857192926,3471,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3242,0,1,1,null,3470,0,0
+1627857196396,370,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2909,0,1,1,null,369,0,0
+1627857196767,671,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,18,0,1,1,null,670,0,0
+1627857197438,14250,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,163,0,1,1,null,14249,0,0
+1627857211688,466,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7296,0,1,1,null,465,0,0
+1627857212154,2940,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,31,0,1,1,null,2939,0,0
+1627857215094,3456,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2316,0,1,1,null,3455,0,0
+1627857218550,1893,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1031,0,1,1,null,1892,0,0
+1627857220443,3803,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,78,0,1,1,null,3802,0,0
+1627857224246,39793,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,39641,0,0
+1627857264039,2018,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16,0,1,1,null,2017,0,0
+1627857266057,405,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,68,0,1,1,null,405,0,0
+1627857266464,2589,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7599429,0,1,1,null,935,0,0
+1627857269053,2710,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5092,0,1,1,null,2710,0,0
+1627857271762,943,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14020,0,1,1,null,940,0,0
+1627857272705,545,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14091,0,1,1,null,544,0,0
+1627857273250,952,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17023,0,1,1,null,949,0,0
+1627857274202,975,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22913,0,1,1,null,971,0,0
+1627857275177,1039,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,11567,0,1,1,null,1037,0,0
+1627857276217,505,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4423,0,1,1,null,504,0,0
+1627857276722,538,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14358,0,1,1,null,534,0,0
+1627857277260,559,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,14342,0,1,1,null,554,0,0
+1627857277819,479,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2227,0,1,1,null,478,0,0
+1627857278298,479,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,356,0,1,1,null,478,0,0
+1627857278777,508,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2212,0,1,1,null,507,0,0
+1627857279285,899,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,28537,0,1,1,null,896,0,0
+1627857280184,1050,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12884,0,1,1,null,1048,0,0
+1627857281234,472,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2242,0,1,1,null,472,0,0
+1627857281706,490,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1164,0,1,1,null,490,0,0
+1627857282197,890,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12855,0,1,1,null,890,0,0
+1627857283088,947,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15308,0,1,1,null,945,0,0
+1627857284036,957,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,27779,0,1,1,null,953,0,0
+1627857284994,490,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6163,0,1,1,null,489,0,0
+1627857285484,889,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2676,0,1,1,null,888,0,0
+1627857286373,519,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,10316,0,1,1,null,518,0,0
+1627857286893,921,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15835,0,1,1,null,918,0,0
+1627857287814,1270,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22326,0,1,1,null,1266,0,0
+1627857289084,910,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16123,0,1,1,null,907,0,0
+1627857289994,474,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1714,0,1,1,null,474,0,0
+1627857290468,971,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,100784,0,1,1,null,961,0,0
+1627857291440,1929,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4020,0,1,1,null,1928,0,0
+1627857293369,1362,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3374,0,1,1,null,1361,0,0
+1627857294731,827,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7196,0,1,1,null,827,0,0
+1627857295559,2594,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6485,0,1,1,null,2593,0,0
+1627857298153,4457,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4805,0,1,1,null,4455,0,0
+1627857302610,825,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,824,0,0
+1627857303436,425,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15035,0,1,1,null,424,0,0
+1627857303861,3123,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,149,0,1,1,null,3123,0,0
+1627857306984,143826,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3742,0,1,1,null,143658,0,0
+1627857450811,2557,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1471,0,1,1,null,2556,0,0
+1627857453367,3734,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,3734,0,0
+1627857457101,4189,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16995,0,1,1,null,4188,0,0
+1627857461290,3165,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,8850,0,1,1,null,3163,0,0
+1627857464455,3351,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5267,0,1,1,null,3350,0,0
+1627857467806,425,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15082,0,1,1,null,424,0,0
+1627857468231,2205,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3248,0,1,1,null,2204,0,0
+1627857470436,1978,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7581,0,1,1,null,1977,0,0
+1627857472414,307329,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,22,0,1,1,null,307156,0,0
+1627857779743,1247,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19586,0,1,1,null,1244,0,0
+1627857780990,5063,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15787,0,1,1,null,5061,0,0
+1627857786053,2730,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6438,0,1,1,null,2730,0,0
+1627857788783,2684,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5915,0,1,1,null,2683,0,0
+1627857791467,4180,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,273,0,1,1,null,4180,0,0
+1627857795647,4351,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,15786,0,1,1,null,4351,0,0
+1627857799998,827,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,33923,0,1,1,null,821,0,0
+1627857800825,25189,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1537,0,1,1,null,25035,0,0
+1627857826014,2817,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,397615,0,1,1,null,2638,0,0
+1627857828831,4285,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5796,0,1,1,null,4283,0,0
+1627857833116,429,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4072,0,1,1,null,428,0,0
+1627857833545,2111,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,566,0,1,1,null,2110,0,0
+1627857835656,509,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,17,0,1,1,null,508,0,0
+1627857836165,973,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,752451,0,1,1,null,819,0,0
+1627857837138,3098,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3499,0,1,1,null,3097,0,0
+1627857840236,1833,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,352,0,1,1,null,1832,0,0
+1627857842069,1872,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9980,0,1,1,null,1870,0,0
+1627857843942,505,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,526,0,1,1,null,505,0,0
+1627857844448,25743,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1518,0,1,1,null,25470,0,0
+1627857870190,3841,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5478,0,1,1,null,3840,0,0
+1627857874033,856,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6190,0,1,1,null,856,0,0
+1627857874889,2670,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,26,0,1,1,null,2670,0,0
+1627857877560,867,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2620,0,1,1,null,866,0,0
+1627857878427,2870,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9352,0,1,1,null,2868,0,0
+1627857881297,508,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4350,0,1,1,null,507,0,0
+1627857881805,2121,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4156,0,1,1,null,2120,0,0
+1627857883925,465,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2582,0,1,1,null,464,0,0
+1627857884390,968,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1437,0,1,1,null,967,0,1
+1627857885358,1742,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3651,0,1,1,null,1741,0,0
+1627857887100,18687,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,18525,0,0
+1627857905788,930,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6668,0,1,1,null,928,0,0
+1627857906718,822,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,19020,0,1,1,null,818,0,0
+1627857907539,17269,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2722,0,1,1,null,17095,0,0
+1627857924808,6901,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,70,0,1,1,null,6901,0,0
+1627857931709,2966,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5376,0,1,1,null,2966,0,0
+1627857934676,472,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2745,0,1,1,null,471,0,0
+1627857935148,2468,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,941917,0,1,1,null,2429,0,0
+1627857937615,3242,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3727,0,1,1,null,3241,0,0
+1627857940857,498,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6070,0,1,1,null,498,0,0
+1627857941355,3523,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6491,0,1,1,null,3522,0,0
+1627857944878,4342,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,101,0,1,1,null,4341,0,0
+1627857949221,21993,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1096,0,1,1,null,21846,0,0
+1627857971214,9467,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12818690,0,1,1,null,4178,0,0
+1627857980681,633,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,12889,0,1,1,null,632,0,0
+1627857981314,2399,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7112,0,1,1,null,2397,0,0
+1627857983713,993,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3150,0,1,1,null,992,0,0
+1627857984706,1107,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,6299,0,1,1,null,1105,0,0
+1627857985813,4927,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5588,0,1,1,null,4926,0,0
+1627857990740,860,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5765,0,1,1,null,859,0,0
+1627857991600,1179,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4048,0,1,1,null,1178,0,0
+1627857992779,2243,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,4255,0,1,1,null,2243,0,0
+1627857995022,1047,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7755,0,1,1,null,1046,0,0
+1627857996069,585,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,13474,0,1,1,null,583,0,0
+1627857996654,1974,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5107,0,1,1,null,1973,0,0
+1627857998628,5100,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,9518,0,1,1,null,5098,0,0
+1627858003728,2730,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3525,0,1,1,null,2729,0,0
+1627858006458,3407,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,3242,0,1,1,null,3406,0,0
+1627858009865,364,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2909,0,1,1,null,364,0,0
+1627858010232,718,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,18,0,1,1,null,717,0,0
+1627858010950,13844,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,163,0,1,1,null,13843,0,0
+1627858024794,498,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7296,0,1,1,null,497,0,0
+1627858025292,2860,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,31,0,1,1,null,2860,0,0
+1627858028153,3246,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,2316,0,1,1,null,3246,0,0
+1627858031399,1760,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,1031,0,1,1,null,1759,0,0
+1627858033160,3875,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,78,0,1,1,null,3874,0,0
+1627858037035,35705,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,79,0,1,1,null,35552,0,0
+1627858072739,2217,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,16,0,1,1,null,2216,0,0
+1627858074956,534,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,68,0,1,1,null,534,0,0
+1627858075490,2439,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,7599429,0,1,1,null,923,0,0
+1627858077929,3074,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Delta NO PARTITIONS small  1-1,text,true,,5092,0,1,1,null,3073,0,0

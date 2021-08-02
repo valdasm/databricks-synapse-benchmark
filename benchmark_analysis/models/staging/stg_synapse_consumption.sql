@@ -1,16 +1,10 @@
+{% set seed_database_postfix = 'raw' %}
+
 WITH unioned_synapse_consumption AS (
     {{ dbt_utils.union_relations(
-        relations=[
-            ref('consumption_synapse_1gb_delta_openrowset'), 
-            ref('consumption_synapse_1gb_parquet_external'), 
-            ref('consumption_synapse_1gb_parquet_openrowset'),
-            ref('consumption_synapse_10gb_delta'),
-            ref('consumption_synapse_10gb_parquet_openrowset'),
-            ref('consumption_synapse_10gb_parquet_external'),
-            ref('consumption_synapse_10gb_parquet_partitioned_openrowset'),
-            ref('consumption_synapse_10gb_delta_partitioned_openrowset')
-            
-        ],
+        relations= get_dbr_relations_by_pattern(
+            'consumption_synapse_*', 
+            schema=target.schema ~ '_' ~ seed_database_postfix),
         include=['RequestID', 'SubmitTime', 'Duration', 'DataProcessed', 'Submitter', 'Status']
     ) }}
 
@@ -27,12 +21,26 @@ renamed_consumption AS (
             l.DataProcessed,
             '(^[0-9]+\.[0-9]+)', 1) 
             AS data_processed,
+        regexp_extract(
+            lcase(l.DataProcessed), 
+            '(mb|gb|tb)', 1) 
+            AS data_size_abbr, 
         l.RequestID AS request_id,
         l.SubmitTime AS submit_date,
         l.Duration AS duration,
         l.Submitter AS submitter
     FROM unioned_synapse_consumption l
 
+),
+unified_data_size AS (
+    SELECT 
+        c.*,
+        CASE data_size_abbr 
+            WHEN 'mb' THEN data_processed / 1000000
+            WHEN 'gb' THEN data_processed / 1000
+            ELSE data_processed 
+        END AS data_processed_unified
+    FROM renamed_consumption c
 )
 
 SELECT 
@@ -43,8 +51,8 @@ SELECT
             ''
             ) AS log_file_name,
     c.submitter,
-    SUM(c.data_processed) / 1000000 AS data_processed_sum_tb,
+    SUM(c.data_processed_unified) AS data_processed_sum_tb,
     SUM(c.duration) AS duration_sum
-FROM renamed_consumption c
+FROM unified_data_size c
 GROUP BY c.source_file_name, c.submitter
 

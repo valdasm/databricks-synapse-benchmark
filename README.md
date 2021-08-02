@@ -1,8 +1,6 @@
 Welcome to your new dbt project!
 # Local DBT Setup
 
-## tl;dr
-
 This repo contains dbt development environment to be run in a Docker container. In order to do the development in a container, Docker Desktop, VSCode and "Remote - Containers" VSCode-extension are required to be installed.
 
 ## 1. How to get started w/ dbt?

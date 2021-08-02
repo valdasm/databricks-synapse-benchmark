@@ -1,7 +1,7 @@
-{% macro agg_results_per_thread_with_pricing(data_size, is_partitioned) %}
+{% macro agg_results_per_thread_with_pricing(data_size) %}
     
     WITH logs AS (
-        {{ agg_results_per_thread(data_size, is_partitioned) }}
+        {{ agg_results_per_thread(data_size) }}
     ),
     databricks_logs AS (
         SELECT 
