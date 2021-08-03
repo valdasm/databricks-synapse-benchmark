@@ -1,0 +1,8 @@
+/jmeter
+data/
+dbt_modules/
+logs/
+profiles/
+.env/
+.vs/
+.devcontainer/dbr_token.txt
