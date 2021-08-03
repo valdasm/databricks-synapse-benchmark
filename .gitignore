@@ -1,5 +1,6 @@
 /jmeter
 data/
+target/
 dbt_modules/
 logs/
 profiles/
