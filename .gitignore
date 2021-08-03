@@ -9,3 +9,4 @@ profiles/
 .env/
 .vs/
 .devcontainer/dbr_token.txt
+/docs

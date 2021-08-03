@@ -4,10 +4,10 @@ id,label,is_included_in_perf_analysis,exclusion_reason,updated_at
 3,SQL QUERY 3,TRUE,,2021-07-26
 4,SQL QUERY 4,TRUE,,2021-07-26
 5,SQL QUERY 5,TRUE,,2021-07-26
-6,SQL QUERY 6,FALSE,,2021-07-26
+6,SQL QUERY 6,FALSE,Failing Databricks with Syntax error or access violation / Query: AEValueSubQuery is not supported,2021-07-26
 7,SQL QUERY 7,TRUE,,2021-07-26
 8,SQL QUERY 8,FALSE,Failing Synapse with Incorrect syntax near ),2021-07-26
-9,SQL QUERY 9,FALSE,,2021-07-26
+9,SQL QUERY 9,FALSE,Failing Databricks with Syntax error or access violation / Query: AEValueSubQuery is not supported,2021-07-26
 10,SQL QUERY 10,TRUE,,2021-07-26
 11,SQL QUERY 11,TRUE,,2021-07-26
 12,SQL QUERY 12,TRUE,,2021-07-26
@@ -30,7 +30,7 @@ id,label,is_included_in_perf_analysis,exclusion_reason,updated_at
 29,SQL QUERY 29,TRUE,,2021-07-26
 30,SQL QUERY 30,FALSE,Failing Synapse with c_last_review_date,2021-07-26
 31,SQL QUERY 31,TRUE,,2021-07-26
-32,SQL QUERY 32,FALSE,,2021-07-26
+32,SQL QUERY 32,FALSE,Failing Databricks with Syntax error or access violation / Query: AEValueSubQuery is not supported,2021-07-26
 33,SQL QUERY 33,TRUE,,2021-07-26
 34,SQL QUERY 34,TRUE,,2021-07-26
 35,SQL QUERY 35,TRUE,,2021-07-26
