@@ -1,0 +1,343 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1627970314297,370286,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14020,0,1,1,null,369998,0,337725
+1627970684583,16864,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14091,0,1,1,null,16632,0,1
+1627970701448,26961,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17023,0,1,1,null,26734,0,0
+1627970728409,68794,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22913,0,1,1,null,68569,0,0
+1627970797204,8336,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,11567,0,1,1,null,8122,0,0
+1627970805540,2022,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4423,0,1,1,null,2020,0,0
+1627970807562,16501,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14358,0,1,1,null,16284,0,0
+1627970824064,1808,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14342,0,1,1,null,1805,0,0
+1627970825872,1110,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2227,0,1,1,null,1109,0,0
+1627970826982,942,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,356,0,1,1,null,941,0,0
+1627970827924,7774,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2212,0,1,1,null,7553,0,0
+1627970835699,3045,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,28537,0,1,1,null,3044,0,0
+1627970838744,1774,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12884,0,1,1,null,1771,0,0
+1627970840518,1338,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2242,0,1,1,null,1337,0,0
+1627970841856,977,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1164,0,1,1,null,977,0,0
+1627970842833,31658,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12859,0,1,1,null,31453,0,0
+1627970874491,70645,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15330,0,1,1,null,70442,0,0
+1627970945137,1961,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,27779,0,1,1,null,1956,0,0
+1627970947098,1367,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6163,0,1,1,null,1365,0,0
+1627970948465,1611,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2676,0,1,1,null,1610,0,0
+1627970950076,1124,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,10316,0,1,1,null,1121,0,0
+1627970951200,8407,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15837,0,1,1,null,8207,0,0
+1627970959607,35176,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22483,0,1,1,null,34971,0,0
+1627970994784,2298,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16123,0,1,1,null,2297,0,0
+1627970997082,7350,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1714,0,1,1,null,7176,0,0
+1627971004433,23137,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,100784,0,1,1,null,22825,0,0
+1627971027570,14142,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4020,0,1,1,null,13977,0,0
+1627971041712,76641,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3374,0,1,1,null,76469,0,0
+1627971118353,21540,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7196,0,1,1,null,21369,0,0
+1627971139894,30448,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6485,0,1,1,null,30284,0,0
+1627971170341,19169,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4805,0,1,1,null,18985,0,0
+1627971189511,33867,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,33542,0,0
+1627971223378,3796,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15035,0,1,1,null,3794,0,0
+1627971227174,29182,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,149,0,1,1,null,29000,0,0
+1627971256356,48531,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3742,0,1,1,null,48349,0,0
+1627971304887,15158,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1471,0,1,1,null,14993,0,0
+1627971320045,26112,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,25937,0,0
+1627971346158,34186,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16995,0,1,1,null,33981,0,0
+1627971380344,13574,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,8850,0,1,1,null,13375,0,0
+1627971393918,12105,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5267,0,1,1,null,11947,0,0
+1627971406023,4497,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15082,0,1,1,null,4495,0,0
+1627971410520,6281,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3248,0,1,1,null,6280,0,0
+1627971416802,27614,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7581,0,1,1,null,27436,0,0
+1627971444416,74407,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22,0,1,1,null,74232,0,0
+1627971518824,51573,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19586,0,1,1,null,51358,0,0
+1627971570397,33414,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15787,0,1,1,null,33192,0,0
+1627971603811,7759,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6438,0,1,1,null,7757,0,0
+1627971611572,17065,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5915,0,1,1,null,16875,0,0
+1627971628636,23150,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,273,0,1,1,null,22994,0,0
+1627971651786,33044,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15786,0,1,1,null,32836,0,1
+1627971684830,16092,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,33923,0,1,1,null,15853,0,0
+1627971700922,8711,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1537,0,1,1,null,8530,0,0
+1627971709633,13283,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,397615,0,1,1,null,12652,0,0
+1627971722916,11219,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5796,0,1,1,null,10995,0,0
+1627971734135,5996,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4073,0,1,1,null,5839,0,0
+1627971740131,5330,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,566,0,1,1,null,5329,0,0
+1627971745461,8361,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17,0,1,1,null,8198,0,0
+1627971753823,11128,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,752432,0,1,1,null,10458,0,0
+1627971764952,15667,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3499,0,1,1,null,15490,0,0
+1627971780619,4310,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,352,0,1,1,null,4310,0,0
+1627971784929,6235,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9980,0,1,1,null,6233,0,0
+1627971791164,8899,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,526,0,1,1,null,8727,0,0
+1627971800064,11017,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1518,0,1,1,null,10856,0,0
+1627971811081,19892,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5478,0,1,1,null,19721,0,0
+1627971830973,16185,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6190,0,1,1,null,16024,0,0
+1627971847158,10093,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,26,0,1,1,null,9919,0,0
+1627971857251,20277,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2620,0,1,1,null,20116,0,0
+1627971877528,27363,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9352,0,1,1,null,27171,0,0
+1627971904892,18831,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4350,0,1,1,null,18668,0,0
+1627971923723,4804,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,4803,0,0
+1627971928527,5552,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2582,0,1,1,null,5365,0,0
+1627971934079,12629,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1437,0,1,1,null,12435,0,0
+1627971946708,4915,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3651,0,1,1,null,4915,0,0
+1627971951623,7189,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,7003,0,1
+1627971958812,9240,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6668,0,1,1,null,9070,0,0
+1627971968053,10728,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19020,0,1,1,null,10515,0,0
+1627971978781,8280,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,8100,0,0
+1627971987061,19465,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,70,0,1,1,null,19294,0,0
+1627972006526,11681,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5376,0,1,1,null,11506,0,0
+1627972018207,5086,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2745,0,1,1,null,5085,0,0
+1627972023294,79659,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,941917,0,1,1,null,78597,0,0
+1627972102953,15857,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3756,0,1,1,null,15699,0,0
+1627972118810,112538,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6070,0,1,1,null,112346,0,0
+1627972231348,25302,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6491,0,1,1,null,25103,0,0
+1627972256651,7363,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,101,0,1,1,null,7362,0,0
+1627972264016,7238,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1096,0,1,1,null,7050,0,0
+1627972271254,28619,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12818690,0,1,1,null,16399,0,0
+1627972299873,23288,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12889,0,1,1,null,23072,0,0
+1627972323161,6879,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7112,0,1,1,null,6877,0,0
+1627972330040,21309,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3150,0,1,1,null,21082,0,0
+1627972351349,20201,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6299,0,1,1,null,20002,0,0
+1627972371550,11702,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5588,0,1,1,null,11519,0,0
+1627972383252,7728,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5765,0,1,1,null,7567,0,0
+1627972390980,50614,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4048,0,1,1,null,50328,0,0
+1627972441594,17526,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4255,0,1,1,null,17364,0,0
+1627972459120,40451,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7755,0,1,1,null,40121,0,0
+1627972499571,5750,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,13474,0,1,1,null,5565,0,0
+1627972505322,11252,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5107,0,1,1,null,11093,0,0
+1627972516575,3343,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9518,0,1,1,null,3340,0,0
+1627972519918,4488,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3525,0,1,1,null,4487,0,0
+1627972524406,8240,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3242,0,1,1,null,8239,0,0
+1627972532646,3327,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2909,0,1,1,null,3325,0,1
+1627972535973,9763,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,18,0,1,1,null,9598,0,0
+1627972545736,35896,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,163,0,1,1,null,35734,0,0
+1627972581632,5894,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7296,0,1,1,null,5730,0,0
+1627972587527,5443,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,31,0,1,1,null,5442,0,0
+1627972592970,6108,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2316,0,1,1,null,6107,0,0
+1627972599078,20872,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1031,0,1,1,null,20709,0,0
+1627972619951,13401,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,78,0,1,1,null,13230,0,0
+1627972633351,10695,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,10521,0,0
+1627972644047,4572,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16,0,1,1,null,4571,0,0
+1627972648619,9365,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,68,0,1,1,null,9205,0,0
+1627972657984,10766,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7599429,0,1,1,null,7278,0,0
+1627972668750,9800,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5092,0,1,1,null,9635,0,0
+1627972678551,1235,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14020,0,1,1,null,1231,0,0
+1627972679786,711,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14091,0,1,1,null,709,0,0
+1627972680497,6691,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17023,0,1,1,null,6484,0,0
+1627972687188,37406,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22913,0,1,1,null,37209,0,0
+1627972724595,7641,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,11567,0,1,1,null,7444,0,0
+1627972732235,1383,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4423,0,1,1,null,1381,0,0
+1627972733618,4832,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14358,0,1,1,null,4828,0,0
+1627972738450,955,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14342,0,1,1,null,950,0,0
+1627972739405,850,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2227,0,1,1,null,849,0,0
+1627972740255,660,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,356,0,1,1,null,660,0,0
+1627972740915,4150,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2212,0,1,1,null,4149,0,0
+1627972745066,2123,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,28537,0,1,1,null,2121,0,0
+1627972747189,1196,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12884,0,1,1,null,1195,0,0
+1627972748385,672,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2242,0,1,1,null,671,0,0
+1627972749057,593,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1164,0,1,1,null,593,0,0
+1627972749649,7518,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12746,0,1,1,null,7321,0,0
+1627972757167,44128,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15340,0,1,1,null,43924,0,0
+1627972801296,1322,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,27779,0,1,1,null,1320,0,0
+1627972802618,700,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6163,0,1,1,null,699,0,0
+1627972803318,1298,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2676,0,1,1,null,1298,0,0
+1627972804617,672,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,10316,0,1,1,null,671,0,0
+1627972805290,4192,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15838,0,1,1,null,4189,0,0
+1627972809482,23500,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22553,0,1,1,null,23312,0,0
+1627972832981,1264,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16123,0,1,1,null,1263,0,0
+1627972834246,3396,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1714,0,1,1,null,3396,0,0
+1627972837642,7668,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,100784,0,1,1,null,7379,0,0
+1627972845310,9694,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4020,0,1,1,null,9537,0,1
+1627972855004,48455,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3374,0,1,1,null,48297,0,0
+1627972903459,11515,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7196,0,1,1,null,11357,0,0
+1627972914974,15249,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6485,0,1,1,null,14851,0,0
+1627972930223,10815,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4805,0,1,1,null,10663,0,0
+1627972941039,30671,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,30516,0,0
+1627972971710,2768,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15035,0,1,1,null,2767,0,0
+1627972974479,19588,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,149,0,1,1,null,19431,0,0
+1627972994067,36839,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3742,0,1,1,null,36683,0,0
+1627973030906,14342,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1471,0,1,1,null,14172,0,0
+1627973045248,20590,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,20438,0,0
+1627973065838,33238,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16995,0,1,1,null,33044,0,0
+1627973099076,12425,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,8850,0,1,1,null,12228,0,0
+1627973111501,8892,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5267,0,1,1,null,8506,0,0
+1627973120393,5625,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15082,0,1,1,null,5433,0,0
+1627973126018,5044,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3248,0,1,1,null,5043,0,0
+1627973131062,28049,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7581,0,1,1,null,27893,0,1
+1627973159111,73789,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22,0,1,1,null,73600,0,0
+1627973232900,48656,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19586,0,1,1,null,48438,0,0
+1627973281556,34432,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15787,0,1,1,null,34244,0,0
+1627973315988,7084,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6438,0,1,1,null,7082,0,0
+1627973323072,11841,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5915,0,1,1,null,11399,0,0
+1627973334913,20944,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,273,0,1,1,null,20782,0,0
+1627973355857,33277,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15786,0,1,1,null,33083,0,0
+1627973389135,11239,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,33923,0,1,1,null,11006,0,0
+1627973400374,7212,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1537,0,1,1,null,7047,0,0
+1627973407586,8696,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,397615,0,1,1,null,8045,0,0
+1627973416283,10603,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5796,0,1,1,null,10414,0,0
+1627973426886,5472,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4076,0,1,1,null,5311,0,0
+1627973432358,5343,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,566,0,1,1,null,5342,0,0
+1627973437701,8554,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17,0,1,1,null,8272,0,0
+1627973446255,10088,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,752434,0,1,1,null,9370,0,0
+1627973456343,16204,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3499,0,1,1,null,16042,0,0
+1627973472547,4065,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,352,0,1,1,null,4064,0,0
+1627973476611,5404,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9980,0,1,1,null,5403,0,0
+1627973482016,5081,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,526,0,1,1,null,5080,0,0
+1627973487097,9796,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1518,0,1,1,null,9636,0,0
+1627973496893,14544,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5478,0,1,1,null,14365,0,0
+1627973511438,15299,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6190,0,1,1,null,15129,0,0
+1627973526737,10701,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,26,0,1,1,null,10529,0,0
+1627973537439,16755,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2620,0,1,1,null,16597,0,0
+1627973554194,23877,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9352,0,1,1,null,23678,0,0
+1627973578071,16156,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4350,0,1,1,null,16008,0,0
+1627973594227,4697,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,4695,0,0
+1627973598924,4588,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2582,0,1,1,null,4587,0,0
+1627973603512,11414,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1437,0,1,1,null,11242,0,0
+1627973614926,4152,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3651,0,1,1,null,4150,0,0
+1627973619078,6311,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,6158,0,0
+1627973625389,7863,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6668,0,1,1,null,7703,0,0
+1627973633252,8310,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19020,0,1,1,null,8096,0,0
+1627973641562,6947,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,6788,0,0
+1627973648509,16147,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,70,0,1,1,null,15979,0,0
+1627973664657,6857,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5376,0,1,1,null,6857,0,0
+1627973671514,4241,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2745,0,1,1,null,4240,0,0
+1627973675755,63347,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,941917,0,1,1,null,62078,0,0
+1627973739102,15080,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3753,0,1,1,null,14919,0,0
+1627973754182,106496,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6070,0,1,1,null,106340,0,0
+1627973860678,17310,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6491,0,1,1,null,17049,0,0
+1627973877988,6289,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,101,0,1,1,null,6288,0,0
+1627973884277,7815,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1096,0,1,1,null,7655,0,0
+1627973892093,20359,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12818690,0,1,1,null,10522,0,0
+1627973912453,24319,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12889,0,1,1,null,24127,0,0
+1627973936773,6529,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7112,0,1,1,null,6528,0,0
+1627973943302,20240,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3150,0,1,1,null,20071,0,0
+1627973963542,22366,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6299,0,1,1,null,22218,0,0
+1627973985908,10244,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5588,0,1,1,null,10243,0,0
+1627973996152,7154,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5765,0,1,1,null,6981,0,0
+1627974003306,47773,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4048,0,1,1,null,47557,0,0
+1627974051080,12501,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4255,0,1,1,null,12344,0,0
+1627974063581,41626,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7755,0,1,1,null,41465,0,0
+1627974105207,7476,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,13474,0,1,1,null,7260,0,0
+1627974112683,8643,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5107,0,1,1,null,8476,0,0
+1627974121326,3149,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9518,0,1,1,null,3148,0,0
+1627974124475,5077,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3525,0,1,1,null,5076,0,0
+1627974129552,9473,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3242,0,1,1,null,9304,0,0
+1627974139025,3933,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2909,0,1,1,null,3932,0,0
+1627974142958,9801,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,18,0,1,1,null,9642,0,0
+1627974152759,34796,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,163,0,1,1,null,34542,0,0
+1627974187555,7828,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7296,0,1,1,null,7679,0,0
+1627974195383,6181,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,31,0,1,1,null,6180,0,0
+1627974201564,5257,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2316,0,1,1,null,5256,0,0
+1627974206821,26520,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1031,0,1,1,null,25198,0,0
+1627974233341,15338,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,78,0,1,1,null,15165,0,0
+1627974248679,12212,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,12017,0,0
+1627974260891,4899,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16,0,1,1,null,4898,0,0
+1627974265790,10463,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,68,0,1,1,null,10311,0,0
+1627974276253,10494,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7599429,0,1,1,null,7715,0,0
+1627974286747,9801,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5092,0,1,1,null,9508,0,0
+1627974296548,5819,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14020,0,1,1,null,5818,0,0
+1627974302368,810,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14091,0,1,1,null,809,0,0
+1627974303178,11650,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17023,0,1,1,null,11450,0,0
+1627974314828,39441,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22913,0,1,1,null,39243,0,0
+1627974354270,5719,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,11567,0,1,1,null,5719,0,0
+1627974359989,1251,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4423,0,1,1,null,1250,0,0
+1627974361240,3784,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14358,0,1,1,null,3782,0,0
+1627974365024,994,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14342,0,1,1,null,993,0,0
+1627974366018,550,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2227,0,1,1,null,548,0,0
+1627974366568,614,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,356,0,1,1,null,613,0,0
+1627974367183,4532,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2216,0,1,1,null,4531,0,0
+1627974371715,3522,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,28537,0,1,1,null,3521,0,0
+1627974375238,1237,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12884,0,1,1,null,1236,0,0
+1627974376475,562,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2242,0,1,1,null,561,0,0
+1627974377037,627,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1164,0,1,1,null,626,0,0
+1627974377664,9661,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12825,0,1,1,null,9130,0,0
+1627974387325,46496,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,14901,0,1,1,null,46307,0,0
+1627974433821,2496,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,27779,0,1,1,null,2494,0,0
+1627974436317,682,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6163,0,1,1,null,681,0,0
+1627974436999,1261,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2676,0,1,1,null,1261,0,0
+1627974438260,694,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,10316,0,1,1,null,693,0,0
+1627974438954,4412,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15839,0,1,1,null,4411,0,0
+1627974443366,22771,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22391,0,1,1,null,22458,0,0
+1627974466137,1273,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16123,0,1,1,null,1271,0,0
+1627974467410,3852,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1714,0,1,1,null,3851,0,0
+1627974471262,6163,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,100784,0,1,1,null,5863,0,0
+1627974477425,6197,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4020,0,1,1,null,6196,0,0
+1627974483622,47394,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3374,0,1,1,null,47233,0,0
+1627974531016,11793,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7196,0,1,1,null,11593,0,0
+1627974542809,11877,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6485,0,1,1,null,11713,0,0
+1627974554686,10730,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4805,0,1,1,null,10528,0,0
+1627974565416,32617,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,32459,0,0
+1627974598033,3493,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15035,0,1,1,null,3492,0,0
+1627974601526,19973,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,149,0,1,1,null,19787,0,0
+1627974621499,41285,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3742,0,1,1,null,41131,0,0
+1627974662784,14858,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1471,0,1,1,null,14698,0,0
+1627974677642,25098,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,24677,0,0
+1627974702740,36273,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16995,0,1,1,null,36083,0,0
+1627974739013,13700,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,8850,0,1,1,null,13239,0,0
+1627974752713,9220,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5267,0,1,1,null,9059,0,0
+1627974761933,5946,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15082,0,1,1,null,5749,0,0
+1627974767879,4890,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3248,0,1,1,null,4889,0,0
+1627974772769,31332,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7581,0,1,1,null,31178,0,0
+1627974804101,80428,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,22,0,1,1,null,80254,0,0
+1627974884529,49013,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19586,0,1,1,null,48794,0,0
+1627974933543,36322,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15787,0,1,1,null,36105,0,0
+1627974969865,7222,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6438,0,1,1,null,7220,0,0
+1627974977087,15981,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5915,0,1,1,null,15794,0,0
+1627974993068,23643,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,273,0,1,1,null,23479,0,0
+1627975016711,37603,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,15786,0,1,1,null,37258,0,0
+1627975054314,12554,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,33923,0,1,1,null,12333,0,0
+1627975066868,9067,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1537,0,1,1,null,8909,0,0
+1627975075935,8096,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,397615,0,1,1,null,7603,0,0
+1627975084031,12087,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5796,0,1,1,null,11901,0,0
+1627975096119,5996,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4076,0,1,1,null,5823,0,0
+1627975102115,5644,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,566,0,1,1,null,5642,0,0
+1627975107759,9647,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,17,0,1,1,null,9482,0,0
+1627975117406,10505,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,752421,0,1,1,null,9717,0,0
+1627975127911,17155,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3499,0,1,1,null,16983,0,0
+1627975145066,4654,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,352,0,1,1,null,4653,0,0
+1627975149720,6263,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9980,0,1,1,null,6260,0,0
+1627975155983,5817,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,526,0,1,1,null,5666,0,0
+1627975161800,10583,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1518,0,1,1,null,10431,0,0
+1627975172383,14365,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5478,0,1,1,null,14195,0,0
+1627975186748,15444,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6190,0,1,1,null,15283,0,0
+1627975202192,10461,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,26,0,1,1,null,10294,0,0
+1627975212653,17019,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2620,0,1,1,null,16864,0,0
+1627975229672,27333,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9352,0,1,1,null,27139,0,0
+1627975257006,17717,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4350,0,1,1,null,17533,0,0
+1627975274724,8508,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4156,0,1,1,null,8508,0,0
+1627975283231,4994,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2582,0,1,1,null,4994,0,0
+1627975288226,14045,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1437,0,1,1,null,13889,0,0
+1627975302271,4707,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3651,0,1,1,null,4705,0,0
+1627975306978,7342,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,7174,0,0
+1627975314320,9544,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6668,0,1,1,null,9366,0,0
+1627975323864,9316,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,19020,0,1,1,null,9102,0,0
+1627975333180,8398,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2722,0,1,1,null,8231,0,0
+1627975341578,17910,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,70,0,1,1,null,17742,0,0
+1627975359488,6619,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5376,0,1,1,null,6618,0,0
+1627975366107,4777,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2745,0,1,1,null,4776,0,0
+1627975370884,64236,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,941917,0,1,1,null,62982,0,0
+1627975435120,16770,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3765,0,1,1,null,16617,0,0
+1627975451891,125522,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6070,0,1,1,null,125357,0,0
+1627975577413,16176,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6491,0,1,1,null,15995,0,0
+1627975593589,6163,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,101,0,1,1,null,6162,0,0
+1627975599752,10291,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1096,0,1,1,null,10017,0,0
+1627975610043,20955,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12818690,0,1,1,null,11914,0,0
+1627975630998,26015,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,12889,0,1,1,null,25818,0,0
+1627975657013,6821,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7112,0,1,1,null,6820,0,0
+1627975663835,21990,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3150,0,1,1,null,21833,0,0
+1627975685825,21765,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,6299,0,1,1,null,21615,0,0
+1627975707590,10862,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5588,0,1,1,null,10711,0,0
+1627975718452,7164,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5765,0,1,1,null,7001,0,0
+1627975725616,50644,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4048,0,1,1,null,50479,0,0
+1627975776260,13771,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,4255,0,1,1,null,13609,0,0
+1627975790031,46520,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7755,0,1,1,null,46314,0,0
+1627975836551,5605,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,13474,0,1,1,null,5415,0,0
+1627975842156,8670,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5107,0,1,1,null,8517,0,0
+1627975850826,3153,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,9518,0,1,1,null,3152,0,0
+1627975853979,7563,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3525,0,1,1,null,7562,0,0
+1627975861542,8634,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,3242,0,1,1,null,8481,0,0
+1627975870176,3525,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2909,0,1,1,null,3524,0,0
+1627975873701,9565,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,18,0,1,1,null,9406,0,0
+1627975883266,32798,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,163,0,1,1,null,32637,0,0
+1627975916064,6016,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7296,0,1,1,null,5867,0,0
+1627975922080,5391,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,31,0,1,1,null,5391,0,0
+1627975927471,5497,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,2316,0,1,1,null,5497,0,0
+1627975932968,23954,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,1031,0,1,1,null,23687,0,0
+1627975956922,13362,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,78,0,1,1,null,13175,0,0
+1627975970284,10594,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,79,0,1,1,null,10439,0,0
+1627975980878,4853,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,16,0,1,1,null,4853,0,0
+1627975985732,10279,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,68,0,1,1,null,10118,0,0
+1627975996011,10233,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,7599429,0,1,1,null,7419,0,0
+1627976006244,9867,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 TB Parquet NO PARTITIONS large  1-1,text,true,,5092,0,1,1,null,9713,0,0

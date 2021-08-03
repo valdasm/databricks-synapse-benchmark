@@ -7,7 +7,7 @@ id,run_file_name,friendly_name,description,updated_at
 6,synapse_1gb_parquet_external,Synapse 1GB Parquet External,Parquet files / no partitions/ columns specified / using EXTERNAL table,2021-07-27
 20,synapse_10gb_parquet_partitioned_openrowset,Synapse 10GB Parquet Part. Openrowset,Parquet files / partitions / columns specified using WITH,2021-07-27
 21,synapse_10gb_delta_partitioned_openrowset,Synapse 10GB Delta Part. Openrowset,Delta files / partitions / columns specified using WITH,2021-07-27
-22,synapse_10gb_delta,Synapse 10GB Delta No Part. Openrowset OLD,Delta files / no partitions / no columns specified,2021-07-27
+22,synapse_10gb_delta,Synapse 10GB Delta No Part. Openrowset no schema,Delta files / no partitions / no columns specified,2021-07-27
 23,synapse_10gb_delta_openrowset,Synapse 10GB Delta No Part. Openrowset,Delta files / no partitions / WITH columns specified,2021-07-27
 24,synapse_10gb_parquet_openrowset,Synapse 10GB Parquet No Part. Openrowset,Parquet files / no partitions/ WITH columns specified,2021-07-27
 25,synapse_10gb_parquet_external,Synapse 10GB Parquet No Part. External,Parquet files / no partitions/ columns specified / using EXTERNAL table,2021-07-27
@@ -26,14 +26,14 @@ id,run_file_name,friendly_name,description,updated_at
 50,databricks_analytics_1tb_delta_partitioned_large,Databricks 1TB Delta Part. Large,Delta ables / with partitions,2021-07-27
 51,databricks_analytics_1tb_delta_partitioned_medium,Databricks 1TB Delta Part. Medium,Delta ables / with partitions,2021-07-27
 52,databricks_analytics_1tb_delta_partitioned_small,Databricks 1TB Delta Part. Small,Delta ables / with partitions,2021-07-27
-50,databricks_analytics_1tb_parquet_partitioned_large,Databricks 1TB Parquet Part. Large,Parquet ables / with partitions,2021-07-27
-51,databricks_analytics_1tb_parquet_partitioned_medium,Databricks 1TB Parquet Part. Medium,Parquet ables / with partitions,2021-07-27
-52,databricks_analytics_1tb_parquet_partitioned_small,Databricks 1TB Parquet Part. Small,Parquet ables / with partitions,2021-07-27
-53,databricks_analytics_1tb_delta_large,Databricks 1TB Delta No Part. Large,Delta ables / no partitions,2021-07-27
-54,databricks_analytics_1tb_delta_medium,Databricks 1TB Delta No Part. Medium,Delta ables / no partitions,2021-07-27
-55,databricks_analytics_1tb_delta_small,Databricks 1TB Delta No Part. Small,Delta ables / no partitions,2021-07-27
-56,databricks_analytics_1tb_parquet_large,Databricks 1TB Parquet No Part. Large,Parquet ables / no partitions,2021-07-27
-57,databricks_analytics_1tb_parquet_medium,Databricks 1TB Parquet No Part. Medium,Parquet ables / no partitions,2021-07-27
-58,databricks_analytics_1tb_parquet_small,Databricks 1TB Parquet No Part. Small,Parquet ables / no partitions,2021-07-27
-59,synapse_1tb_delta_openrowset,Synapse 1TB Delta No Part. Openrowset,Delta files / no partitions / WITH columns specified,2021-07-27
-60,synapse_1tb_parquet_openrowset,Synapse 1TB Parquet No Part. Openrowset,Parquet files / no partitions/ WITH columns specified,2021-07-27
+53,databricks_analytics_1tb_parquet_partitioned_large,Databricks 1TB Parquet Part. Large,Parquet ables / with partitions,2021-07-27
+54,databricks_analytics_1tb_parquet_partitioned_medium,Databricks 1TB Parquet Part. Medium,Parquet ables / with partitions,2021-07-27
+55,databricks_analytics_1tb_parquet_partitioned_small,Databricks 1TB Parquet Part. Small,Parquet ables / with partitions,2021-07-27
+56,databricks_analytics_1tb_delta_large,Databricks 1TB Delta No Part. Large,Delta ables / no partitions,2021-07-27
+57,databricks_analytics_1tb_delta_medium,Databricks 1TB Delta No Part. Medium,Delta ables / no partitions,2021-07-27
+58,databricks_analytics_1tb_delta_small,Databricks 1TB Delta No Part. Small,Delta ables / no partitions,2021-07-27
+59,databricks_analytics_1tb_parquet_large,Databricks 1TB Parquet No Part. Large,Parquet ables / no partitions,2021-07-27
+60,databricks_analytics_1tb_parquet_medium,Databricks 1TB Parquet No Part. Medium,Parquet ables / no partitions,2021-07-27
+61,databricks_analytics_1tb_parquet_small,Databricks 1TB Parquet No Part. Small,Parquet ables / no partitions,2021-07-27
+62,synapse_1tb_delta_openrowset,Synapse 1TB Delta No Part. Openrowset,Delta files / no partitions / WITH columns specified,2021-07-27
+63,synapse_1tb_parquet_openrowset,Synapse 1TB Parquet No Part. Openrowset,Parquet files / no partitions/ WITH columns specified,2021-07-27
