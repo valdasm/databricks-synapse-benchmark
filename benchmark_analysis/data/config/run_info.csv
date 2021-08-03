@@ -10,7 +10,7 @@ id,run_file_name,friendly_name,description,updated_at
 22,synapse_10gb_delta,Synapse 10GB Delta No Part. Openrowset no schema,Delta files / no partitions / no columns specified,2021-07-27
 23,synapse_10gb_delta_openrowset,Synapse 10GB Delta No Part. Openrowset,Delta files / no partitions / WITH columns specified,2021-07-27
 24,synapse_10gb_parquet_openrowset,Synapse 10GB Parquet No Part. Openrowset,Parquet files / no partitions/ WITH columns specified,2021-07-27
-25,synapse_10gb_parquet_external,Synapse 10GB Parquet No Part. External,Parquet files / no partitions/ columns specified / using EXTERNAL table,2021-07-27
+25,synapse_10gb_parquet_partitioned_external,Synapse 10GB Parquet Part. External,Parquet files / partitioned / columns specified / using EXTERNAL table,2021-07-27
 26,databricks_analytics_10gb_delta_partitioned_2xsmall,Databricks 10GB Delta Part. 2X-Small,Delta ables / with partitions,2021-07-27
 27,databricks_analytics_10gb_delta_partitioned_xsmall,Databricks 10GB Delta Part. X-Small,Delta ables / with partitions,2021-07-27
 28,databricks_analytics_10gb_delta_partitioned_small,Databricks 10GB Delta Part. Small,Delta ables / with partitions,2021-07-27
