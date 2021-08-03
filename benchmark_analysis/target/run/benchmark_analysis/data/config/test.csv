@@ -1,0 +1,15 @@
+
+    
+    create table dev_benchmark_raw.test (`cluster_size` string,`cluster_dbu_count` bigint,`hourly_dbu_total_cost` double,`hourly_azure_vm_total_cost` double,`hourly_combined_cost` double)
+    
+    
+    
+    
+    
+  ;
+    -- dbt seed --
+    
+            insert into dev_benchmark_raw.test values
+            (cast(%s as string),cast(%s as bigint),cast(%s as double),cast(%s as double),cast(%s as double)),(cast(%s as string),cast(%s as bigint),cast(%s as double),cast(%s as double),cast(%s as double)),(cast(%s as string),cast(%s as bigint),cast(%s as double),cast(%s as double),cast(%s as double)),(cast(%s as string),cast(%s as bigint),cast(%s as double),cast(%s as double),cast(%s as double)),(cast(%s as string),cast(%s as bigint),cast(%s as double),cast(%s as double),cast(%s as double))
+        
+  
