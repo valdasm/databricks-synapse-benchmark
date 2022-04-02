@@ -1,343 +1,343 @@
 timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1627371351076,26811,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,26550,0,1553
-1627371377886,2042,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,2041,0,0
-1627371379929,13573,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,13271,0,0
-1627371393502,17821,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,17523,0,0
-1627371411323,2261,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,2260,0,0
-1627371413585,11911,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,11684,0,0
-1627371425496,2205,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,2204,0,0
-1627371427701,1951,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,1949,0,0
-1627371429652,1380,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,1379,0,1
-1627371431032,2641,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,2640,0,0
-1627371433673,2671,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,2671,0,0
-1627371436345,2214,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,2212,0,0
-1627371438559,2302,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,2300,0,0
-1627371440861,1361,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,1361,0,0
-1627371442222,1484,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,1482,0,0
-1627371443706,2833,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,2831,0,0
-1627371446539,5994,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,5993,0,0
-1627371452534,2938,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,2937,0,0
-1627371455472,1500,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,1499,0,0
-1627371456972,2397,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,2396,0,0
-1627371459369,1532,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,1530,0,0
-1627371460901,2606,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,2605,0,0
-1627371463508,4548,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,4547,0,0
-1627371468056,1967,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,1966,0,0
-1627371470024,3902,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,3901,0,0
-1627371473926,5375,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,5368,0,0
-1627371479302,3106,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,3105,0,0
-1627371482408,4632,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,4631,0,0
-1627371487039,3242,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,3241,0,0
-1627371490281,4437,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,4436,0,0
-1627371494718,7978,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,7977,0,0
-1627371502696,3133,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,3133,0,0
-1627371505829,1757,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,1757,0,0
-1627371507586,5058,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,5057,0,0
-1627371512644,6685,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,6454,0,0
-1627371519329,3791,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,3791,0,0
-1627371523120,5850,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,5850,0,1
-1627371528970,6241,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,6241,0,0
-1627371535212,4779,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,4778,0,0
-1627371539992,4380,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,4379,0,0
-1627371544372,1588,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,1587,0,0
-1627371545960,3020,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,3019,0,0
-1627371548980,3184,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,3183,0,0
-1627371552164,4111,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,4110,0,0
-1627371556275,1133,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,1133,0,0
-1627371557409,6284,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,6283,0,0
-1627371563693,3511,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,3509,0,0
-1627371567203,3653,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,3652,0,0
-1627371570856,5596,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,5595,0,0
-1627371576453,6213,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,6213,0,0
-1627371582666,2398,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,2396,0,0
-1627371585063,1584,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,1583,0,0
-1627371586647,3616,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,3613,0,0
-1627371590264,6174,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5787,0,1,1,null,6173,0,0
-1627371596438,1254,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,1253,0,0
-1627371597692,2819,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,2818,0,0
-1627371600511,1569,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,1569,0,0
-1627371602080,1756,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,1755,0,0
-1627371603836,4254,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,4254,0,0
-1627371608090,2329,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,2329,0,0
-1627371610419,2526,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,2525,0,0
-1627371612945,1671,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,1670,0,0
-1627371614615,3487,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,3485,0,0
-1627371618103,4597,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,4596,0,0
-1627371622700,4329,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,4328,0,0
-1627371627029,3727,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,3726,0,0
-1627371630757,2177,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,2176,0,0
-1627371632935,3908,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,3907,0,0
-1627371636842,3200,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,3198,0,0
-1627371640042,2317,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,2316,0,0
-1627371642359,1580,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,1579,0,0
-1627371643939,1612,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,1611,0,0
-1627371645551,2281,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,2280,0,0
-1627371647832,1532,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,1532,0,0
-1627371649364,2998,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,2996,0,0
-1627371652362,1965,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,1964,0,0
-1627371654327,1670,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,1670,0,0
-1627371655998,8254,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,8253,0,0
-1627371664252,3771,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,3770,0,0
-1627371668023,1028,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,1027,0,0
-1627371669051,6251,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,6001,0,0
-1627371675302,4473,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,4471,0,0
-1627371679774,2791,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,2790,0,0
-1627371682565,4868,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,4866,0,0
-1627371687434,5328,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,5328,0,0
-1627371692761,1560,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1560,0,0
-1627371694322,5092,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,5090,0,0
-1627371699414,1838,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,1836,0,0
-1627371701252,3258,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,3257,0,0
-1627371704509,1876,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,1876,0,0
-1627371706385,2252,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,2251,0,0
-1627371708637,5745,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,5744,0,0
-1627371714384,1982,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,1981,0,0
-1627371716366,1967,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,1966,0,0
-1627371718333,3079,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,3078,0,0
-1627371721411,2119,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,2117,0,0
-1627371723530,1203,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,1201,0,0
-1627371724733,3300,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,3299,0,0
-1627371728033,1376,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,1374,0,0
-1627371729408,3110,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,3108,0,0
-1627371732519,5015,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,5014,0,0
-1627371737535,754,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,753,0,0
-1627371738289,1426,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,1425,0,0
-1627371739715,16742,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,16741,0,0
-1627371756457,1582,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,1581,0,0
-1627371758039,3991,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,3989,0,0
-1627371762030,4153,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,4153,0,0
-1627371766184,2019,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,2018,0,0
-1627371768203,4555,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,4554,0,0
-1627371772757,1588,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,1587,0,0
-1627371774346,2513,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,2512,0,1
-1627371776859,917,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,917,0,0
-1627371777776,1872,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,1854,0,1
-1627371779647,3785,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,3784,0,0
-1627371783433,2331,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,2329,0,0
-1627371785764,634,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,633,0,0
-1627371786398,1017,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,1016,0,0
-1627371787415,1060,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,1059,0,0
-1627371788475,1027,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,1026,0,0
-1627371789502,556,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,555,0,0
-1627371790058,631,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,630,0,0
-1627371790689,665,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,657,0,0
-1627371791354,583,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,583,0,0
-1627371791937,558,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,557,0,0
-1627371792495,601,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,599,0,0
-1627371793096,1546,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,1545,0,1
-1627371794642,1080,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,1079,0,0
-1627371795722,556,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,555,0,0
-1627371796278,533,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,532,0,0
-1627371796811,1275,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,1274,0,0
-1627371798086,1044,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,1043,0,0
-1627371799131,1023,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,1023,0,0
-1627371800154,558,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,558,0,0
-1627371800713,968,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,968,0,0
-1627371801681,590,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,586,0,0
-1627371802271,1049,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,1048,0,0
-1627371803320,1036,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,1035,0,0
-1627371804356,1128,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,1127,0,0
-1627371805485,586,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,585,0,0
-1627371806071,927,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,916,0,0
-1627371806998,1912,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,1910,0,0
-1627371808910,1550,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,1550,0,0
-1627371810460,1065,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,1064,0,0
-1627371811525,3052,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,3051,0,0
-1627371814577,9695,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,9694,0,0
-1627371824272,929,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,928,0,0
-1627371825201,499,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,498,0,1
-1627371825701,3334,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,3333,0,0
-1627371829035,4082,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,4081,0,0
-1627371833117,2175,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,2175,0,0
-1627371835292,4150,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,4149,0,0
-1627371839443,4507,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,4507,0,0
-1627371843950,4209,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,4209,0,0
-1627371848158,3808,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,3805,0,0
-1627371851967,506,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,505,0,0
-1627371852473,2203,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,2202,0,0
-1627371854675,2156,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,2156,0,0
-1627371856832,3121,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,3121,0,0
-1627371859953,817,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,817,0,0
-1627371860770,4648,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,4648,0,0
-1627371865418,2981,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,2980,0,0
-1627371868399,3004,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,3004,0,0
-1627371871403,4341,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,4341,0,0
-1627371875744,4661,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,4661,0,0
-1627371880406,830,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,829,0,0
-1627371881236,1357,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,1356,0,0
-1627371882593,3050,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,3048,0,0
-1627371885643,6087,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5787,0,1,1,null,6086,0,0
-1627371891729,493,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,492,0,0
-1627371892222,2189,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,2188,0,0
-1627371894412,532,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,531,0,0
-1627371894944,743,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,743,0,0
-1627371895687,3314,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,3314,0,1
-1627371899001,2033,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,2032,0,0
-1627371901034,2280,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,2279,0,0
-1627371903314,597,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,596,0,0
-1627371903911,3673,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,3672,0,0
-1627371907584,3733,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,3732,0,0
-1627371911317,881,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,881,0,0
-1627371912198,3175,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,3175,0,0
-1627371915373,929,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,929,0,0
-1627371916302,2930,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,2929,0,0
-1627371919232,617,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,616,0,0
-1627371919849,1919,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,1918,0,0
-1627371921768,538,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,537,0,0
-1627371922306,1126,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,1126,0,0
-1627371923432,2013,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,2012,0,0
-1627371925445,1445,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,1444,0,0
-1627371926890,915,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,914,0,0
-1627371927805,758,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,757,0,0
-1627371928563,1886,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,1886,0,0
-1627371930449,9431,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,9431,0,0
-1627371939880,2895,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,2895,0,0
-1627371942775,522,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,521,0,0
-1627371943298,2147,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,2146,0,0
-1627371945445,3711,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,3710,0,0
-1627371949156,514,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,512,0,0
-1627371949672,3730,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,3728,0,0
-1627371953403,4657,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,4657,0,0
-1627371958059,1432,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1431,0,0
-1627371959491,4283,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,4280,0,0
-1627371963774,622,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,621,0,0
-1627371964396,2574,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,2572,0,0
-1627371966970,908,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,907,0,0
-1627371967879,1127,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,1125,0,0
-1627371969006,5125,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,5123,0,0
-1627371974131,887,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,887,0,0
-1627371975019,785,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,784,0,0
-1627371975804,2371,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,2369,0,0
-1627371978175,1014,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,1012,0,0
-1627371979189,658,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,658,0,0
-1627371979848,2361,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,2360,0,0
-1627371982210,1223,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,1221,0,0
-1627371983433,3654,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,3653,0,0
-1627371987087,4299,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,4298,0,0
-1627371991387,492,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,491,0,0
-1627371991879,738,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,737,0,0
-1627371992617,16186,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,16185,0,0
-1627372008803,557,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,556,0,0
-1627372009360,3227,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,3227,0,0
-1627372012587,3384,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,3383,0,0
-1627372015973,2039,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,2039,0,0
-1627372018013,3949,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,3949,0,0
-1627372021962,2096,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,2096,0,1
-1627372024058,2237,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,2236,0,0
-1627372026294,410,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,410,0,0
-1627372026704,833,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,821,0,0
-1627372027537,4337,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,4336,0,0
-1627372031875,963,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,961,0,0
-1627372032838,630,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,629,0,0
-1627372033468,1014,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,1010,0,0
-1627372034482,1038,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,1037,0,0
-1627372035519,1023,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,1022,0,0
-1627372036542,533,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,532,0,0
-1627372037076,640,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,639,0,0
-1627372037716,685,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,678,0,0
-1627372038402,562,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,562,0,0
-1627372038964,515,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,515,0,0
-1627372039479,536,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,536,0,0
-1627372040015,1029,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,1028,0,0
-1627372041044,1086,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,1084,0,0
-1627372042131,538,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,538,0,0
-1627372042669,540,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,539,0,0
-1627372043209,1008,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,1004,0,0
-1627372044217,1078,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,1074,0,0
-1627372045296,969,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,967,0,0
-1627372046265,549,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,547,0,0
-1627372046815,916,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,916,0,0
-1627372047732,637,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,634,0,0
-1627372048369,1030,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,1029,0,0
-1627372049400,1069,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,1067,0,0
-1627372050470,1191,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,1188,0,0
-1627372051661,514,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,514,0,0
-1627372052175,1270,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,1264,0,0
-1627372053445,1921,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,1920,0,0
-1627372055366,1506,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,1505,0,0
-1627372056872,1406,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,1405,0,0
-1627372058279,3636,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,3636,0,0
-1627372061914,4632,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,4631,0,1
-1627372066546,987,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,986,0,0
-1627372067533,570,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,569,0,0
-1627372068103,3342,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,3342,0,0
-1627372071445,3986,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,3985,0,0
-1627372075433,2260,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,2259,0,0
-1627372077693,3967,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,3966,0,0
-1627372081659,4583,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,4583,0,0
-1627372086242,3517,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,3516,0,0
-1627372089759,3715,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,3714,0,0
-1627372093474,595,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,595,0,0
-1627372094069,2155,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,2155,0,0
-1627372096224,2162,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,2162,0,0
-1627372098386,3204,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,3204,0,0
-1627372101591,862,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,862,0,0
-1627372102453,4582,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,4582,0,0
-1627372107035,2847,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,2846,0,1
-1627372109882,2974,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,2972,0,0
-1627372112856,4894,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,4893,0,0
-1627372117750,4651,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,4650,0,0
-1627372122401,1246,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,1245,0,0
-1627372123648,1312,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,1311,0,0
-1627372124960,2686,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,2685,0,0
-1627372127646,4818,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5787,0,1,1,null,4818,0,0
-1627372132464,456,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,455,0,0
-1627372132920,2138,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,2137,0,0
-1627372135058,558,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,557,0,0
-1627372135616,594,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,594,0,0
-1627372136210,3341,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,3341,0,0
-1627372139551,2590,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,2589,0,0
-1627372142141,1884,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,1883,0,0
-1627372144025,564,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,563,0,0
-1627372144589,3374,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,3374,0,0
-1627372147964,3716,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,3715,0,0
-1627372151681,941,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,939,0,0
-1627372152622,2878,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,2878,0,0
-1627372155501,865,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,864,0,0
-1627372156366,2923,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,2922,0,0
-1627372159289,489,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,488,0,0
-1627372159778,1924,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,1923,0,0
-1627372161702,508,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,507,0,0
-1627372162210,754,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,754,0,0
-1627372162964,1885,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,1884,0,0
-1627372164850,1679,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,1678,0,0
-1627372166529,884,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,883,0,0
-1627372167413,920,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,919,0,0
-1627372168333,1358,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,1357,0,1
-1627372169691,7360,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,7360,0,0
-1627372177050,2783,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,2782,0,0
-1627372179833,544,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,543,0,0
-1627372180377,2099,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,2099,0,0
-1627372182476,3511,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,3510,0,0
-1627372185987,552,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,551,0,0
-1627372186539,3760,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,3758,0,1
-1627372190300,4450,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,4449,0,0
-1627372194750,1437,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1437,0,0
-1627372196187,4347,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,4340,0,0
-1627372200534,619,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,618,0,0
-1627372201154,2494,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,2494,0,0
-1627372203648,901,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,900,0,0
-1627372204549,1133,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,1133,0,0
-1627372205683,5941,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,5940,0,0
-1627372211624,861,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,861,0,0
-1627372212485,823,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,821,0,0
-1627372213308,2369,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,2369,0,1
-1627372215678,961,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,961,0,0
-1627372216639,635,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,634,0,0
-1627372217274,2152,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,2152,0,0
-1627372219426,1713,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,1712,0,0
-1627372221140,2589,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,2588,0,0
-1627372223729,3900,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,3899,0,0
-1627372227629,419,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,418,0,0
-1627372228048,721,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,720,0,0
-1627372228769,15111,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,15110,0,0
-1627372243880,525,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,523,0,0
-1627372244405,3079,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,3078,0,0
-1627372247484,3325,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,3325,0,0
-1627372250809,1803,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,1803,0,0
-1627372252613,4045,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,4045,0,0
-1627372256659,1661,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,1660,0,0
-1627372258320,2491,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,2490,0,0
-1627372260811,440,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,440,0,0
-1627372261251,2911,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,2901,0,0
-1627372264162,3148,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,3147,0,0
+1646248582017,20765,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,20528,0,754
+1646248602782,7360,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,7086,0,0
+1646248610142,2817,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,2815,0,0
+1646248612959,10653,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,10343,0,0
+1646248623612,2031,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,2030,0,0
+1646248625643,6936,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,6721,0,0
+1646248632580,1790,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,1788,0,0
+1646248634370,1388,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,1386,0,0
+1646248635758,1130,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,1130,0,0
+1646248636888,1081,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,1080,0,0
+1646248637969,2077,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,2076,0,0
+1646248640046,1734,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,1733,0,0
+1646248641781,1699,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,1697,0,0
+1646248643480,1005,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,1005,0,0
+1646248644485,996,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,996,0,0
+1646248645481,2333,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,2332,0,0
+1646248647814,4568,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,4566,0,0
+1646248652382,1761,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,1760,0,0
+1646248654143,1166,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,1165,0,0
+1646248655309,1458,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,1457,0,0
+1646248656767,959,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,958,0,0
+1646248657726,1926,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,1924,0,0
+1646248659652,3103,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,3100,0,0
+1646248662755,1735,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,1733,0,0
+1646248664490,3179,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,3178,0,0
+1646248667669,3202,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,3192,0,0
+1646248670871,2603,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,2603,0,0
+1646248673475,3066,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,3066,0,0
+1646248676541,2893,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,2893,0,0
+1646248679434,3711,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,3710,0,0
+1646248683144,6674,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,6674,0,0
+1646248689818,2045,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,2044,0,0
+1646248691864,1422,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,1421,0,0
+1646248693286,3893,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,3893,0,0
+1646248697178,3878,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,3877,0,0
+1646248701056,2494,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,2494,0,0
+1646248703552,4844,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,4844,0,0
+1646248708396,8241,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,8241,0,0
+1646248716637,4099,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,4098,0,0
+1646248720736,3865,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,3864,0,0
+1646248724602,1166,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,1165,0,0
+1646248725768,2463,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,2462,0,0
+1646248728230,2690,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,2690,0,0
+1646248730920,2737,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,2737,0,0
+1646248733657,1011,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,1011,0,0
+1646248734668,5524,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,5524,0,0
+1646248740193,3355,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,3354,0,0
+1646248743548,3650,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,3650,0,0
+1646248747198,5508,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,5508,0,0
+1646248752707,4898,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,4898,0,0
+1646248757605,1669,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,1668,0,0
+1646248759274,1096,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,1096,0,0
+1646248760370,3054,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,3053,0,0
+1646248763424,5335,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5739,0,1,1,null,5335,0,0
+1646248768759,1036,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,1036,0,0
+1646248769795,2409,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,2409,0,0
+1646248772204,929,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,928,0,0
+1646248773133,1360,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,1359,0,0
+1646248774494,3841,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,3840,0,0
+1646248778336,2007,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,2007,0,0
+1646248780343,2263,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,2263,0,0
+1646248782606,1496,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,1496,0,0
+1646248784103,2945,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,2945,0,0
+1646248787049,3850,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,3849,0,0
+1646248790899,2931,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,2931,0,0
+1646248793831,3044,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,3044,0,0
+1646248796875,1581,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,1581,0,0
+1646248798456,3170,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,3170,0,0
+1646248801627,2591,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,2590,0,0
+1646248804218,1909,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,1908,0,0
+1646248806127,1171,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,1171,0,0
+1646248807298,1181,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,1181,0,0
+1646248808479,1901,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,1901,0,0
+1646248810380,1084,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,1084,0,0
+1646248811465,2106,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,2105,0,0
+1646248813571,1358,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,1356,0,0
+1646248814929,1071,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,1071,0,0
+1646248816000,7392,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,7391,0,0
+1646248823393,3267,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,3266,0,0
+1646248826659,1045,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,1044,0,0
+1646248827704,3067,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,3066,0,0
+1646248830771,3824,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,3823,0,0
+1646248834595,2223,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,2222,0,0
+1646248836818,3941,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,3940,0,0
+1646248840759,4366,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,4366,0,0
+1646248845125,1234,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1234,0,0
+1646248846359,4470,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,4468,0,0
+1646248850830,1144,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,1143,0,0
+1646248851974,2795,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,2795,0,0
+1646248854769,1307,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,1307,0,0
+1646248856076,1525,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,1524,0,0
+1646248857601,4920,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,4920,0,0
+1646248862521,1239,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,1239,0,0
+1646248863760,1474,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,1474,0,0
+1646248865234,2793,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,2792,0,0
+1646248868026,1537,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,1537,0,0
+1646248869563,932,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,932,0,0
+1646248870495,2313,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,2313,0,0
+1646248872809,974,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,974,0,0
+1646248873784,2625,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,2624,0,0
+1646248876409,4105,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,4104,0,0
+1646248880514,636,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,636,0,0
+1646248881150,1032,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,1031,0,0
+1646248882182,14721,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,14721,0,0
+1646248896903,987,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,987,0,0
+1646248897890,3082,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,3081,0,0
+1646248900972,3474,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,3474,0,0
+1646248904446,1650,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,1650,0,0
+1646248906096,4049,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,4049,0,0
+1646248910145,1167,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,1167,0,0
+1646248911313,2137,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,2136,0,0
+1646248913450,708,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,707,0,0
+1646248914158,2209,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,2189,0,0
+1646248916367,2837,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,2837,0,0
+1646248919204,874,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,873,0,1
+1646248920078,532,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,531,0,0
+1646248920610,921,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,919,0,0
+1646248921531,978,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,976,0,0
+1646248922509,860,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,859,0,0
+1646248923369,466,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,466,0,0
+1646248923836,517,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,516,0,0
+1646248924353,548,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,544,0,0
+1646248924902,466,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,466,0,0
+1646248925369,445,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,444,0,0
+1646248925814,472,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,472,0,0
+1646248926286,958,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,954,0,0
+1646248927244,913,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,911,0,0
+1646248928157,452,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,452,0,0
+1646248928609,465,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,465,0,0
+1646248929074,884,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,883,0,0
+1646248929958,920,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,919,0,0
+1646248930879,859,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,859,0,0
+1646248931739,462,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,461,0,0
+1646248932201,870,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,869,0,0
+1646248933071,462,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,461,0,0
+1646248933534,931,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,930,0,0
+1646248934465,913,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,912,0,0
+1646248935378,898,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,898,0,0
+1646248936276,393,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,392,0,0
+1646248936669,772,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,766,0,0
+1646248937441,1590,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,1590,0,0
+1646248939032,859,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,859,0,0
+1646248939891,629,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,628,0,0
+1646248940520,2476,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,2476,0,0
+1646248942996,4005,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,4004,0,0
+1646248947001,570,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,570,0,0
+1646248947571,394,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,393,0,0
+1646248947965,2724,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,2723,0,0
+1646248950689,2683,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,2682,0,0
+1646248953372,1972,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,1971,0,0
+1646248955344,3725,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,3725,0,0
+1646248959070,4264,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,4263,0,0
+1646248963334,3202,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,3201,0,0
+1646248966536,3062,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,3061,0,0
+1646248969598,392,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,391,0,0
+1646248969990,1881,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,1880,0,0
+1646248971872,1820,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,1820,0,0
+1646248973692,2261,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,2261,0,0
+1646248975954,533,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,533,0,0
+1646248976487,4154,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,4154,0,0
+1646248980640,2495,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,2494,0,0
+1646248983136,2417,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,2416,0,0
+1646248985553,3829,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,3829,0,0
+1646248989382,4029,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,4029,0,0
+1646248993411,567,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,567,0,0
+1646248993978,1022,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,1021,0,0
+1646248995000,2294,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,2294,0,0
+1646248997295,4614,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5739,0,1,1,null,4613,0,0
+1646249001908,382,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,382,0,0
+1646249002290,2268,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,2268,0,0
+1646249004558,454,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,454,0,0
+1646249005012,450,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,449,0,1
+1646249005462,2985,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,2985,0,0
+1646249008448,1607,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,1607,0,0
+1646249010056,1677,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,1677,0,0
+1646249011732,424,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,424,0,0
+1646249012156,2833,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,2832,0,0
+1646249014989,3301,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,3300,0,0
+1646249018290,574,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,574,0,0
+1646249018864,2511,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,2510,0,0
+1646249021375,584,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,583,0,0
+1646249021960,2558,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,2558,0,0
+1646249024519,365,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,364,0,0
+1646249024884,1629,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,1629,0,0
+1646249026513,381,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,381,0,0
+1646249026894,520,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,519,0,0
+1646249027414,1665,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,1664,0,0
+1646249029079,985,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,984,0,0
+1646249030064,552,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,551,0,0
+1646249030616,507,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,504,0,0
+1646249031123,974,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,974,0,0
+1646249032097,6614,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,6613,0,0
+1646249038711,2519,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,2518,0,0
+1646249041230,369,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,369,0,0
+1646249041599,1074,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,1074,0,0
+1646249042673,3420,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,3420,0,0
+1646249046093,413,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,412,0,0
+1646249046506,4237,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,4237,0,0
+1646249050743,4302,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,4302,0,0
+1646249055045,1146,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1146,0,0
+1646249056191,3797,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,3795,0,0
+1646249059989,475,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,475,0,0
+1646249060465,2189,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,2189,0,0
+1646249062655,548,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,548,0,0
+1646249063203,747,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,746,0,0
+1646249063950,4529,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,4529,0,0
+1646249068478,586,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,586,0,1
+1646249069064,499,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,499,0,0
+1646249069564,2162,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,2161,0,0
+1646249071726,627,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,626,0,0
+1646249072354,480,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,479,0,0
+1646249072834,1889,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,1889,0,0
+1646249074723,916,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,916,0,0
+1646249075639,2244,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,2244,0,0
+1646249077882,3257,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,3257,0,0
+1646249081139,324,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,324,0,0
+1646249081463,619,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,619,0,0
+1646249082082,13395,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,13395,0,0
+1646249095477,372,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,371,0,0
+1646249095849,2816,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,2815,0,0
+1646249098666,2906,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,2905,0,0
+1646249101572,1597,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,1597,0,0
+1646249103168,3604,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,3604,0,0
+1646249106772,1133,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,1133,0,0
+1646249107906,2048,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,2048,0,0
+1646249109954,330,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,329,0,0
+1646249110284,740,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,721,0,0
+1646249111024,2460,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,2460,0,0
+1646249113484,827,warmup 1,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2352,0,1,1,null,827,0,0
+1646249114312,446,warmup 2,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14191,0,1,1,null,445,0,0
+1646249114758,882,warmup 3,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15534,0,1,1,null,881,0,0
+1646249115640,914,warmup 4,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21132,0,1,1,null,913,0,0
+1646249116554,783,warmup 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11514,0,1,1,null,782,0,0
+1646249117336,455,warmup 6,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4423,0,1,1,null,455,0,0
+1646249117791,468,warmup 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13999,0,1,1,null,466,0,0
+1646249118259,918,warmup 8,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14342,0,1,1,null,916,0,0
+1646249119177,440,warmup 9,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2227,0,1,1,null,440,0,0
+1646249119617,443,warmup 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,356,0,1,1,null,443,0,0
+1646249120060,449,warmup 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2059,0,1,1,null,449,0,0
+1646249120509,907,warmup 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,27624,0,1,1,null,906,0,0
+1646249121416,898,warmup 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,12817,0,1,1,null,897,0,0
+1646249122315,448,warmup 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1342,0,1,1,null,448,0,0
+1646249122763,447,warmup 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1095,0,1,1,null,447,0,0
+1646249123210,925,warmup 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11826,0,1,1,null,924,0,0
+1646249124135,899,warmup 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14044,0,1,1,null,898,0,0
+1646249125034,859,warmup 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3611,0,1,1,null,858,0,0
+1646249125893,474,warmup 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6163,0,1,1,null,473,0,0
+1646249126367,787,warmup 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,789,0,1,1,null,786,0,0
+1646249127153,483,warmup 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6239,0,1,1,null,483,0,0
+1646249127637,878,warmup 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,14467,0,1,1,null,877,0,0
+1646249128515,966,warmup 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,21031,0,1,1,null,964,0,0
+1646249129481,895,warmup 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9401,0,1,1,null,894,0,0
+1646249130376,380,SQL QUERY 1 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1714,0,1,1,null,379,0,0
+1646249130756,675,SQL QUERY 2 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,100784,0,1,1,null,666,0,0
+1646249131431,1615,SQL QUERY 3 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,637,0,1,1,null,1614,0,0
+1646249133047,841,SQL QUERY 4 ,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,125,0,1,1,null,841,0,0
+1646249133888,604,SQL QUERY 5,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6853,0,1,1,null,603,0,0
+1646249134492,2419,SQL QUERY 7,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5343,0,1,1,null,2418,0,0
+1646249136911,3979,SQL QUERY 10,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,457,0,1,1,null,3979,0,0
+1646249140890,577,SQL QUERY 11,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3906,0,1,1,null,576,0,0
+1646249141467,382,SQL QUERY 12,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15679,0,1,1,null,381,0,0
+1646249141849,2719,SQL QUERY 13,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,133,0,1,1,null,2719,0,0
+1646249144568,2667,SQL QUERY 14,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3282,0,1,1,null,2667,0,0
+1646249147235,1903,SQL QUERY 15,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1360,0,1,1,null,1902,0,0
+1646249149138,3560,SQL QUERY 16,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,73,0,1,1,null,3560,0,0
+1646249152698,3915,SQL QUERY 17,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,346,0,1,1,null,3915,0,0
+1646249156613,3014,SQL QUERY 18,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,10384,0,1,1,null,3013,0,0
+1646249159627,3031,SQL QUERY 19,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4231,0,1,1,null,3031,0,0
+1646249162657,402,SQL QUERY 20,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15701,0,1,1,null,401,0,0
+1646249163059,1810,SQL QUERY 21,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4247,0,1,1,null,1810,0,0
+1646249164869,1795,SQL QUERY 22,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7081,0,1,1,null,1794,0,0
+1646249166664,2273,SQL QUERY 23,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,16,0,1,1,null,2273,0,0
+1646249168938,521,SQL QUERY 24,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,43,0,1,1,null,520,0,0
+1646249169459,3852,SQL QUERY 25,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,105,0,1,1,null,3852,0,0
+1646249173311,2462,SQL QUERY 26,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5212,0,1,1,null,2462,0,0
+1646249175774,2469,SQL QUERY 27,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5605,0,1,1,null,2468,0,0
+1646249178243,3734,SQL QUERY 28,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,253,0,1,1,null,3734,0,0
+1646249181977,4183,SQL QUERY 29,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,113,0,1,1,null,4183,0,0
+1646249186160,537,SQL QUERY 31,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4120,0,1,1,null,536,0,0
+1646249186697,984,SQL QUERY 33,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1249,0,1,1,null,983,0,0
+1646249187681,2244,SQL QUERY 34,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6518,0,1,1,null,2244,0,0
+1646249189925,4001,SQL QUERY 35,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5739,0,1,1,null,4000,0,0
+1646249193926,352,SQL QUERY 36,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4223,0,1,1,null,351,0,0
+1646249194278,1912,SQL QUERY 37,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,255,0,1,1,null,1912,0,0
+1646249196190,392,SQL QUERY 38,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,11,0,1,1,null,391,0,0
+1646249196582,432,SQL QUERY 39,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,9763,0,1,1,null,431,0,0
+1646249197014,2889,SQL QUERY 40,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3288,0,1,1,null,2889,0,0
+1646249199903,1628,SQL QUERY 42,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,303,0,1,1,null,1628,0,0
+1646249201531,1764,SQL QUERY 43,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,646,0,1,1,null,1764,0,0
+1646249203296,411,SQL QUERY 44,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,433,0,1,1,null,411,0,0
+1646249203707,2824,SQL QUERY 45,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,318,0,1,1,null,2824,0,0
+1646249206531,3471,SQL QUERY 46,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5385,0,1,1,null,3471,0,0
+1646249210002,518,SQL QUERY 47,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4947,0,1,1,null,518,0,0
+1646249210520,2428,SQL QUERY 48,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,23,0,1,1,null,2427,0,0
+1646249212949,602,SQL QUERY 49,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1007,0,1,1,null,601,0,0
+1646249213551,2569,SQL QUERY 50,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,669,0,1,1,null,2569,0,0
+1646249216121,375,SQL QUERY 51,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3986,0,1,1,null,374,0,0
+1646249216496,1615,SQL QUERY 52,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3991,0,1,1,null,1615,0,0
+1646249218111,364,SQL QUERY 53,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2168,0,1,1,null,363,0,0
+1646249218475,549,SQL QUERY 54,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,35,0,1,1,null,549,0,0
+1646249219024,1642,SQL QUERY 55,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3427,0,1,1,null,1641,0,0
+1646249220666,996,SQL QUERY 56,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2399,0,1,1,null,996,0,0
+1646249221662,686,SQL QUERY 57,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5929,0,1,1,null,685,0,0
+1646249222347,513,SQL QUERY 59,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,19020,0,1,1,null,511,0,0
+1646249222861,960,SQL QUERY 60,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2567,0,1,1,null,960,0,0
+1646249223821,8984,SQL QUERY 61,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,39,0,1,1,null,8984,0,0
+1646249232806,2527,SQL QUERY 62,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4820,0,1,1,null,2527,0,0
+1646249235333,360,SQL QUERY 63,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2166,0,1,1,null,359,0,0
+1646249235693,1052,SQL QUERY 64,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2509,0,1,1,null,1051,0,0
+1646249236745,3132,SQL QUERY 65,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13219,0,1,1,null,3132,0,0
+1646249239876,364,SQL QUERY 67,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6039,0,1,1,null,364,0,0
+1646249240240,3262,SQL QUERY 68,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6434,0,1,1,null,3261,0,0
+1646249243503,4078,SQL QUERY 69,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,101,0,1,1,null,4078,0,0
+1646249247580,1134,SQL QUERY 70,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,83,0,1,1,null,1134,0,0
+1646249248714,3848,SQL QUERY 71,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,44207,0,1,1,null,3846,0,0
+1646249252563,438,SQL QUERY 72,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,7102,0,1,1,null,438,0,0
+1646249253002,2131,SQL QUERY 73,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,343,0,1,1,null,2131,0,0
+1646249255133,569,SQL QUERY 74,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,3161,0,1,1,null,568,0,0
+1646249255702,739,SQL QUERY 75,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,5313,0,1,1,null,738,0,0
+1646249256441,4675,SQL QUERY 76,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4988,0,1,1,null,4675,0,0
+1646249261115,642,SQL QUERY 77,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,1923,0,1,1,null,642,0,0
+1646249261757,520,SQL QUERY 78,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4229,0,1,1,null,519,0,0
+1646249262278,2109,SQL QUERY 79,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4262,0,1,1,null,2108,0,0
+1646249264387,631,SQL QUERY 80,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6859,0,1,1,null,630,0,0
+1646249265018,460,SQL QUERY 81,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13674,0,1,1,null,459,0,0
+1646249265478,1823,SQL QUERY 82,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,239,0,1,1,null,1823,0,0
+1646249267302,992,SQL QUERY 83,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2259,0,1,1,null,992,0,0
+1646249268294,2233,SQL QUERY 84,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,933,0,1,1,null,2233,0,0
+1646249270527,3120,SQL QUERY 85,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,198,0,1,1,null,3120,0,0
+1646249273647,374,SQL QUERY 86,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,2918,0,1,1,null,374,0,0
+1646249274021,536,SQL QUERY 87,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,15,0,1,1,null,535,0,0
+1646249274557,13071,SQL QUERY 88,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,139,0,1,1,null,13071,0,0
+1646249287628,388,SQL QUERY 89,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,6724,0,1,1,null,388,0,0
+1646249288016,2812,SQL QUERY 90,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,31,0,1,1,null,2812,0,0
+1646249290829,2883,SQL QUERY 91,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,204,0,1,1,null,2882,0,0
+1646249293712,1656,SQL QUERY 93,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,24,0,1,1,null,1656,0,0
+1646249295368,3606,SQL QUERY 94,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,71,0,1,1,null,3606,0,0
+1646249298973,1119,SQL QUERY 95,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,69,0,1,1,null,1119,0,0
+1646249300092,1865,SQL QUERY 96,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,13,0,1,1,null,1865,0,0
+1646249301957,335,SQL QUERY 97,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,60,0,1,1,null,335,0,0
+1646249302293,672,SQL QUERY 98,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,441032,0,1,1,null,653,0,1
+1646249302965,2422,SQL QUERY 99,200,OK,Spark Thread Group SQL_Analytics 1 GB Delta small 1-1,text,true,,4707,0,1,1,null,2421,0,0

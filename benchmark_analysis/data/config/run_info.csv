@@ -1,10 +1,10 @@
 id,run_file_name,friendly_name,description,updated_at
-1,databricks_analytics_1gb_delta_2xsmall,Databricks 1GB Delta 2X-Small,Delta ables / no partitions,2021-07-27
-2,databricks_analytics_1gb_delta_xsmall,Databricks 1GB Delta X-Small,Delta tables / no partitions,2021-07-27
-3,databricks_analytics_1gb_delta_small,Databricks 1GB Delta Small,Delta tables / no partitions,2021-07-27
-4,synapse_1gb_parquet_openrowset,Synapse 1GB Parquet Openrowset,Parquet files / no partitions / WITH columns specified,2021-07-27
-5,synapse_1gb_delta_openrowset,Synapse 1GB Delta Openrowset,Delta files / no partitions / WITH columns specified,2021-07-27
-6,synapse_1gb_parquet_external,Synapse 1GB Parquet External,Parquet files / no partitions/ columns specified / using EXTERNAL table,2021-07-27
+1,databricks_analytics_1gb_delta_2xsmall,Databricks 1GB Delta 2X-Small,Delta tables / no partitions,2022-03-02
+2,databricks_analytics_1gb_delta_xsmall,Databricks 1GB Delta X-Small,Delta tables / no partitions,2022-03-02
+3,databricks_analytics_1gb_delta_small,Databricks 1GB Delta Small,Delta tables / no partitions,2022-03-02
+4,synapse_1gb_parquet_openrowset,Synapse 1GB Parquet Openrowset,Parquet files / no partitions / WITH columns specified,2022-03-02
+5,synapse_1gb_delta_openrowset,Synapse 1GB Delta Openrowset,Delta files / no partitions / WITH columns specified,2022-03-02
+6,synapse_1gb_parquet_external,Synapse 1GB Parquet External,Parquet files / no partitions/ columns specified / using EXTERNAL table,2022-03-02
 20,synapse_10gb_parquet_partitioned_openrowset,Synapse 10GB Parquet Part. Openrowset,Parquet files / partitions / columns specified using WITH,2021-07-27
 21,synapse_10gb_delta_partitioned_openrowset,Synapse 10GB Delta Part. Openrowset,Delta files / partitions / columns specified using WITH,2021-07-27
 22,synapse_10gb_delta,Synapse 10GB Delta No Part. Openrowset no schema,Delta files / no partitions / no columns specified,2021-07-27

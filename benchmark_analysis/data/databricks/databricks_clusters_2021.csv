@@ -1,0 +1,6 @@
+cluster_type,cluster_dbu_count,hourly_dbu_total_cost,hourly_azure_vm_total_cost,hourly_combined_cost
+2xsmall,4,0.88,1.28,2.16
+xsmall,6,1.32,1.92,3.24
+small,12,2.64,3.84,6.48
+medium,24,5.28,7.68,12.96
+large,40,8.8,12.06,20.86
